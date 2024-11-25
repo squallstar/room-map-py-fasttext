@@ -29,6 +29,13 @@ exec: true     # Enable running commands in your container.
 network:
   connect: true # Enable Service Connect for intra-environment traffic between services.
 
+storage:
+  ephemeral: 40
+  volumes:
+    scratch:
+      path: /var/data
+      read_only: false
+
 # storage:
   # readonly_fs: true       # Limit to read-only access to mounted root filesystems.
 
