@@ -11,5 +11,19 @@ Then, download [cc.en.300.bin](https://dl.fbaipublicfiles.com/fasttext/vectors-c
 ## Run
 
 ```
+python3 server.py
+```
+
+Test with:
+
+```
 curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://localhost:5555/
+```
+
+---
+
+## Docker run
+
+```
+docker build -t room-mapping .
 ```
