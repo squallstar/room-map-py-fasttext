@@ -11,5 +11,5 @@ Then, download [cc.en.300.bin](https://dl.fbaipublicfiles.com/fasttext/vectors-c
 ## Run
 
 ```
-curl -X POST -H "Content-Type: application/json" -d @input.json http://localhost:5555/
+curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://localhost:5555/
 ```
