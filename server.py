@@ -3,9 +3,13 @@ from flask import Flask, request, jsonify
 import fasttext
 from scipy.spatial.distance import cosine
 import re
+from sentence_transformers import SentenceTransformer, util
 
 # Path to the FastText binary file
 EMBEDDINGS_PATH = "cc.en.300.bin"
+
+# Load the trained model
+model = SentenceTransformer("room_mapping_model")
 
 # Load FastText model
 print("Loading FastText model...")
@@ -93,6 +97,34 @@ def process_request():
         result = map_rooms(input_data)
 
         return jsonify(result)  # Return the result as JSON
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
+@app.route("/trained", methods=["POST"])
+def match_rooms():
+    try:
+        # Parse input JSON
+        data = request.get_json()
+        if not data or "nuitee_room_name" not in data or "provider_room_name" not in data:
+            return jsonify({"error": "Invalid input format. Provide 'nuitee_room_name' and 'provider_room_name'"}), 400
+
+        nuitee_room_name = data["nuitee_room_name"]
+        provider_room_name = data["provider_room_name"]
+
+        # Encode the room names
+        nuitee_embedding = model.encode(nuitee_room_name, convert_to_tensor=True)
+        provider_embedding = model.encode(provider_room_name, convert_to_tensor=True)
+
+        # Calculate similarity
+        similarity_score = util.pytorch_cos_sim(nuitee_embedding, provider_embedding).item()
+
+        # Return the result
+        return jsonify({
+            "nuitee_room_name": nuitee_room_name,
+            "provider_room_name": provider_room_name,
+            "similarity_score": similarity_score
+        })
+
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 

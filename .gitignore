@@ -1,3 +1,5 @@
 fastText
 .DS_Store
 cc.en.300.bin
+room_mapping_training.txt
+room_names.csv
