@@ -12,7 +12,7 @@ with open("room_mapping_training.txt", "r", encoding="utf-8") as f:
 
 
 # Load a pre-trained model
-model = SentenceTransformer('all-MiniLM-L6-v2', device='cpu')
+model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # DataLoader for training
 train_dataloader = DataLoader(training_data, shuffle=True, batch_size=16)
