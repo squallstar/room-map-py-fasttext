@@ -1,4 +1,4 @@
-# Room mapping draft with Fasttext
+# Room mapping
 
 ## Install
 
@@ -6,9 +6,9 @@
 pip install flask fasttext scipy sentence-transformers datasets 'accelerate>=0.26.0'
 ```
 
-Then, download [cc.en.300.bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz) and put it in the same directory as the server and unzip it.
+## Run with the base Fasttext model
 
-## Run
+Download [cc.en.300.bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz) and put it in the same directory as the server and unzip it.
 
 ```
 python3 server.py
@@ -22,13 +22,15 @@ curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://l
 
 ---
 
-## Docker run
+### Docker run
 
 ```
 docker build -t room-mapping .
 ```
 
 ---
+
+# Run with a trained model
 
 ## Train the model
 
@@ -38,3 +40,5 @@ Put the [room_names.csv](https://nuiteetravel.slack.com/files/U05E5Q1CBDY/F08228
 python3 train_prep_data.py
 python3 train_model.py
 ```
+
+Then run the server and use the `/trained` route when making requests.
