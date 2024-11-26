@@ -43,6 +43,7 @@ def map_rooms(input_json):
     input_catalog = input_json["inputCatalog"]
 
     results = []
+    unmapped_rates = []
 
     for ref_property in reference_catalog:
         property_name = ref_property["propertyName"]
@@ -70,7 +71,8 @@ def map_rooms(input_json):
                             "supplierId": supplier_id,
                             "supplierRoomId": sup_room_id,
                             "supplierRoomName": sup_room_name,
-                            "cleanSupplierRoomName": clean_sup_room_name
+                            "cleanSupplierRoomName": clean_sup_room_name,
+                            "similarity": float(similarity)
                         })
 
             results.append({
@@ -83,7 +85,26 @@ def map_rooms(input_json):
                 "mappedRooms": mapped_rooms
             })
 
-    return {"Results": results}
+    # Identify unmapped rates
+    mapped_supplier_room_ids = {
+        mapped["supplierRoomId"]
+        for result in results
+        for mapped in result["mappedRooms"]
+    }
+
+    for input_property in input_catalog:
+        for supplier_room in input_property["supplierRoomInfo"]:
+            if supplier_room["supplierRoomId"] not in mapped_supplier_room_ids:
+                unmapped_rates.append({
+                    "supplierId": input_property["supplierId"],
+                    "supplierRoomId": supplier_room["supplierRoomId"],
+                    "supplierRoomName": supplier_room["supplierRoomName"]
+                })
+
+    return {
+        "Results": results,
+        "Unmapped": unmapped_rates
+    }
 
 # Define the POST endpoint
 @app.route("/", methods=["POST"])
