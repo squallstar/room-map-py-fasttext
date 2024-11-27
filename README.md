@@ -14,10 +14,18 @@ Download [cc.en.300.bin](https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/c
 python3 server.py
 ```
 
-Test with:
+### Test
+
+Untrained model:
 
 ```
 curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://localhost:5555/
+```
+
+Trained model:
+
+```
+curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://localhost:5555/trained
 ```
 
 ---
