@@ -137,6 +137,13 @@
           "supplierRoomName": "Style Room(1 Queen Bed) - Room Only"
         },
         {
+          "cleanSupplierRoomName": "standard room breakfast",
+          "similarity": 0.6926661133766174,
+          "supplierId": "nuitee",
+          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTQMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCM34GIYHYMJRGE2TANBDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
+          "supplierRoomName": "standard room - Breakfast"
+        },
+        {
           "cleanSupplierRoomName": "style room breakfast",
           "similarity": 0.8972488045692444,
           "supplierId": "nuitee",
@@ -420,6 +427,13 @@
           "supplierRoomName": "Singular Room, 2 Twin Beds - Breakfast buffet"
         },
         {
+          "cleanSupplierRoomName": "singular room 1 king bed breakfast buffet",
+          "similarity": 0.6904562711715698,
+          "supplierId": "nuitee",
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4HB6DCMBZGM4DII2CIIRU4USGJYRTEMBSGQWTAMRNGI2Q",
+          "supplierRoomName": "Singular Room, 1 King Bed - Breakfast buffet"
+        },
+        {
           "cleanSupplierRoomName": "singular room room only",
           "similarity": 0.9166876077651978,
           "supplierId": "nuitee",
@@ -537,6 +551,13 @@
           "supplierId": "nuitee",
           "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJUPQYTQ7BRGIZTINJSENBEEI2SIZHCGMRQGI2C2MBSFUZDM",
           "supplierRoomName": "Singular Room, 2 Twin Beds - Breakfast buffet"
+        },
+        {
+          "cleanSupplierRoomName": "singular room 1 king bed breakfast buffet",
+          "similarity": 0.6904562711715698,
+          "supplierId": "nuitee",
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTI7BRHF6DCMRTGQ2TEI2CIIRVERSOEMZDAMRUFUYDELJSGY",
+          "supplierRoomName": "Singular Room, 1 King Bed - Breakfast buffet"
         },
         {
           "cleanSupplierRoomName": "singular room 2 twin beds room only",
@@ -902,6 +923,13 @@
           "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Breakfast buffet"
         },
         {
+          "cleanSupplierRoomName": "single with views room only",
+          "similarity": 0.6623414158821106,
+          "supplierId": "nuitee",
+          "supplierRoomId": "G4ZTMOJWMU3DONTDGY2TEMBXG43DSNZUGY4DEMBXGY3DSNRVG43TOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZTHAYS2MJTGAYDAM34KJDE47BSGAZDIMBVGEZXYN34GEYTGOBWGURVETZDKJDE4IZSGAZDILJQGUWTCMY",
+          "supplierRoomName": "single with views - Room Only"
+        },
+        {
           "cleanSupplierRoomName": "singular room with glimpses of notre dame room only",
           "similarity": 0.9611039757728577,
           "supplierId": "nuitee",
@@ -1092,38 +1120,6 @@
     }
   ],
   "Unmapped": [
-    {
-      "cleanSupplierRoomName": "standard room breakfast",
-      "closestMatch": "style room",
-      "similarity": 0.6926661133766174,
-      "supplierId": "nuitee",
-      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTQMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCM34GIYHYMJRGE2TANBDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
-      "supplierRoomName": "standard room - Breakfast"
-    },
-    {
-      "cleanSupplierRoomName": "singular room 1 king bed breakfast buffet",
-      "closestMatch": "singular room",
-      "similarity": 0.6904562711715698,
-      "supplierId": "nuitee",
-      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4HB6DCMBZGM4DII2CIIRU4USGJYRTEMBSGQWTAMRNGI2Q",
-      "supplierRoomName": "Singular Room, 1 King Bed - Breakfast buffet"
-    },
-    {
-      "cleanSupplierRoomName": "singular room 1 king bed breakfast buffet",
-      "closestMatch": "singular room",
-      "similarity": 0.6904562711715698,
-      "supplierId": "nuitee",
-      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTI7BRHF6DCMRTGQ2TEI2CIIRVERSOEMZDAMRUFUYDELJSGY",
-      "supplierRoomName": "Singular Room, 1 King Bed - Breakfast buffet"
-    },
-    {
-      "cleanSupplierRoomName": "single with views room only",
-      "closestMatch": "singular room with glimpses of notre dame",
-      "similarity": 0.6623414158821106,
-      "supplierId": "nuitee",
-      "supplierRoomId": "G4ZTMOJWMU3DONTDGY2TEMBXG43DSNZUGY4DEMBXGY3DSNRVG43TOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZTHAYS2MJTGAYDAM34KJDE47BSGAZDIMBVGEZXYN34GEYTGOBWGURVETZDKJDE4IZSGAZDILJQGUWTCMY",
-      "supplierRoomName": "single with views - Room Only"
-    },
     {
       "cleanSupplierRoomName": "single with views breakfast",
       "closestMatch": "singular room with glimpses of notre dame",

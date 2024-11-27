@@ -1,20 +1,54 @@
 import os
 import subprocess
 import json
+from collections import defaultdict
 
-# Directory containing JSON files
+# Directories
 input_directory = 'tests/'
-output_directory = 'tests/results'  # Save responses in a separate directory
+output_directory = 'tests/results'
+compare_directory = 'tests/cupid'
 endpoint_url = "http://127.0.0.1:5555/"  # Replace with your endpoint URL
 
-# Ensure the output directory exists
+# Ensure the output and compare directories exist
 os.makedirs(output_directory, exist_ok=True)
+
+# Function to load a JSON file
+def load_json(file_path):
+    try:
+        with open(file_path, 'r') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Error loading JSON file {file_path}: {e}")
+        return None
+
+# Compare mappings and output differences
+def compare_results(current, previous):
+    current_mapped = {
+        result["roomId"]: len(result.get("mappedRooms", []))
+        for result in current.get("Results", [])
+    }
+    previous_mapped = {
+        result["roomId"]: len(result.get("mappedRooms", []))
+        for result in previous.get("Results", [])
+    }
+
+    differences = defaultdict(dict)
+    for room_id in set(current_mapped.keys()).union(previous_mapped.keys()):
+        current_count = current_mapped.get(room_id, 0)
+        previous_count = previous_mapped.get(room_id, 0)
+        if current_count != previous_count:
+            differences[room_id]["current"] = current_count
+            differences[room_id]["previous"] = previous_count
+            differences[room_id]["difference"] = current_count - previous_count
+
+    return differences
 
 # Process each JSON file in the directory
 for filename in os.listdir(input_directory):
     if filename.endswith('.json'):
         input_file_path = os.path.join(input_directory, filename)
         output_file_path = os.path.join(output_directory, filename.replace('.json', '-response.json'))
+        compare_file_path = os.path.join(compare_directory, filename.replace('.json', '-response.json'))
 
         print(f"Processing file: {filename}")
 
@@ -41,24 +75,25 @@ for filename in os.listdir(input_directory):
                     outfile.write(response.stdout)
                 print(f"Response saved to: {output_file_path}")
 
-                # Load the response JSON and extract metrics
-                response_data = json.loads(response.stdout)
+                # Load the response JSON
+                current_response = json.loads(response.stdout)
 
-                # Count mappedRooms across all Results
-                mapped_count = sum(len(result.get('mappedRooms', [])) for result in response_data.get('Results', []))
+                # Compare with previous results if available
+                if os.path.exists(compare_file_path):
+                    previous_response = load_json(compare_file_path)
+                    if previous_response:
+                        differences = compare_results(current_response, previous_response)
 
-                # Count Unmapped
-                unmapped_count = len(response_data.get('Unmapped', []))
+                        # Output differences
+                        print(f"Differences for {filename}:")
+                        for room_id, diff in differences.items():
+                            print(f"  Room ID: {room_id}")
+                            print(f"    > Current model: {diff['current']} - Cupid model: {diff['previous']} - Difference: {diff['difference']}")
+                else:
+                    print(f"No previous results found for {filename}. Skipping comparison.\r")
 
-                # Calculate total and percentage
-                total_count = mapped_count + unmapped_count
-                mapped_percentage = (mapped_count / total_count * 100) if total_count > 0 else 0
+                print(f"\r")
 
-                # Print the metrics
-                print(f"Metrics for {filename}:")
-                print(f"  Mapped Rooms: {mapped_count}")
-                print(f"  Unmapped Rooms: {unmapped_count}")
-                print(f"  Percentage Mapped: {mapped_percentage:.2f}%\n")
             else:
                 print(f"Error making request for file {filename}: {response.stderr}")
 
