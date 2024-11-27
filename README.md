@@ -22,6 +22,16 @@ curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://l
 
 ---
 
+### Run tests
+
+```
+python3 run_tests.py
+```
+
+Then check the contents of the `tests/results` folder.
+
+---
+
 ### Docker run
 
 ```
