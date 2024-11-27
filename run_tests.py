@@ -12,6 +12,10 @@ endpoint_url = "http://127.0.0.1:5555/"  # Replace with your endpoint URL
 # Ensure the output and compare directories exist
 os.makedirs(output_directory, exist_ok=True)
 
+# Initialize counters for improvements and regressions
+total_improvements = 0
+total_regressions = 0
+
 # Function to load a JSON file
 def load_json(file_path):
     try:
@@ -87,6 +91,12 @@ for filename in os.listdir(input_directory):
                         # Output differences
                         print(f"Differences for {filename}:")
                         for room_id, diff in differences.items():
+                            diff_value = diff["difference"]
+                            if diff_value > 0:
+                                total_improvements += diff_value
+                            elif diff_value < 0:
+                                total_regressions += abs(diff_value)
+
                             print(f"  Room ID: {room_id}")
                             print(f"    > Current model: {diff['current']} - Cupid model: {diff['previous']} - Difference: {diff['difference']}")
                 else:
@@ -99,5 +109,21 @@ for filename in os.listdir(input_directory):
 
         except Exception as e:
             print(f"An error occurred while processing file {filename}: {e}")
+
+# Calculate overall metrics
+if total_improvements + total_regressions > 0:
+    net_improvement = total_improvements - total_regressions
+    total_changes = total_improvements + total_regressions
+    improvement_ratio = (net_improvement / total_changes) * 100
+
+    # Output the overall results
+    print("\nOverall Results:")
+    print(f"  Total Improvements: {total_improvements}")
+    print(f"  Total Regressions: {total_regressions}")
+    print(f"  Net Improvement: {net_improvement}")
+    print(f"  Overall Improvement Ratio: {improvement_ratio:.2f}%")
+else:
+    print("\nNo changes detected across all files.")
+
 
 print("Processing complete.")

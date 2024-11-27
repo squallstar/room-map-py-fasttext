@@ -83,7 +83,7 @@ def map_rooms_trained_fasttext(input_json):
                     best_similarity = similarity
                     best_match = clean_ref_room_name
 
-            if best_similarity > 0.6 and best_match:
+            if best_similarity > 0.68 and best_match:
                 # Aggregate mapped rooms under the best matching reference room
                 ref_room = ref_room_mapping[best_match]
                 ref_room_key = (ref_room["propertyId"], ref_room["roomId"])

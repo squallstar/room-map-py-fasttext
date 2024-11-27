@@ -857,6 +857,13 @@
           "supplierRoomName": "standard room - Room Only"
         },
         {
+          "cleanSupplierRoomName": "single breakfast",
+          "similarity": 0.48788759112358093,
+          "supplierId": "nuitee",
+          "supplierRoomId": "G4ZTMOJWMU3DONTDGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQZDM7BRGMZTAMZRENBEEI2SIZHCGMRQGI2C2MBVFUYTG",
+          "supplierRoomName": "single - Breakfast"
+        },
+        {
           "cleanSupplierRoomName": "singular extra room breakfast",
           "similarity": 0.9258607029914856,
           "supplierId": "nuitee",
@@ -1014,6 +1021,13 @@
           "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Room Only"
         },
         {
+          "cleanSupplierRoomName": "single with views breakfast",
+          "similarity": 0.5632193684577942,
+          "supplierId": "nuitee",
+          "supplierRoomId": "G4ZTMOJWMU3DONTDGY2TEMBXG43DSNZUGY4DEMBXGY3DSNRVG43TOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZTHAYS2MJTGAYDAM34KJDE47BSGAZDIMBVGEZXYMRUPQYTEMZQGIZSGQSCENJEMTRDGIYDENBNGA2S2MJT",
+          "supplierRoomName": "single with views - Breakfast"
+        },
+        {
           "cleanSupplierRoomName": "singular room with glimpses of notre dame breakfast",
           "similarity": 0.9705787301063538,
           "supplierId": "nuitee",
@@ -1119,22 +1133,5 @@
       "roomName": "Singular Room with Glimpses of Notre Dame"
     }
   ],
-  "Unmapped": [
-    {
-      "cleanSupplierRoomName": "single with views breakfast",
-      "closestMatch": "singular room with glimpses of notre dame",
-      "similarity": 0.5632193684577942,
-      "supplierId": "nuitee",
-      "supplierRoomId": "G4ZTMOJWMU3DONTDGY2TEMBXG43DSNZUGY4DEMBXGY3DSNRVG43TOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZTHAYS2MJTGAYDAM34KJDE47BSGAZDIMBVGEZXYMRUPQYTEMZQGIZSGQSCENJEMTRDGIYDENBNGA2S2MJT",
-      "supplierRoomName": "single with views - Breakfast"
-    },
-    {
-      "cleanSupplierRoomName": "single breakfast",
-      "closestMatch": "singular extra room",
-      "similarity": 0.48788759112358093,
-      "supplierId": "nuitee",
-      "supplierRoomId": "G4ZTMOJWMU3DONTDGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQZDM7BRGMZTAMZRENBEEI2SIZHCGMRQGI2C2MBVFUYTG",
-      "supplierRoomName": "single - Breakfast"
-    }
-  ]
+  "Unmapped": []
 }
