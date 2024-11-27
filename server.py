@@ -18,7 +18,7 @@ def cosine_similarity(vec1, vec2):
 # Function to clean and normalize room names
 def clean_text(text):
     text = text.lower()
-    text = re.sub(r"[^a-zA-Z0-9\s]", "", text)  # Remove special characters
+    text = re.sub(r"[^a-zA-Z0-9\s]", " ", text)  # Remove special characters
     text = re.sub(r"\s+", " ", text).strip()    # Remove extra spaces
     return text
 
@@ -83,7 +83,7 @@ def map_rooms_trained_fasttext(input_json):
                     best_similarity = similarity
                     best_match = clean_ref_room_name
 
-            if best_similarity > 0.7 and best_match:
+            if best_similarity > 0.695 and best_match:
                 # Aggregate mapped rooms under the best matching reference room
                 ref_room = ref_room_mapping[best_match]
                 ref_room_key = (ref_room["propertyId"], ref_room["roomId"])
