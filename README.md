@@ -11,7 +11,8 @@ pip install flask fasttext scipy sentence-transformers datasets 'accelerate>=0.2
 Put the [room_names.csv](https://nuiteetravel.slack.com/files/U05E5Q1CBDY/F082287QKP1/4000000.zip) file in the same directory as the training scripts.
 
 ```
-python3 train_model.py
+python3 train_prep_data.py
+python3 train_model_fasttext.py
 ```
 
 ## Run the server

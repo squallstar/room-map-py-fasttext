@@ -3,3 +3,8 @@ fastText
 cc.en.300.bin
 room_mapping_training.txt
 room_names.csv
+fasttext_training.txt
+fasttext_training_balanced.txt
+room_mapping_model
+room_mapping_training_with_labels.txt
+room_name_similarity_model.bin
