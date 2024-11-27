@@ -5,7 +5,7 @@ FROM python:3
 WORKDIR /usr/src/app
 
 # Install Python dependencies
-RUN pip install flask fasttext scipy
+RUN pip install flask fasttext
 
 # Download and unzip the FastText embeddings
 RUN curl -o cc.en.300.bin.gz https://dl.fbaipublicfiles.com/fasttext/vectors-crawl/cc.en.300.bin.gz && \
