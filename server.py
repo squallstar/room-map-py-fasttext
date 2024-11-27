@@ -5,16 +5,19 @@ from scipy.spatial.distance import cosine
 import re
 from sentence_transformers import SentenceTransformer, util
 from torch.nn.functional import normalize
-
-# Load the trained model
-model = SentenceTransformer("room_mapping_model")
+from sentence_transformers.util import pytorch_cos_sim
+import numpy as np  # Ensure numpy is imported
 
 # Load the FastText model
-model_path = "room_mapping_model.bin"  # Update with your model path
+model_path = "cc.en.300.bin"  # Update with your model path
 ft_model = fasttext.load_model(model_path)
 
 # Initialize Flask app
 app = Flask(__name__)
+
+def cosine_similarity(vec1, vec2):
+    """Calculate cosine similarity between two vectors."""
+    return (vec1 @ vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
 
 # Function to clean and normalize room names
 def clean_text(text):
@@ -32,186 +35,111 @@ def preprocess(text):
     text = re.sub(r'\s+', ' ', text)          # Remove extra spaces
     return text.strip()
 
-def map_rooms_trained(input_json):
-    reference_catalog = input_json["referenceCatalog"]
-    input_catalog = input_json["inputCatalog"]
+def compute_embeddings(texts):
+    """
+    Compute embeddings for a list of texts using the FastText model.
+    """
+    return {text: ft_model.get_sentence_vector(text) for text in texts}
 
-    results = []
-    unmapped_rates = []
-
-    # Precompute embeddings for reference rooms
-    reference_embeddings = {}
-    for ref_property in reference_catalog:
-        for ref_room in ref_property["referenceRoomInfo"]:
-            ref_room_name = clean_text(ref_room["roomName"])
-            reference_embeddings[ref_room["roomId"]] = normalize(model.encode(ref_room_name, convert_to_tensor=True), p=2, dim=0)
-
-    # Precompute embeddings for supplier rooms
-    supplier_embeddings = {}
-    for input_property in input_catalog:
-        for supplier_room in input_property["supplierRoomInfo"]:
-            supplier_room_name = clean_text(supplier_room["supplierRoomName"])
-            supplier_embeddings[supplier_room["supplierRoomId"]] = normalize(model.encode(supplier_room_name, convert_to_tensor=True), p=2, dim=0)
-
-    # Perform mapping
-    for ref_property in reference_catalog:
-        property_name = ref_property["propertyName"]
-        property_id = ref_property["propertyId"]
-
-        for ref_room in ref_property["referenceRoomInfo"]:
-            ref_room_id = ref_room["roomId"]
-            ref_room_name = ref_room["roomName"]
-            clean_ref_room_name = clean_text(ref_room_name)
-
-            # Get precomputed embedding
-            nuitee_embedding = reference_embeddings[ref_room_id]
-
-            mapped_rooms = []
-
-            for input_property in input_catalog:
-                supplier_id = input_property["supplierId"]
-
-                for supplier_room in input_property["supplierRoomInfo"]:
-                    sup_room_id = supplier_room["supplierRoomId"]
-                    sup_room_name = supplier_room["supplierRoomName"]
-
-                    # Get precomputed embedding
-                    provider_embedding = supplier_embeddings[sup_room_id]
-
-                    # Calculate similarity
-                    similarity = util.pytorch_cos_sim(nuitee_embedding, provider_embedding).item()
-
-                    if similarity > 0.8:  # Threshold for similarity
-                        mapped_rooms.append({
-                            "supplierId": supplier_id,
-                            "supplierRoomId": sup_room_id,
-                            "supplierRoomName": sup_room_name,
-                            "cleanSupplierRoomName": clean_text(sup_room_name),
-                            "similarity": float(similarity)
-                        })
-
-            results.append({
-                "propertyName": property_name,
-                "propertyId": property_id,
-                "roomId": ref_room_id,
-                "roomName": ref_room_name,
-                "cleanRoomName": clean_ref_room_name,
-                "roomDescription": "",
-                "mappedRooms": mapped_rooms
-            })
-
-    # Identify unmapped rates
-    mapped_supplier_room_ids = {
-        mapped["supplierRoomId"]
-        for result in results
-        for mapped in result["mappedRooms"]
-    }
-
-    for input_property in input_catalog:
-        for supplier_room in input_property["supplierRoomInfo"]:
-            if supplier_room["supplierRoomId"] not in mapped_supplier_room_ids:
-                unmapped_rates.append({
-                    "supplierId": input_property["supplierId"],
-                    "supplierRoomId": supplier_room["supplierRoomId"],
-                    "supplierRoomName": supplier_room["supplierRoomName"]
-                })
-
-    return {
-        "Results": results,
-        "Unmapped": unmapped_rates
-    }
 
 def map_rooms_trained_fasttext(input_json):
     reference_catalog = input_json["referenceCatalog"]
     input_catalog = input_json["inputCatalog"]
 
-    results = []
+    # Precompute embeddings for reference rooms
+    reference_embeddings = {}
+    ref_room_mapping = {}
+    for ref_property in reference_catalog:
+        for ref_room in ref_property["referenceRoomInfo"]:
+            clean_ref_room_name = clean_text(ref_room["roomName"])
+            if clean_ref_room_name not in reference_embeddings:
+                reference_embeddings[clean_ref_room_name] = ft_model.get_sentence_vector(clean_ref_room_name)
+                ref_room_mapping[clean_ref_room_name] = {
+                    "propertyName": ref_property["propertyName"],
+                    "propertyId": ref_property["propertyId"],
+                    "roomId": ref_room["roomId"],
+                    "roomName": ref_room["roomName"],
+                    "cleanRoomName": clean_ref_room_name,
+                }
+
+    # Precompute embeddings for supplier rooms
+    supplier_embeddings = {}
+    for supplier in input_catalog:
+        for sup_room in supplier["supplierRoomInfo"]:
+            clean_sup_room_name = clean_text(sup_room["supplierRoomName"])
+            if clean_sup_room_name not in supplier_embeddings:
+                supplier_embeddings[clean_sup_room_name] = ft_model.get_sentence_vector(clean_sup_room_name)
+
+    # Initialize results and unmapped rates
+    results = {}
     unmapped_rates = []
 
-    # Perform mapping
-    for ref_property in reference_catalog:
-        property_name = ref_property["propertyName"]
-        property_id = ref_property["propertyId"]
+    # Map supplier rooms to the highest scoring reference room
+    for supplier in input_catalog:
+        supplier_id = supplier["supplierId"]
 
-        for ref_room in ref_property["referenceRoomInfo"]:
-            ref_room_id = ref_room["roomId"]
-            ref_room_name = ref_room["roomName"]
-            clean_ref_room_name = clean_text(ref_room_name)
+        for sup_room in supplier["supplierRoomInfo"]:
+            sup_room_name = sup_room["supplierRoomName"]
+            sup_room_id = sup_room["supplierRoomId"]
+            clean_sup_room_name = clean_text(sup_room_name)
 
-            mapped_rooms = []
+            supplier_embedding = supplier_embeddings[clean_sup_room_name]
 
-            for input_property in input_catalog:
-                supplier_id = input_property["supplierId"]
+            # Find the best matching reference room
+            best_match = None
+            best_similarity = -1
 
-                for supplier_room in input_property["supplierRoomInfo"]:
-                    sup_room_id = supplier_room["supplierRoomId"]
-                    sup_room_name = supplier_room["supplierRoomName"]
+            for clean_ref_room_name, ref_embedding in reference_embeddings.items():
+                similarity = cosine_similarity(supplier_embedding, ref_embedding)
 
-                    # Calculate similarity
-                    # Predict using the FastText model
-                    input_text = f"{clean_ref_room_name} {sup_room_name}"
-                    label, confidence = ft_model.predict(input_text)
-                    similarity = float(confidence[0])
+                if similarity > best_similarity:
+                    best_similarity = similarity
+                    best_match = clean_ref_room_name
 
-                    # log
-                    print(f"Test: {input_text} | Predicted: {label[0]} | Confidence: {similarity}")
+            if best_similarity > 0.7 and best_match:
+                # Aggregate mapped rooms under the best matching reference room
+                ref_room = ref_room_mapping[best_match]
+                ref_room_key = (ref_room["propertyId"], ref_room["roomId"])
 
-                    if similarity > 0.8:  # Threshold for similarity
-                        mapped_rooms.append({
-                            "supplierId": supplier_id,
-                            "supplierRoomId": sup_room_id,
-                            "supplierRoomName": sup_room_name,
-                            "cleanSupplierRoomName": clean_text(sup_room_name),
-                            "similarity": similarity
-                        })
+                if ref_room_key not in results:
+                    results[ref_room_key] = {
+                        "propertyName": ref_room["propertyName"],
+                        "propertyId": ref_room["propertyId"],
+                        "roomId": ref_room["roomId"],
+                        "roomName": ref_room["roomName"],
+                        "cleanRoomName": ref_room["cleanRoomName"],
+                        "roomDescription": "",  # Placeholder for room description
+                        "mappedRooms": [],
+                    }
 
-            results.append({
-                "propertyName": property_name,
-                "propertyId": property_id,
-                "roomId": ref_room_id,
-                "roomName": ref_room_name,
-                "cleanRoomName": clean_ref_room_name,
-                "roomDescription": "",
-                "mappedRooms": mapped_rooms
-            })
-
-    # Identify unmapped rates
-    mapped_supplier_room_ids = {
-        mapped["supplierRoomId"]
-        for result in results
-        for mapped in result["mappedRooms"]
-    }
-
-    for input_property in input_catalog:
-        for supplier_room in input_property["supplierRoomInfo"]:
-            if supplier_room["supplierRoomId"] not in mapped_supplier_room_ids:
+                results[ref_room_key]["mappedRooms"].append({
+                    "supplierId": supplier_id,
+                    "supplierRoomId": sup_room_id,
+                    "supplierRoomName": sup_room_name,
+                    "cleanSupplierRoomName": clean_sup_room_name,
+                    "similarity": float(best_similarity),
+                })
+            else:
+                # Mark as unmapped if no match exceeds the threshold
                 unmapped_rates.append({
-                    "supplierId": input_property["supplierId"],
-                    "supplierRoomId": supplier_room["supplierRoomId"],
-                    "supplierRoomName": supplier_room["supplierRoomName"]
+                    "supplierId": supplier_id,
+                    "supplierRoomId": sup_room_id,
+                    "supplierRoomName": sup_room_name,
+                    "cleanSupplierRoomName": clean_sup_room_name,
+                    "similarity": float(best_similarity) if best_match else 0,
+                    "closestMatch": best_match,
                 })
 
-    return {
-        "Results": results,
-        "Unmapped": unmapped_rates
-    }
+    # Sort unmapped rates by similarity in descending order
+    unmapped_rates.sort(key=lambda x: x["similarity"], reverse=True)
+
+    # Convert results dictionary to list
+    final_results = list(results.values())
+
+    return {"Results": final_results, "Unmapped": unmapped_rates}
 
 
 @app.route("/", methods=["POST"])
-def process_request_trained():
-    try:
-        input_data = request.get_json()  # Parse JSON input
-        if not input_data:
-            return jsonify({"error": "Invalid or missing JSON input"}), 400
-
-        # Process the mapping
-        result = map_rooms_trained(input_data)
-
-        return jsonify(result)  # Return the result as JSON
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
-@app.route("/trained", methods=["POST"])
 def process_request_trained_fasttext():
     try:
         input_data = request.get_json()  # Parse JSON input
