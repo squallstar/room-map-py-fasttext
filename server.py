@@ -9,6 +9,10 @@ from torch.nn.functional import normalize
 # Load the trained model
 model = SentenceTransformer("room_mapping_model")
 
+# Load the FastText model
+model_path = "room_mapping_model.bin"  # Update with your model path
+ft_model = fasttext.load_model(model_path)
+
 # Initialize Flask app
 app = Flask(__name__)
 
@@ -19,14 +23,14 @@ def clean_text(text):
     text = re.sub(r"\s+", " ", text).strip()    # Remove extra spaces
     return text
 
-ref_room_name = "Superior King Room"
-sup_room_name = "Style Room - Room Only"
-
-nuitee_embedding = normalize(model.encode(ref_room_name, convert_to_tensor=True), p=2, dim=0)
-supplier_embedding = normalize(model.encode(sup_room_name, convert_to_tensor=True), p=2, dim=0)
-
-similarity = util.pytorch_cos_sim(nuitee_embedding, supplier_embedding).item()
-print(f"Similarity: {similarity}")
+# Function to preprocess text
+def preprocess(text):
+    if not isinstance(text, str):
+        return ""
+    text = text.lower()                       # Lowercase
+    text = re.sub(r'[^\w\s]', '', text)       # Remove punctuation
+    text = re.sub(r'\s+', ' ', text)          # Remove extra spaces
+    return text.strip()
 
 def map_rooms_trained(input_json):
     reference_catalog = input_json["referenceCatalog"]
@@ -117,6 +121,81 @@ def map_rooms_trained(input_json):
         "Unmapped": unmapped_rates
     }
 
+def map_rooms_trained_fasttext(input_json):
+    reference_catalog = input_json["referenceCatalog"]
+    input_catalog = input_json["inputCatalog"]
+
+    results = []
+    unmapped_rates = []
+
+    # Perform mapping
+    for ref_property in reference_catalog:
+        property_name = ref_property["propertyName"]
+        property_id = ref_property["propertyId"]
+
+        for ref_room in ref_property["referenceRoomInfo"]:
+            ref_room_id = ref_room["roomId"]
+            ref_room_name = ref_room["roomName"]
+            clean_ref_room_name = clean_text(ref_room_name)
+
+            mapped_rooms = []
+
+            for input_property in input_catalog:
+                supplier_id = input_property["supplierId"]
+
+                for supplier_room in input_property["supplierRoomInfo"]:
+                    sup_room_id = supplier_room["supplierRoomId"]
+                    sup_room_name = supplier_room["supplierRoomName"]
+
+                    # Calculate similarity
+                    # Predict using the FastText model
+                    input_text = f"{clean_ref_room_name} {sup_room_name}"
+                    label, confidence = ft_model.predict(input_text)
+                    similarity = float(confidence[0])
+
+                    # log
+                    print(f"Test: {input_text} | Predicted: {label[0]} | Confidence: {similarity}")
+
+                    if similarity > 0.8:  # Threshold for similarity
+                        mapped_rooms.append({
+                            "supplierId": supplier_id,
+                            "supplierRoomId": sup_room_id,
+                            "supplierRoomName": sup_room_name,
+                            "cleanSupplierRoomName": clean_text(sup_room_name),
+                            "similarity": similarity
+                        })
+
+            results.append({
+                "propertyName": property_name,
+                "propertyId": property_id,
+                "roomId": ref_room_id,
+                "roomName": ref_room_name,
+                "cleanRoomName": clean_ref_room_name,
+                "roomDescription": "",
+                "mappedRooms": mapped_rooms
+            })
+
+    # Identify unmapped rates
+    mapped_supplier_room_ids = {
+        mapped["supplierRoomId"]
+        for result in results
+        for mapped in result["mappedRooms"]
+    }
+
+    for input_property in input_catalog:
+        for supplier_room in input_property["supplierRoomInfo"]:
+            if supplier_room["supplierRoomId"] not in mapped_supplier_room_ids:
+                unmapped_rates.append({
+                    "supplierId": input_property["supplierId"],
+                    "supplierRoomId": supplier_room["supplierRoomId"],
+                    "supplierRoomName": supplier_room["supplierRoomName"]
+                })
+
+    return {
+        "Results": results,
+        "Unmapped": unmapped_rates
+    }
+
 
 @app.route("/", methods=["POST"])
 def process_request_trained():
@@ -132,6 +211,20 @@ def process_request_trained():
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
+@app.route("/trained", methods=["POST"])
+def process_request_trained_fasttext():
+    try:
+        input_data = request.get_json()  # Parse JSON input
+        if not input_data:
+            return jsonify({"error": "Invalid or missing JSON input"}), 400
+
+        # Process the mapping
+        result = map_rooms_trained_fasttext(input_data)
+
+        return jsonify(result)  # Return the result as JSON
+    except Exception as e:
+        return jsonify({"error": str(e)}), 500
+
 # Run the server
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5555, debug=False)
+    app.run(host="0.0.0.0", port=5555, debug=True)

@@ -4,20 +4,35 @@ tags:
 - sentence-similarity
 - feature-extraction
 - generated_from_trainer
-- dataset_size:9
+- dataset_size:105505
 - loss:CosineSimilarityLoss
 base_model: sentence-transformers/all-MiniLM-L6-v2
 widget:
-- source_sentence: Superior King Room with Balcony
+- source_sentence: Junior King Suite
   sentences:
-  - Superior Room, 1 King-Size Bed, Balcony
-  - Superior Room, 1 King Bed, Balcony
-  - Superior Room, 1 King-Size Bed, Balcony
-- source_sentence: Superior King Room with Balcony
+  - Standard Room
+  - Standard Room
+  - Junior Suite, 1 King Bed
+- source_sentence: Oceanfront King Room with Balcony
   sentences:
-  - Superior Room, 1 King Bed, Balcony
-  - Superior Room, 1 King Bed, Balcony
-  - Superior Room, 1 King Bed, Balcony
+  - Room, 1 King Bed, Balcony, Oceanfront
+  - Double King Patio With Terrace Pool View NON REFUNDABLE
+  - Junior Studio Suite, 1 Double Bed
+- source_sentence: Standard 2 Queen Room
+  sentences:
+  - Business Suite, 1 King Bed, Jetted Tub, City View
+  - Main Casino, 2 Queen Beds, Non Smoking
+  - DOUBLE STANDARD
+- source_sentence: Standard Room
+  sentences:
+  - Standard Room
+  - Deluxe Room, 2 Queen Beds, Tower
+  - Executive Double Room
+- source_sentence: Standard Triple Room
+  sentences:
+  - TRIPLE STANDARD
+  - Double Non-Smoking Octavius Tower Pool View Room with One King Bed
+  - Standard Room, 2 Twin Beds
 pipeline_tag: sentence-similarity
 library_name: sentence-transformers
 ---
@@ -72,9 +87,9 @@ from sentence_transformers import SentenceTransformer
 model = SentenceTransformer("sentence_transformers_model_id")
 # Run inference
 sentences = [
-    'Superior King Room with Balcony',
-    'Superior Room, 1 King Bed, Balcony',
-    'Superior Room, 1 King Bed, Balcony',
+    'Standard Triple Room',
+    'TRIPLE STANDARD',
+    'Standard Room, 2 Twin Beds',
 ]
 embeddings = model.encode(sentences)
 print(embeddings.shape)
@@ -129,19 +144,19 @@ You can finetune this model on your own dataset.
 #### Unnamed Dataset
 
 
-* Size: 9 training samples
+* Size: 105,505 training samples
 * Columns: <code>sentence_0</code>, <code>sentence_1</code>, and <code>label</code>
-* Approximate statistics based on the first 9 samples:
-  |         | sentence_0                                                                     | sentence_1                                                                         | label                                                         |
-  |:--------|:-------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------|:--------------------------------------------------------------|
-  | type    | string                                                                         | string                                                                             | float                                                         |
-  | details | <ul><li>min: 7 tokens</li><li>mean: 7.0 tokens</li><li>max: 7 tokens</li></ul> | <ul><li>min: 10 tokens</li><li>mean: 11.11 tokens</li><li>max: 16 tokens</li></ul> | <ul><li>min: 1.0</li><li>mean: 1.0</li><li>max: 1.0</li></ul> |
+* Approximate statistics based on the first 1000 samples:
+  |         | sentence_0                                                                       | sentence_1                                                                      | label                                                         |
+  |:--------|:---------------------------------------------------------------------------------|:--------------------------------------------------------------------------------|:--------------------------------------------------------------|
+  | type    | string                                                                           | string                                                                          | float                                                         |
+  | details | <ul><li>min: 4 tokens</li><li>mean: 6.27 tokens</li><li>max: 14 tokens</li></ul> | <ul><li>min: 2 tokens</li><li>mean: 7.9 tokens</li><li>max: 52 tokens</li></ul> | <ul><li>min: 1.0</li><li>mean: 1.0</li><li>max: 1.0</li></ul> |
 * Samples:
-  | sentence_0                                   | sentence_1                                           | label            |
-  |:---------------------------------------------|:-----------------------------------------------------|:-----------------|
-  | <code>Superior King Room with Balcony</code> | <code>Superior Room, 1 King Bed, Balcony</code>      | <code>1.0</code> |
-  | <code>Superior King Room with Balcony</code> | <code>Superior Room, 1 King-Size Bed, Balcony</code> | <code>1.0</code> |
-  | <code>Superior King Room with Balcony</code> | <code>Superior Room, 1 King Bed, Balcony</code>      | <code>1.0</code> |
+  | sentence_0                                     | sentence_1                                          | label            |
+  |:-----------------------------------------------|:----------------------------------------------------|:-----------------|
+  | <code>Standard King Room</code>                | <code>Standard Room, 1 King Bed, Non Smoking</code> | <code>1.0</code> |
+  | <code>Superior Double Room</code>              | <code>Superior Double Room</code>                   | <code>1.0</code> |
+  | <code>Oceanfront King Room with Balcony</code> | <code>Room, 1 King Bed, Balcony, Oceanfront</code>  | <code>1.0</code> |
 * Loss: [<code>CosineSimilarityLoss</code>](https://sbert.net/docs/package_reference/sentence_transformer/losses.html#cosinesimilarityloss) with these parameters:
   ```json
   {
@@ -276,6 +291,50 @@ You can finetune this model on your own dataset.
 - `multi_dataset_batch_sampler`: round_robin
 
 </details>
+
+### Training Logs
+| Epoch  | Step  | Training Loss |
+|:------:|:-----:|:-------------:|
+| 0.0758 | 500   | 0.0085        |
+| 0.1516 | 1000  | 0.0002        |
+| 0.2274 | 1500  | 0.0001        |
+| 0.3033 | 2000  | 0.0001        |
+| 0.3791 | 2500  | 0.0001        |
+| 0.4549 | 3000  | 0.0001        |
+| 0.5307 | 3500  | 0.0001        |
+| 0.6065 | 4000  | 0.0           |
+| 0.6823 | 4500  | 0.0           |
+| 0.7582 | 5000  | 0.0           |
+| 0.8340 | 5500  | 0.0           |
+| 0.9098 | 6000  | 0.0           |
+| 0.9856 | 6500  | 0.0           |
+| 1.0614 | 7000  | 0.0           |
+| 1.1372 | 7500  | 0.0           |
+| 1.2130 | 8000  | 0.0           |
+| 1.2889 | 8500  | 0.0           |
+| 1.3647 | 9000  | 0.0           |
+| 1.4405 | 9500  | 0.0           |
+| 1.5163 | 10000 | 0.0           |
+| 1.5921 | 10500 | 0.0           |
+| 1.6679 | 11000 | 0.0           |
+| 1.7437 | 11500 | 0.0           |
+| 1.8196 | 12000 | 0.0           |
+| 1.8954 | 12500 | 0.0           |
+| 1.9712 | 13000 | 0.0           |
+| 2.0470 | 13500 | 0.0           |
+| 2.1228 | 14000 | 0.0           |
+| 2.1986 | 14500 | 0.0           |
+| 2.2745 | 15000 | 0.0           |
+| 2.3503 | 15500 | 0.0           |
+| 2.4261 | 16000 | 0.0           |
+| 2.5019 | 16500 | 0.0           |
+| 2.5777 | 17000 | 0.0           |
+| 2.6535 | 17500 | 0.0           |
+| 2.7293 | 18000 | 0.0           |
+| 2.8052 | 18500 | 0.0           |
+| 2.8810 | 19000 | 0.0           |
+| 2.9568 | 19500 | 0.0           |
+
 
 ### Framework Versions
 - Python: 3.11.4
