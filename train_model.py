@@ -1,15 +1,17 @@
+import csv
 from sentence_transformers import SentenceTransformer, losses, InputExample
 from torch.utils.data import DataLoader
 
-# Load your training data
+# Load your training data from a CSV file
 training_data = []
-with open("room_mapping_training.txt", "r", encoding="utf-8") as f:
-    for line in f:
-        parts = line.strip().split("\t")
-        if len(parts) == 2:  # Ensure there are exactly two parts
-            nuitee, provider = parts
-            training_data.append(InputExample(texts=[nuitee, provider], label=1.0))
 
+with open("room_names.csv", "r", encoding="utf-8") as f:
+    reader = csv.DictReader(f)
+    for row in reader:
+        room1 = row["nuitee_room_name"]
+        room2 = row["provider_room_name"]
+        label = 1.0  # Similarity label
+        training_data.append(InputExample(texts=[room1, room2], label=label))
 
 # Load a pre-trained model
 model = SentenceTransformer('all-MiniLM-L6-v2')
@@ -29,5 +31,3 @@ model.fit(
 )
 
 print("Model trained and saved at 'room_mapping_model'")
-
-#model.save("room_mapping_model")
