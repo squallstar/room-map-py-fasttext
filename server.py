@@ -1,15 +1,11 @@
 import json
 from flask import Flask, request, jsonify
 import fasttext
-from scipy.spatial.distance import cosine
 import re
-from sentence_transformers import SentenceTransformer, util
-from torch.nn.functional import normalize
-from sentence_transformers.util import pytorch_cos_sim
-import numpy as np  # Ensure numpy is imported
+import numpy as np
 
 # Load the FastText model
-model_path = "cc.en.300.bin"  # Update with your model path
+model_path = "cc.en.300.bin"
 ft_model = fasttext.load_model(model_path)
 
 # Initialize Flask app
@@ -25,15 +21,6 @@ def clean_text(text):
     text = re.sub(r"[^a-zA-Z0-9\s]", "", text)  # Remove special characters
     text = re.sub(r"\s+", " ", text).strip()    # Remove extra spaces
     return text
-
-# Function to preprocess text
-def preprocess(text):
-    if not isinstance(text, str):
-        return ""
-    text = text.lower()                       # Lowercase
-    text = re.sub(r'[^\w\s]', '', text)       # Remove punctuation
-    text = re.sub(r'\s+', ' ', text)          # Remove extra spaces
-    return text.strip()
 
 def compute_embeddings(texts):
     """
