@@ -64,7 +64,82 @@ def map_rooms(input_json):
                     sup_room_id = sup_room["supplierRoomId"]
                     clean_sup_room_name = clean_text(sup_room_name)
 
+                    # Calculate similarity
                     similarity = calculate_similarity(clean_ref_room_name, clean_sup_room_name)
+
+                    if similarity > 0.8:  # Threshold for similarity
+                        mapped_rooms.append({
+                            "supplierId": supplier_id,
+                            "supplierRoomId": sup_room_id,
+                            "supplierRoomName": sup_room_name,
+                            "cleanSupplierRoomName": clean_sup_room_name,
+                            "similarity": float(similarity)
+                        })
+
+            results.append({
+                "propertyName": property_name,
+                "propertyId": property_id,
+                "roomId": ref_room_id,
+                "roomName": ref_room_name,
+                "cleanRoomName": clean_ref_room_name,
+                "roomDescription": "",  # Placeholder for room description
+                "mappedRooms": mapped_rooms
+            })
+
+    # Identify unmapped rates
+    mapped_supplier_room_ids = {
+        mapped["supplierRoomId"]
+        for result in results
+        for mapped in result["mappedRooms"]
+    }
+
+    for input_property in input_catalog:
+        for supplier_room in input_property["supplierRoomInfo"]:
+            if supplier_room["supplierRoomId"] not in mapped_supplier_room_ids:
+                unmapped_rates.append({
+                    "supplierId": input_property["supplierId"],
+                    "supplierRoomId": supplier_room["supplierRoomId"],
+                    "supplierRoomName": supplier_room["supplierRoomName"]
+                })
+
+    return {
+        "Results": results,
+        "Unmapped": unmapped_rates
+    }
+
+# Room mapping logic
+def map_rooms_trained(input_json):
+    reference_catalog = input_json["referenceCatalog"]
+    input_catalog = input_json["inputCatalog"]
+
+    results = []
+    unmapped_rates = []
+
+    for ref_property in reference_catalog:
+        property_name = ref_property["propertyName"]
+        property_id = ref_property["propertyId"]
+
+        for ref_room in ref_property["referenceRoomInfo"]:
+            ref_room_name = ref_room["roomName"]
+            ref_room_id = ref_room["roomId"]
+            clean_ref_room_name = clean_text(ref_room_name)
+
+            nuitee_embedding = model.encode(ref_room_name, convert_to_tensor=True)
+
+            mapped_rooms = []
+
+            for supplier in input_catalog:
+                supplier_id = supplier["supplierId"]
+
+                for sup_room in supplier["supplierRoomInfo"]:
+                    sup_room_name = sup_room["supplierRoomName"]
+                    sup_room_id = sup_room["supplierRoomId"]
+                    clean_sup_room_name = clean_text(sup_room_name)
+
+                    provider_embedding = model.encode(sup_room_name, convert_to_tensor=True)
+
+                    # Calculate similarity
+                    similarity = util.pytorch_cos_sim(nuitee_embedding, provider_embedding).item()
 
                     if similarity > 0.8:  # Threshold for similarity
                         mapped_rooms.append({
@@ -122,30 +197,16 @@ def process_request():
         return jsonify({"error": str(e)}), 500
 
 @app.route("/trained", methods=["POST"])
-def match_rooms():
+def process_request_trained():
     try:
-        # Parse input JSON
-        data = request.get_json()
-        if not data or "nuitee_room_name" not in data or "provider_room_name" not in data:
-            return jsonify({"error": "Invalid input format. Provide 'nuitee_room_name' and 'provider_room_name'"}), 400
+        input_data = request.get_json()  # Parse JSON input
+        if not input_data:
+            return jsonify({"error": "Invalid or missing JSON input"}), 400
 
-        nuitee_room_name = data["nuitee_room_name"]
-        provider_room_name = data["provider_room_name"]
+        # Process the mapping
+        result = map_rooms_trained(input_data)
 
-        # Encode the room names
-        nuitee_embedding = model.encode(nuitee_room_name, convert_to_tensor=True)
-        provider_embedding = model.encode(provider_room_name, convert_to_tensor=True)
-
-        # Calculate similarity
-        similarity_score = util.pytorch_cos_sim(nuitee_embedding, provider_embedding).item()
-
-        # Return the result
-        return jsonify({
-            "nuitee_room_name": nuitee_room_name,
-            "provider_room_name": provider_room_name,
-            "similarity_score": similarity_score
-        })
-
+        return jsonify(result)  # Return the result as JSON
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
