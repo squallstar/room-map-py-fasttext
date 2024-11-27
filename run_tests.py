@@ -40,6 +40,25 @@ for filename in os.listdir(input_directory):
                 with open(output_file_path, 'w') as outfile:
                     outfile.write(response.stdout)
                 print(f"Response saved to: {output_file_path}")
+
+                # Load the response JSON and extract metrics
+                response_data = json.loads(response.stdout)
+
+                # Count mappedRooms across all Results
+                mapped_count = sum(len(result.get('mappedRooms', [])) for result in response_data.get('Results', []))
+
+                # Count Unmapped
+                unmapped_count = len(response_data.get('Unmapped', []))
+
+                # Calculate total and percentage
+                total_count = mapped_count + unmapped_count
+                mapped_percentage = (mapped_count / total_count * 100) if total_count > 0 else 0
+
+                # Print the metrics
+                print(f"Metrics for {filename}:")
+                print(f"  Mapped Rooms: {mapped_count}")
+                print(f"  Unmapped Rooms: {unmapped_count}")
+                print(f"  Percentage Mapped: {mapped_percentage:.2f}%\n")
             else:
                 print(f"Error making request for file {filename}: {response.stderr}")
 
