@@ -14,7 +14,7 @@ Then, download the fasttext model [cc.en.300.bin](https://dl.fbaipublicfiles.com
 python3 server.py
 ```
 
-### Test
+### Test the endpoint
 
 ```
 curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://localhost:5555/
@@ -22,7 +22,7 @@ curl -X POST -H "Content-Type: application/json" -d @samples/input.json http://l
 
 ---
 
-### Run tests
+### Run all tests
 
 ```
 python3 run_tests.py
