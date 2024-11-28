@@ -1,12 +1,12 @@
 {
   "Counts": {
     "FirstPassMatches": 37,
-    "FourthPassMatches": 2,
-    "MappedSupplierRooms": 39,
+    "FourthPassMatches": 0,
+    "MappedSupplierRooms": 37,
     "SecondPassMatches": 0,
     "ThirdPassMatches": 0,
     "TotalSupplierRooms": 39,
-    "UnmappedSupplierRooms": 0
+    "UnmappedSupplierRooms": 2
   },
   "Results": [
     {
@@ -957,48 +957,6 @@
           },
           "supplierRoomId": "G42DONZWHE3GKMRQG4ZDMZRWMY3GIMRQGI4DGMRSGA3TINZXGY4TMZJSGA3DENRVGY2DOMZSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMYTAMRNGQ3DENRRGN6FERSOPQZDAMRUGA2TCMT4G56DMOBQG4YSGUSPENJEMTRDGIYDENBNGA2S2MJS",
           "supplierRoomName": "Twin Room (2 Twin Beds) - Room Only"
-        },
-        {
-          "cleanRoomName": "twin standard room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "roomCategory": [
-              "standard"
-            ],
-            "roomType": "unknown",
-            "view": "unknown"
-          },
-          "similarity": 0.8178014159202576,
-          "supplierRoomId": "G42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTCOJNGQ3DENRRGN6E4USGJZ6FIRD4GJ6DKNRYGUZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Twin Standard - Room Only"
-        },
-        {
-          "cleanRoomName": "twin standard room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "roomCategory": [
-              "standard"
-            ],
-            "roomType": "unknown",
-            "view": "unknown"
-          },
-          "similarity": 0.8178014159202576,
-          "supplierRoomId": "G42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTCOJNGQ3DENRRGN6E4USGJZ6FIRD4GR6DMMZQG4ZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Twin Standard - Room Only"
         }
       ],
       "propertyId": "493226",
@@ -1019,5 +977,46 @@
       "roomName": "Twin Room"
     }
   ],
-  "UnmappedRooms": []
+  "UnmappedRooms": [
+    {
+      "cleanRoomName": "twin standard room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTCOJNGQ3DENRRGN6E4USGJZ6FIRD4GJ6DKNRYGUZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Twin Standard - Room Only"
+    },
+    {
+      "cleanRoomName": "twin standard room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTCOJNGQ3DENRRGN6E4USGJZ6FIRD4GR6DMMZQG4ZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Twin Standard - Room Only"
+    }
+  ]
 }

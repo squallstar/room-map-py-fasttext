@@ -1,12 +1,12 @@
 {
   "Counts": {
     "FirstPassMatches": 150,
-    "FourthPassMatches": 4,
-    "MappedSupplierRooms": 154,
+    "FourthPassMatches": 0,
+    "MappedSupplierRooms": 150,
     "SecondPassMatches": 0,
     "ThirdPassMatches": 0,
     "TotalSupplierRooms": 156,
-    "UnmappedSupplierRooms": 2
+    "UnmappedSupplierRooms": 6
   },
   "Results": [
     {
@@ -3876,90 +3876,6 @@
           },
           "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDAMZSGIYDMMRWGU3DINZTPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGMYTSLJTHA3DEOBSPRHFERSOPRKEI7BTPQ4TSMRRGMRUEQRDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Superior 2 Beds - Free Breakfast"
-        },
-        {
-          "cleanRoomName": "superior twin bed and breakfast",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed"
-            ],
-            "board": "bed and breakfast",
-            "roomCategory": [
-              "superior"
-            ],
-            "roomType": "unknown",
-            "view": "unknown"
-          },
-          "similarity": 0.8067203164100647,
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEM2DELJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BTPQ3DMOBYGIRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
-          "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "superior twin bed and breakfast",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed"
-            ],
-            "board": "bed and breakfast",
-            "roomCategory": [
-              "superior"
-            ],
-            "roomType": "unknown",
-            "view": "unknown"
-          },
-          "similarity": 0.8067203164100647,
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEM2TMLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BRPQ3DMOBYGIRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
-          "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "superior twin bed and breakfast",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed"
-            ],
-            "board": "bed and breakfast",
-            "roomCategory": [
-              "superior"
-            ],
-            "roomType": "unknown",
-            "view": "unknown"
-          },
-          "similarity": 0.8067203164100647,
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMYTANZNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCND4GN6DMNRYHAZCGQSCENJEMTRDGIYDENBNGA2S2MJU",
-          "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "superior twin bed and breakfast",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed"
-            ],
-            "board": "bed and breakfast",
-            "roomCategory": [
-              "superior"
-            ],
-            "roomType": "unknown",
-            "view": "unknown"
-          },
-          "similarity": 0.8067203164100647,
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMZDENZNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCND4GJ6DMNRYHAZCGQSCENJEMTRDGIYDENBNGA2S2MJU",
-          "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
         }
       ],
       "propertyId": "272630",
@@ -3983,6 +3899,86 @@
     }
   ],
   "UnmappedRooms": [
+    {
+      "cleanRoomName": "superior twin bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEM2DELJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BTPQ3DMOBYGIRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
+      "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "superior twin bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEM2TMLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BRPQ3DMOBYGIRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
+      "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "superior twin bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMYTANZNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCND4GN6DMNRYHAZCGQSCENJEMTRDGIYDENBNGA2S2MJU",
+      "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "superior twin bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMZDENZNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCND4GJ6DMNRYHAZCGQSCENJEMTRDGIYDENBNGA2S2MJU",
+      "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
+    },
     {
       "cleanRoomName": "standard room only",
       "normalizedRoom": {

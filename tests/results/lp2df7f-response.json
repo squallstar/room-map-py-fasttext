@@ -1,12 +1,12 @@
 {
   "Counts": {
     "FirstPassMatches": 117,
-    "FourthPassMatches": 28,
-    "MappedSupplierRooms": 145,
+    "FourthPassMatches": 0,
+    "MappedSupplierRooms": 117,
     "SecondPassMatches": 0,
     "ThirdPassMatches": 0,
     "TotalSupplierRooms": 156,
-    "UnmappedSupplierRooms": 11
+    "UnmappedSupplierRooms": 39
   },
   "Results": [
     {
@@ -1511,538 +1511,6 @@
           },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGN6DGMD4GEYTINZYGURVETZDKJDE4IZSGAZDILJQGUWTCMY",
           "supplierRoomName": "Studio - Seine view - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTA7BUGM4TCNBDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDA7BUGQZDINZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DC7BUGYZDONZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4HYNBXG42DOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GZ6DINZXGYZCGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
-          "supplierRoomName": "STUDIO Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGAZDENL4GF6DIOBRGM3SGUSPENHFERSOEMZDAMRUFUYDELJSGU",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTC7BVGEYTINJDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJZFUYTQOBSHA3XYTSSIZHHYVCEPQYXYNJRGUZDOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDC7BVGQYTGMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GE4XYNJUGY3TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMZYFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNJVGE2TGI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4XYNJVGI4TSI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GEZHYNJVG4YDGI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
-          "supplierRoomName": "STUDIO Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4G56DKNJYGU2CGUSPENJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCMZRGYYDA7BTPQ2TKOBXGERVETZDKJDE4IZSGAZDILJQGUWTCMY",
-          "supplierRoomName": "STUDIO Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCM34GJ6DKNRSG4YCGUSPENJEMTRDGIYDENBNGA2S2MJT",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GEZXYNJWGU4TOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQ2HYNJWHAZTQI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNJSGE2TS7BRGJ6DKNRYGYYCGUSPENJEMTRDGIYDENBNGA2S2MJV",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GIZXYNJXGAZTAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ2XYNJZGY2DOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMNJQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNRQGY4DQI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GE2XYNRVHEZDSI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCOJNGE4DQMRYG56E4USGJZ6FIRD4GJ6DMOBUG42CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTKMRRGU4XYMJUPQ3TGMRXGARVETZDKJDE4IZSGAZDILJQGUWTCNI",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GI2HYNZUGI3TOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56FERSOPQZDAMRUGAZDEOJRGAYDA7BSGJ6DONJQGE4CGUSPENJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanRoomName": "studio room",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "studio room",
-            "view": "unknown"
-          },
-          "similarity": 0.8389851450920105,
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNL4GEZXYNZYGQ3DAI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
-          "supplierRoomName": "Deluxe Studio - Room Only"
         }
       ],
       "propertyId": "220016",
@@ -3511,6 +2979,114 @@
   ],
   "UnmappedRooms": [
     {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTA7BUGM4TCNBDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDA7BUGQZDINZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DC7BUGYZDONZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4HYNBXG42DOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GZ6DINZXGYZCGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
+      "supplierRoomName": "STUDIO Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGAZDENL4GF6DIOBRGM3SGUSPENHFERSOEMZDAMRUFUYDELJSGU",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
       "cleanRoomName": "promotion agl1 room only",
       "normalizedRoom": {
         "amenities": [
@@ -3547,6 +3123,294 @@
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTC7BVGEYTINJDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJZFUYTQOBSHA3XYTSSIZHHYVCEPQYXYNJRGUZDOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDC7BVGQYTGMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GE4XYNJUGY3TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMZYFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNJVGE2TGI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4XYNJVGI4TSI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GEZHYNJVG4YDGI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
+      "supplierRoomName": "STUDIO Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4G56DKNJYGU2CGUSPENJEMTRDGIYDENBNGAZC2MRX",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCMZRGYYDA7BTPQ2TKOBXGERVETZDKJDE4IZSGAZDILJQGUWTCMY",
+      "supplierRoomName": "STUDIO Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCM34GJ6DKNRSG4YCGUSPENJEMTRDGIYDENBNGA2S2MJT",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GEZXYNJWGU4TOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQ2HYNJWHAZTQI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNJSGE2TS7BRGJ6DKNRYGYYCGUSPENJEMTRDGIYDENBNGA2S2MJV",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GIZXYNJXGAZTAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ2XYNJZGY2DOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMNJQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNRQGY4DQI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
       "cleanRoomName": "promotion agl1 room only",
       "normalizedRoom": {
         "amenities": [
@@ -3581,6 +3445,114 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMBVFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGUYDAMBQPQZHYNRVGIYDII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GE2XYNRVHEZDSI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCOJNGE4DQMRYG56E4USGJZ6FIRD4GJ6DMOBUG42CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTKMRRGU4XYMJUPQ3TGMRXGARVETZDKJDE4IZSGAZDILJQGUWTCNI",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GI2HYNZUGI3TOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56FERSOPQZDAMRUGAZDEOJRGAYDA7BSGJ6DONJQGE4CGUSPENJEMTRDGIYDENBNGAZC2MRX",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNL4GEZXYNZYGQ3DAI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
+      "supplierRoomName": "Deluxe Studio - Room Only"
     },
     {
       "cleanRoomName": "promotion agl1 room only",

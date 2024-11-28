@@ -1,12 +1,12 @@
 {
   "Counts": {
     "FirstPassMatches": 111,
-    "FourthPassMatches": 17,
-    "MappedSupplierRooms": 128,
+    "FourthPassMatches": 0,
+    "MappedSupplierRooms": 111,
     "SecondPassMatches": 0,
     "ThirdPassMatches": 0,
     "TotalSupplierRooms": 156,
-    "UnmappedSupplierRooms": 28
+    "UnmappedSupplierRooms": 45
   },
   "Results": [
     {
@@ -1886,65 +1886,6 @@
           },
           "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMZYGEWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGN6DEN34GEZTGMJTGURUEQRDKJDE4IZSGAZDILJQGUWTCMY",
           "supplierRoomName": "Singular Extra Room - Breakfast"
-        },
-        {
-          "cleanRoomName": "singular extra room 2 twin beds room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed",
-              "twin beds"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8590338230133057,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMRSGA3TINZXGY4TMZJSGA3DENRVGY2DOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZRGI3C2MJTGAYDAM34JZJEMTT4GIYDENBQGIZDK7BRGR6DCMJXGQZTMI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
-          "supplierRoomName": "Singular Extra Room, 2 Twin Beds - Room Only"
-        },
-        {
-          "cleanRoomName": "singular extra room 1 king bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "king bed"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8555651307106018,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3GENRZGZSTMNZSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DCNL4GEYTONBTGYRVETZDJZJEMTRDGIYDENBNGAZC2MRV",
-          "supplierRoomName": "Singular Extra Room, 1 King Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "singular extra room 2 twin beds breakfast included",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed",
-              "twin beds"
-            ],
-            "board": "breakfast included",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8046201467514038,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMRSGA3TINZXGY4TMZJSGA3DENRVGY2DOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZRGI3C2MJTGAYDAM34JZJEMTT4GIYDENBQGIZDK7BSGJ6DCMRUGUZTKI2CIIRU4USGJYRTEMBSGQWTAMRNGI2Q",
-          "supplierRoomName": "Singular Extra Room, 2 Twin Beds - Breakfast buffet"
         }
       ],
       "propertyId": "54396",
@@ -2958,324 +2899,6 @@
       },
       "roomId": "5439605",
       "roomName": "Style Room"
-    },
-    {
-      "cleanRoomName": "singular room",
-      "mappedRooms": [
-        {
-          "cleanRoomName": "singular room 2 twin beds room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed",
-              "twin beds"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8011809587478638,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DE7BRGAZDAOBUENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
-          "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room 1 king bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "king bed"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8045051693916321,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4GN6DCMBSGA4DII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
-          "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room 2 twin beds room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed",
-              "twin beds"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8011809587478638,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJUPQYTA7BRGEZTKNRRENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room 1 king bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "king bed"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8045051693916321,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTI7BRGF6DCMJTGU3DCI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
-          "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room 2 twin beds room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed",
-              "twin beds"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8011809587478638,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DEMD4GEZDIMZXG4RVETZDJZJEMTRDGIYDENBNGAZC2MRV",
-          "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room 1 king bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "king bed"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8045051693916321,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4GIYXYMJSGQZTONZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDK",
-          "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room 2 twin beds room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "twin bed",
-              "twin beds"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8011809587478638,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJVPQZDM7BRGI4DCOJZENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room 1 king bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "king bed"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8045051693916321,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTK7BSG56DCMRYGE4TSI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
-          "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
-        }
-      ],
-      "propertyId": "54396",
-      "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
-      "roomDescription": {
-        "amenities": [
-          "unknown"
-        ],
-        "bedType": [
-          "unknown"
-        ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "singular",
-        "view": "unknown"
-      },
-      "roomId": "5439607",
-      "roomName": "Singular Room"
-    },
-    {
-      "cleanRoomName": "singular room with glimpses of notre dame",
-      "mappedRooms": [
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "queen bed",
-              "queen"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8967925310134888,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYNL4GEYDMMBUGQRVETZDJZJEMTRDGIYDENBNGAZC2MRV",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed breakfast included",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "queen bed",
-              "queen"
-            ],
-            "board": "breakfast included",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8791722059249878,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYOL4GEYTGNBSGMRUEQRDJZJEMTRDGIYDENBNGAZC2MRV",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Breakfast buffet"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "queen bed",
-              "queen"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8967925310134888,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGR6DCNT4GEYTOOJYG4RVETZDKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed breakfast included",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "queen bed",
-              "queen"
-            ],
-            "board": "breakfast included",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8791722059249878,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGR6DENL4GEZDOOJQG4RUEQRDKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Breakfast buffet"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "queen bed",
-              "queen"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8967925310134888,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYMRYPQYTEOJSGQYCGUSPENHFERSOEMZDAMRUFUYDELJSGU",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
-          "pass": "Fourth Pass (Cosine Similarity)",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "queen bed",
-              "queen"
-            ],
-            "board": "room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "similarity": 0.8967925310134888,
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGV6DGML4GEZTGMBZGQRVETZDKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
-        }
-      ],
-      "propertyId": "54396",
-      "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
-      "roomDescription": {
-        "amenities": [
-          "unknown"
-        ],
-        "bedType": [
-          "unknown"
-        ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "singular",
-        "view": "unknown"
-      },
-      "roomId": "5439628",
-      "roomName": "Singular Room with Glimpses of Notre Dame"
     }
   ],
   "UnmappedRooms": [
@@ -3299,6 +2922,43 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQYXYOJVGM4TII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "singular room 2 twin beds room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed",
+          "twin beds"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DE7BRGAZDAOBUENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
+      "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
+    },
+    {
+      "cleanRoomName": "singular room 1 king bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "king bed"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4GN6DCMBSGA4DII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
+      "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
     },
     {
       "cleanRoomName": "standard room room only",
@@ -3340,6 +3000,25 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQ2HYMJQGI3DSOJDIJBCGTSSIZHCGMRQGI2C2MBSFUZDK",
       "supplierRoomName": "Style Room, 1 Queen Bed - Breakfast buffet"
+    },
+    {
+      "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "queen"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYNL4GEYDMMBUGQRVETZDJZJEMTRDGIYDENBNGAZC2MRV",
+      "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
@@ -3420,6 +3099,62 @@
       "supplierRoomName": "standard room - Breakfast"
     },
     {
+      "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed breakfast included",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "queen"
+        ],
+        "board": "breakfast included",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYOL4GEYTGNBSGMRUEQRDJZJEMTRDGIYDENBNGAZC2MRV",
+      "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Breakfast buffet"
+    },
+    {
+      "cleanRoomName": "singular room 2 twin beds room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed",
+          "twin beds"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJUPQYTA7BRGEZTKNRRENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
+    },
+    {
+      "cleanRoomName": "singular room 1 king bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "king bed"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTI7BRGF6DCMJTGU3DCI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
+      "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
+    },
+    {
       "cleanRoomName": "single room",
       "normalizedRoom": {
         "amenities": [
@@ -3478,6 +3213,62 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQYTG7BRGE3DCNRTENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "singular extra room 2 twin beds room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed",
+          "twin beds"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMRSGA3TINZXGY4TMZJSGA3DENRVGY2DOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZRGI3C2MJTGAYDAM34JZJEMTT4GIYDENBQGIZDK7BRGR6DCMJXGQZTMI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
+      "supplierRoomName": "Singular Extra Room, 2 Twin Beds - Room Only"
+    },
+    {
+      "cleanRoomName": "singular extra room 1 king bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "king bed"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3GENRZGZSTMNZSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DCNL4GEYTONBTGYRVETZDJZJEMTRDGIYDENBNGAZC2MRV",
+      "supplierRoomName": "Singular Extra Room, 1 King Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "queen"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGR6DCNT4GEYTOOJYG4RVETZDKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
@@ -3610,6 +3401,62 @@
       "supplierRoomName": "Twin/Double room - Style - Room Only"
     },
     {
+      "cleanRoomName": "singular room 2 twin beds room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed",
+          "twin beds"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DEMD4GEZDIMZXG4RVETZDJZJEMTRDGIYDENBNGAZC2MRV",
+      "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
+    },
+    {
+      "cleanRoomName": "singular room 1 king bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "king bed"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4GIYXYMJSGQZTONZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDK",
+      "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "singular extra room 2 twin beds breakfast included",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed",
+          "twin beds"
+        ],
+        "board": "breakfast included",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMRSGA3TINZXGY4TMZJSGA3DENRVGY2DOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZRGI3C2MJTGAYDAM34JZJEMTT4GIYDENBQGIZDK7BSGJ6DCMRUGUZTKI2CIIRU4USGJYRTEMBSGQWTAMRNGI2Q",
+      "supplierRoomName": "Singular Extra Room, 2 Twin Beds - Breakfast buffet"
+    },
+    {
       "cleanRoomName": "singular extra room 1 king bed breakfast included",
       "normalizedRoom": {
         "amenities": [
@@ -3665,6 +3512,81 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQZDI7BRGI3DQOBZENBEEI2OKJDE4IZSGAZDILJQGIWTENI",
       "supplierRoomName": "Style Room, 1 Queen Bed - Breakfast buffet"
+    },
+    {
+      "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed breakfast included",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "queen"
+        ],
+        "board": "breakfast included",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGR6DENL4GEZDOOJQG4RUEQRDKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Breakfast buffet"
+    },
+    {
+      "cleanRoomName": "singular room 2 twin beds room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "twin bed",
+          "twin beds"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJVPQZDM7BRGI4DCOJZENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
+    },
+    {
+      "cleanRoomName": "singular room 1 king bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "king bed"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTK7BSG56DCMRYGE4TSI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
+      "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "queen"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYMRYPQYTEOJSGQYCGUSPENHFERSOEMZDAMRUFUYDELJSGU",
+      "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
@@ -3781,6 +3703,25 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONTDGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQZDM7BRGMZTAMZRENBEEI2SIZHCGMRQGI2C2MBVFUYTG",
       "supplierRoomName": "single - Breakfast"
+    },
+    {
+      "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "queen"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGV6DGML4GEZTGMBZGQRVETZDKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "double room",

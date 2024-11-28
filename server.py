@@ -397,7 +397,7 @@ def map_rooms_with_multiple_passes(input_json):
             similarity = cosine_similarity(supplier_embedding, ref_embedding)
             similarity = float(similarity)
 
-            if similarity > best_similarity and similarity > 0.8:  # Threshold for cosine similarity
+            if similarity > best_similarity and similarity > 0.9:  # Threshold for cosine similarity
                 best_similarity = similarity
                 best_match = ref_room
 
