@@ -100,7 +100,7 @@ def extract_room_type(clean_name):
         clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
     room_types = [
         'suite', 'single room', 'double room', 'triple room', 'quad room', 'family room',
-        'studio room', 'apartment', 'villa', 'bungalow', 'king room', 'queen room', 'cottage',
+        'studio room', 'apartment', 'villa', 'bungalow', 'king room', 'queen room', 'cottage', 'singular',
         'penthouse', 'loft', 'cabin', 'chalet', 'duplex', 'guesthouse', 'hostel', 'accessible room',
         'connected rooms', 'studio', 'appartment', 'deluxe suite', 'standard suite'
     ]
