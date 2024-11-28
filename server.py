@@ -38,8 +38,10 @@ def clean_text(room_name):
 
     # Synonyms normalization
     synonyms = {
-        'double-double': 'double room', 'accessible': 'accessible room',
-        'family': 'family room', 'connected': 'connected rooms',
+        'double-double': 'double room',
+        'accessible': 'accessible room',
+        'family': 'family room',
+        'connected': 'connected rooms',
         'communicating rooms': 'connected rooms'
     }
 
@@ -134,7 +136,7 @@ def extract_view(clean_name):
         'city view', 'sea view', 'garden view', 'courtyard view', 'mountain view',
         'beachfront', 'pool view', 'lake view', 'river view', 'panoramic view',
         'ocean view', 'forest view', 'park view', 'street view', 'skyline view',
-        'terrace view', 'courtyard area', 'empire state view', 'fifth avenue', 'seine river view', 'glimpses'
+        'terrace view', 'courtyard area', 'empire state view', 'fifth avenue', 'seine river view'
     ]
     for view in views:
         if view in clean_name:
