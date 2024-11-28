@@ -15,166 +15,22 @@ def cosine_similarity(vec1, vec2):
     """Calculate cosine similarity between two vectors."""
     return (vec1 @ vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
 
+import re
+from collections import defaultdict
+
 # Function to clean and normalize room names
-def clean_text(room_name):
-    if not room_name:
+def clean_text(text):
+    if not isinstance(text, str):
         return "unknown"
+    text = text.lower()
+    text = re.sub(r"[^a-zA-Z0-9\s]", " ", text)  # Remove special characters
+    text = re.sub(r"\s+", " ", text).strip()     # Remove extra spaces
+    return text
 
-    # Helper dictionary for synonyms and normalization
-    abbreviation_map = {
-        'bdr': 'room', 'bedroom': 'room', 'dbl': 'double', 'dbl room': 'double room',
-        'sgl': 'single', 'sgl room': 'single room', 'tpl': 'triple', 'tpl room': 'triple room',
-        'trpl': 'triple', 'qd': 'quad', 'quad': 'quad room', 'quadruple': 'quad room',
-        'exec': 'executive', 'pres': 'presidential', 'std': 'standard', 'fam': 'family-friendly',
-        'rom': 'romantic', 'honeymn': 'honeymoon', 'biz': 'business class', 'prm': 'premium',
-        'btq': 'boutique', 'hist': 'historic', 'mod': 'modern', 'high-rise': 'high floor',
-        'low-rise': 'low floor', 'ground floor': 'low floor', 'with a view': 'balcony',
-        'disability access': 'accessible'
-    }
-
-    # Synonyms normalization
-    synonyms = {
-        'double-double': 'double room', 'accessible': 'accessible room',
-        'family': 'family room', 'connected': 'connected rooms',
-        'communicating rooms': 'connected rooms'
-    }
-
-    # Predefined terms
-    predefined_types = [
-        'suite', 'single room', 'double room', 'triple room', 'quad room', 'family room',
-        'studio room', 'apartment', 'villa', 'bungalow', 'king room', 'queen room', 'cottage',
-        'penthouse', 'loft', 'cabin', 'chalet', 'duplex', 'guesthouse', 'hostel', 'accessible room',
-        'connected rooms', 'studio', 'appartment'
-    ]
-
-    # Normalize number words to digits
-    number_words_to_digits = {
-        'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5',
-        'six': '6', 'seven': '7', 'eight': '8', 'nine': '9', 'ten': '10'
-    }
-
-    # Normalize room name
-    room_name = room_name.lower()
-
-    # Replace parentheses with placeholders to preserve inner content
-    placeholders = []
-    room_name = re.sub(r"\((.*?)\)", lambda m: f"<<{len(placeholders)}>>", room_name)
-    placeholders.append(m.group(1) for m in re.finditer(r"\((.*?)\)", room_name))
-
-    # Apply replacements and remove special characters
-    room_name = re.sub(r"[^a-zA-Z0-9\s]", " ", room_name)
-    room_name = re.sub(r"\b(one|two|three|four|five|six|seven|eight|nine|ten)\b",
-                       lambda m: number_words_to_digits[m.group(0)], room_name)
-    room_name = re.sub(r"\s+", " ", room_name).strip()
-
-    # Restore parentheses content from placeholders
-    room_name = re.sub(r"<<(\d+)>>", lambda m: placeholders[int(m.group(1))], room_name)
-
-    # Apply abbreviation normalization
-    for abbr, full_form in abbreviation_map.items():
-        room_name = re.sub(fr"\b{abbr}\b", full_form, room_name)
-
-    # Apply synonyms normalization
-    for key, value in synonyms.items():
-        room_name = re.sub(fr"\b{key}\b", value, room_name)
-
-    # Normalize predefined room types
-    for room_type in predefined_types:
-        if room_type in room_name:
-            return room_type
-
-    # Improved fallback logic
-    match = re.search(r"\b(single|double|triple|quad)\b", room_name)
-    if match:
-        return f"{match.group(0)} room"
-
-    # If no match found, return normalized name
-    return room_name.strip()
-
-def calculate_match_outcome(ref_room, sup_room):
-    """
-    Calculate the match outcome between a reference room and a supplier room.
-    Returns a dictionary of matching attributes.
-    """
-    outcome = {
-        "matchedRoomType": ref_room["normalizedRoom"]["roomType"] == sup_room["normalizedRoom"]["roomType"],
-        "matchedRoomCategory": ref_room["normalizedRoom"]["roomCategory"] == sup_room["normalizedRoom"]["roomCategory"],
-        "matchedView": ref_room["normalizedRoom"]["view"] == sup_room["normalizedRoom"]["view"],
-        "matchedAmenities": all(
-            amenity in ref_room["normalizedRoom"]["amenities"]
-            for amenity in sup_room["normalizedRoom"]["amenities"]
-        ),
-        "bedTypes": ref_room["normalizedRoom"]["bedType"] == sup_room["normalizedRoom"]["bedType"]
-    }
-
-    # Handle partial matches
-    outcome["matchedRoomCategory"] = "partial" if not outcome["matchedRoomCategory"] and (
-        ref_room["normalizedRoom"]["roomCategory"] in sup_room["normalizedRoom"]["roomCategory"] or
-        sup_room["normalizedRoom"]["roomCategory"] in ref_room["normalizedRoom"]["roomCategory"]
-    ) else outcome["matchedRoomCategory"]
-
-    outcome["matchedAmenities"] = "partial" if not outcome["matchedAmenities"] and len(
-        set(ref_room["normalizedRoom"]["amenities"]).intersection(sup_room["normalizedRoom"]["amenities"])
-    ) > 0 else outcome["matchedAmenities"]
-
-    outcome["bedTypes"] = "partial" if not outcome["bedTypes"] and (
-        set(ref_room["normalizedRoom"]["bedType"]) & set(sup_room["normalizedRoom"]["bedType"])
-    ) else outcome["bedTypes"]
-
-    return outcome
-
-def add_match_to_results(ref_room, match, results):
-    """
-    Add a matched room to the results.
-    """
-    # Check if the reference room already exists in the results
-    for result in results:
-        if result["roomId"] == ref_room["roomId"]:
-            # Append the match to the existing reference room
-            result["mappedRooms"].append(match)
-            return
-
-    # If not found, create a new result entry
-    results.append({
-        "propertyName": ref_room["propertyName"],
-        "propertyId": ref_room["propertyId"],
-        "roomId": ref_room["roomId"],
-        "roomName": ref_room["roomName"],
-        "cleanRoomName": ref_room["cleanRoomName"],
-        "roomDescription": ref_room["normalizedRoom"],
-        "mappedRooms": [match]
-    })
-
-def normalize_room_name(room_name):
-    """
-    Normalize the room name by extracting key components.
-    """
-    clean_name = clean_text(room_name)
-
-    # Extract details using helper functions
-    room_type = extract_room_type(clean_name)
-    room_category = extract_room_category(clean_name)
-    board = extract_board_type(clean_name)
-    view = extract_view(clean_name)
-    bed_type = extract_bed_types(clean_name)
-    amenities = extract_amenities(clean_name)
-
-    return {
-        "roomType": room_type,
-        "roomCategory": room_category,
-        "board": board,
-        "view": view,
-        "bedType": bed_type,
-        "amenities": amenities
-    }
-
+# Extract details from room names
 def extract_room_type(clean_name):
-    """
-    Extract the type of the room from the room name.
-    """
     if not isinstance(clean_name, str):
         clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
-
     room_types = [
         'suite', 'single room', 'double room', 'triple room', 'quad room', 'family room',
         'studio room', 'apartment', 'villa', 'bungalow', 'king room', 'queen room', 'cottage',
@@ -187,12 +43,8 @@ def extract_room_type(clean_name):
     return "unknown"
 
 def extract_room_category(clean_name):
-    """
-    Extract the category of the room from the room name.
-    """
     if not isinstance(clean_name, str):
         clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
-
     categories = [
         'deluxe', 'superior', 'executive', 'club', 'presidential', 'classic',
         'junior', 'luxury', 'economy', 'standard', 'budget', 'family-friendly',
@@ -203,12 +55,8 @@ def extract_room_category(clean_name):
     return matched_categories if matched_categories else "unknown"
 
 def extract_board_type(clean_name):
-    """
-    Extract the board type from the room name.
-    """
     if not isinstance(clean_name, str):
         clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
-
     board_types = [
         'room only', 'bed and breakfast', 'half board', 'full board',
         'all inclusive', 'self catering', 'board basis', 'breakfast included',
@@ -222,12 +70,8 @@ def extract_board_type(clean_name):
     return "unknown"
 
 def extract_view(clean_name):
-    """
-    Extract the view from the room name.
-    """
     if not isinstance(clean_name, str):
         clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
-
     views = [
         'city view', 'sea view', 'garden view', 'courtyard view', 'mountain view',
         'beachfront', 'pool view', 'lake view', 'river view', 'panoramic view',
@@ -237,22 +81,16 @@ def extract_view(clean_name):
     for view in views:
         if view in clean_name:
             return view
-
-    # Fallback: Look for generic "view" terms dynamically
     words = clean_name.split()
     if "view" in words:
         index = words.index("view")
-        if index > 0:  # Ensure "view" isn't the first word
+        if index > 0:
             return f"{words[index - 1]} view"
     return "unknown"
 
 def extract_bed_types(clean_name):
-    """
-    Extract the bed types from the room name.
-    """
     if not isinstance(clean_name, str):
         clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
-
     bed_types = [
         'single bed', 'double bed', 'queen bed', 'king bed', 'twin bed', 'twin beds', 'double beds',
         'bunk bed', 'double sofa bed', 'sofa bed', 'futon', 'murphy bed', 'queen',
@@ -261,19 +99,12 @@ def extract_bed_types(clean_name):
         'queen beds', 'king beds', 'kingsize bed', 'kingsize beds', 'queen size bed', 'queensize bed',
         'queen size beds', 'queensize beds', 'king size bed', 'king size beds'
     ]
-    found_beds = []
-    for bed_type in bed_types:
-        if bed_type in clean_name:
-            found_beds.append(bed_type)
+    found_beds = [bed_type for bed_type in bed_types if bed_type in clean_name]
     return found_beds if found_beds else ["unknown"]
 
 def extract_amenities(clean_name):
-    """
-    Extract the amenities from the room name.
-    """
     if not isinstance(clean_name, str):
         clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
-
     amenities = [
         'wifi', 'air conditioning', 'heating', 'kitchen', 'workspace', 'gym', 'pool',
         'free parking', 'pet-friendly', 'washer', 'dryer', 'balcony', 'fireplace',
@@ -288,12 +119,94 @@ def extract_amenities(clean_name):
     found_amenities = [amenity for amenity in amenities if amenity in clean_name]
     return found_amenities if found_amenities else ["unknown"]
 
+def normalize_room_name(room_name):
+    clean_name = clean_text(room_name)
+    return {
+        "roomType": extract_room_type(clean_name),
+        "roomCategory": extract_room_category(clean_name),
+        "board": extract_board_type(clean_name),
+        "view": extract_view(clean_name),
+        "bedType": extract_bed_types(clean_name),
+        "amenities": extract_amenities(clean_name)
+    }
 
 def compute_embeddings(texts):
     """
     Compute embeddings for a list of texts using the FastText model.
     """
     return {text: ft_model.get_sentence_vector(text) for text in texts}
+
+def calculate_match_outcome(ref_room, sup_room):
+    """
+    Calculate the match outcome between a reference room and a supplier room.
+    Returns a dictionary of matching attributes.
+    """
+
+    def is_partial_match(ref_value, sup_value):
+        """
+        Determine if there is a partial match between two lists or strings.
+        """
+        if isinstance(ref_value, list) and isinstance(sup_value, list):
+            return bool(set(ref_value).intersection(sup_value))  # Check for overlap
+        if isinstance(ref_value, str) and isinstance(sup_value, str):
+            return ref_value in sup_value or sup_value in ref_value
+        return False
+
+    # Match outcomes
+    outcome = {
+        "matchedRoomType": ref_room["normalizedRoom"]["roomType"] == sup_room["normalizedRoom"]["roomType"],
+        "matchedRoomCategory": ref_room["normalizedRoom"]["roomCategory"] == sup_room["normalizedRoom"]["roomCategory"],
+        "matchedView": ref_room["normalizedRoom"]["view"] == sup_room["normalizedRoom"]["view"],
+        "matchedAmenities": ref_room["normalizedRoom"]["amenities"] == sup_room["normalizedRoom"]["amenities"],
+        "bedTypes": ref_room["normalizedRoom"]["bedType"] == sup_room["normalizedRoom"]["bedType"]
+    }
+
+    # Handle partial matches
+    if not outcome["matchedRoomCategory"] and is_partial_match(
+        ref_room["normalizedRoom"]["roomCategory"], sup_room["normalizedRoom"]["roomCategory"]
+    ):
+        outcome["matchedRoomCategory"] = "partial"
+
+    if not outcome["matchedView"] and is_partial_match(
+        ref_room["normalizedRoom"]["view"], sup_room["normalizedRoom"]["view"]
+    ):
+        outcome["matchedView"] = "partial"
+
+    if not outcome["matchedAmenities"] and is_partial_match(
+        ref_room["normalizedRoom"]["amenities"], sup_room["normalizedRoom"]["amenities"]
+    ):
+        outcome["matchedAmenities"] = "partial"
+
+    if not outcome["bedTypes"] and is_partial_match(
+        ref_room["normalizedRoom"]["bedType"], sup_room["normalizedRoom"]["bedType"]
+    ):
+        outcome["bedTypes"] = "partial"
+
+    return outcome
+
+def add_match_to_results(ref_room, match, results):
+    """
+    Add a matched room to the results.
+    If the reference room already exists in the results, append the match;
+    otherwise, create a new entry for the reference room.
+    """
+    # Check if the reference room already exists in the results
+    for result in results:
+        if result["roomId"] == ref_room["roomId"]:
+            # Append the new match to the existing reference room
+            result["mappedRooms"].append(match)
+            return
+
+    # If the reference room is not found, create a new result entry
+    results.append({
+        "propertyName": ref_room["propertyName"],
+        "propertyId": ref_room["propertyId"],
+        "roomId": ref_room["roomId"],
+        "roomName": ref_room["roomName"],
+        "cleanRoomName": ref_room["cleanRoomName"],
+        "roomDescription": ref_room["normalizedRoom"],
+        "mappedRooms": [match]
+    })
 
 
 def map_rooms_with_multiple_passes(input_json):
@@ -414,8 +327,9 @@ def map_rooms_with_multiple_passes(input_json):
         for ref_room in reference_rooms:
             ref_embedding = reference_embeddings[ref_room["cleanRoomName"]]
             similarity = cosine_similarity(supplier_embedding, ref_embedding)
+            similarity = float(similarity)
 
-            if similarity > best_similarity and similarity > 0.9:  # Threshold for cosine similarity
+            if similarity > best_similarity and similarity > 0.8:  # Threshold for cosine similarity
                 best_similarity = similarity
                 best_match = ref_room
 

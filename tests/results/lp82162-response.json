@@ -1,3 +1,412 @@
 {
-  "error": "'in <string>' requires string as left operand, not list"
+  "Counts": {
+    "FirstPassMatches": 7,
+    "FourthPassMatches": 0,
+    "MappedSupplierRooms": 13,
+    "SecondPassMatches": 6,
+    "ThirdPassMatches": 0,
+    "TotalSupplierRooms": 13,
+    "UnmappedSupplierRooms": 0
+  },
+  "Results": [
+    {
+      "cleanRoomName": "superior twin room",
+      "mappedRooms": [
+        {
+          "cleanRoomName": "double or twin superior room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONJXGA3DKNZSGY4TMZRXGJ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZVGMZDQMZUEMZDENZNGUZTEOBTGR6E4USGJZ6DEMBSGQYDEMRWPQZXYNBVGU4DCI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3A",
+          "supplierRoomName": "Double or Twin SUPERIOR - ROOM ONLY"
+        },
+        {
+          "cleanRoomName": "superior 2 beds room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDAMZSGIYDMMRWGU3DINZTPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGNJTGI4DGNBDGMYTSLJVGMZDQMZUPRHFERSOPRKEI7BRPQ2DKNZRHERVETZDJZJEMTRDGIYDENBNGAZC2MRX",
+          "supplierRoomName": "Superior 2 Beds - Room Only"
+        },
+        {
+          "cleanRoomName": "double or twin superior room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONJXGA3DKNZSGY4TMZRXGJ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZVGMZDQMZUEMZTMMJNGUZTEOBTGR6E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GN6DINZXHEZCGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
+          "supplierRoomName": "Double or Twin SUPERIOR - Room Only"
+        },
+        {
+          "cleanRoomName": "double or twin superior room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONJXGA3DKNZSGY4TMZRXGJ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZVGMZDQMZUEMZDENZNGUZTEOBTGR6FERSOPQZDAMRUGA2TCMD4GR6DKMBWGQ3CGUSPENJEMTRDGIYDENBNGA2S2MJQ",
+          "supplierRoomName": "Double or Twin SUPERIOR - ROOM ONLY"
+        },
+        {
+          "cleanRoomName": "superior twin room room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMUZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZVGMZDQMZUEMZDQOBNGUZTEOBTGR6FERSOPQZDAMRUGA2TCMBSGAYDA7BRPQ2TEMJUGMRVETZDKJDE4IZSGAZDILJQGIWTENY",
+          "supplierRoomName": "Superior Twin Room - Room Only"
+        },
+        {
+          "cleanRoomName": "double or twin superior room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONJXGA3DKNZSGY4TMZRXGJ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZVGMZDQMZUEMZTMMJNGUZTEOBTGR6E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GZ6DKMRZGQZCGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
+          "supplierRoomName": "Double or Twin SUPERIOR - Room Only"
+        },
+        {
+          "cleanRoomName": "double or twin superior room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONJXGA3DKNZSGY4TMZRXGJ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZVGMZDQMZUEMZTMMJNGUZTEOBTGR6FERSOPQZDAMRUGA2TAOJRGYYDA7BSPQ2TGMJQGERVETZDKJDE4IZSGAZDILJQGUWTAOI",
+          "supplierRoomName": "Double or Twin SUPERIOR - Room Only"
+        }
+      ],
+      "propertyId": "381073",
+      "propertyName": "Hotel Minerve",
+      "roomDescription": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "roomId": "38107303",
+      "roomName": "Superior Twin Room"
+    },
+    {
+      "cleanRoomName": "design executive room",
+      "mappedRooms": [
+        {
+          "cleanRoomName": "double executive room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": "partial",
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "Second Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGUZTEOBTGQRTEMRXFU2TGMRYGM2HYTSSIZHHYMRQGI2DAMRSGZ6DE7BUHE4DQMRDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
+          "supplierRoomName": "DOUBLE EXECUTIVE - ROOM ONLY"
+        },
+        {
+          "cleanRoomName": "executive room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": "partial",
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "Second Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DK7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEM2TGMRYGM2CGMZRHEWTKMZSHAZTI7COKJDE47CUIR6DE7BVGAYDGMJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+          "supplierRoomName": "Executive - Room Only"
+        },
+        {
+          "cleanRoomName": "double executive room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": "partial",
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "Second Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGUZTEOBTGQRTGNRRFU2TGMRYGM2HYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQ2HYNJSGMYDAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
+          "supplierRoomName": "DOUBLE EXECUTIVE - Room Only"
+        },
+        {
+          "cleanRoomName": "double executive room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": "partial",
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "Second Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGUZTEOBTGQRTEMRXFU2TGMRYGM2HYUSGJZ6DEMBSGQYDKMJQPQYXYNJVGQZDKI2SJ4RVERSOEMZDAMRUFUYDKLJRGA",
+          "supplierRoomName": "DOUBLE EXECUTIVE - ROOM ONLY"
+        },
+        {
+          "cleanRoomName": "double executive room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": "partial",
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "Second Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGUZTEOBTGQRTGNRRFU2TGMRYGM2HYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQ2XYNJXHEZTQI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
+          "supplierRoomName": "DOUBLE EXECUTIVE - Room Only"
+        },
+        {
+          "cleanRoomName": "double executive room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": "partial",
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "Second Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGUZTEOBTGQRTGNRRFU2TGMRYGM2HYUSGJZ6DEMBSGQYDKMBZGE3DAMD4GF6DKOBRGEYSGUSPENJEMTRDGIYDENBNGA2S2MBZ",
+          "supplierRoomName": "DOUBLE EXECUTIVE - Room Only"
+        }
+      ],
+      "propertyId": "381073",
+      "propertyName": "Hotel Minerve",
+      "roomDescription": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "executive",
+          "design"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "roomId": "38107304",
+      "roomName": "Design Executive Room"
+    }
+  ],
+  "UnmappedRooms": []
 }
