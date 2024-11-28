@@ -82,16 +82,6 @@ def clean_text(room_name):
     for key, value in synonyms.items():
         room_name = re.sub(fr"\b{key}\b", value, room_name)
 
-    # Normalize predefined room types
-    for room_type in predefined_types:
-        if room_type in room_name:
-            return room_type
-
-    # Improved fallback logic
-    match = re.search(r"\b(single|double|triple|quad)\b", room_name)
-    if match:
-        return f"{match.group(0)} room"
-
     # If no match found, return normalized name
     return room_name.strip()
 

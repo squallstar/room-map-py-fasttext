@@ -1,19 +1,19 @@
 {
   "Counts": {
-    "FirstPassMatches": 25,
-    "FourthPassMatches": 0,
-    "MappedSupplierRooms": 25,
+    "FirstPassMatches": 1,
+    "FourthPassMatches": 4,
+    "MappedSupplierRooms": 5,
     "SecondPassMatches": 0,
     "ThirdPassMatches": 0,
     "TotalSupplierRooms": 52,
-    "UnmappedSupplierRooms": 27
+    "UnmappedSupplierRooms": 47
   },
   "Results": [
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "standard double room",
       "mappedRooms": [
         {
-          "cleanRoomName": "double room",
+          "cleanRoomName": "standard double room non refundable room only",
           "matchAttributes": {
             "bedTypes": true,
             "matchedAmenities": true,
@@ -29,233 +29,10 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQ2XYNZSGMZTQI2CIIRU4USGJYRTEMBSGQWTAMRNGI3A",
-          "supplierRoomName": "Standard Room with Double bed - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
+            "board": "room only",
+            "roomCategory": [
+              "standard"
             ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DE7BXGQYTIOBDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQ3HYNZUGE2DQI2CIIRU4USGJYRTEMBSGQWTAMRNGI3A",
-          "supplierRoomName": "Standard Room with Double bed - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DO7BXGU4TKOJDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6FERSOPQZDAMRUGA2TCND4GJ6DOOJWGQYCGQSCENJEMTRDGIYDENBNGA2S2MJU",
-          "supplierRoomName": "Standard Room with Double bed - Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGIYDCMBRPQ2HYOBQGA2DSI2CIIRU4USGJYRTEMBSGIWTAMJNGAYQ",
-          "supplierRoomName": "Standard Room with Double bed - Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQ2XYOBRGM4TOI2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DM7BYGE4TINJDIJBCGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQYTM7BYGMZDSMZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Standard Room with Double bed - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
           },
@@ -263,379 +40,88 @@
           "supplierRoomName": "Standard Double Room - Non-refundable - Room Only"
         },
         {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
+          "cleanRoomName": "standard room with double bed room only",
+          "pass": "Fourth Pass (Cosine Similarity)",
           "roomDescription": {
             "amenities": [
               "unknown"
             ],
             "bedType": [
-              "unknown"
+              "double bed"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
+            "board": "room only",
+            "roomCategory": [
+              "standard"
+            ],
+            "roomType": "unknown",
             "view": "unknown"
           },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DQ7BYGUYDCMZDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Privilege Room with a double bed - BED AND BREAKFAST"
+          "similarity": 0.9059228301048279,
+          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQYTM7BYGMZDSMZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
+          "supplierRoomName": "Standard Room with Double bed - ROOM ONLY"
         },
         {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
+          "cleanRoomName": "standard room with double bed room only",
+          "pass": "Fourth Pass (Cosine Similarity)",
           "roomDescription": {
             "amenities": [
               "unknown"
             ],
             "bedType": [
-              "unknown"
+              "double bed"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
+            "board": "room only",
+            "roomCategory": [
+              "standard"
+            ],
+            "roomType": "unknown",
             "view": "unknown"
           },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCND4HA2TCMBUENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
+          "similarity": 0.9059228301048279,
           "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQYTK7BYGUYTANBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
           "supplierRoomName": "Standard Room with Double bed - ROOM ONLY"
         },
         {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
+          "cleanRoomName": "standard room with double bed room only",
+          "pass": "Fourth Pass (Cosine Similarity)",
           "roomDescription": {
             "amenities": [
               "unknown"
             ],
             "bedType": [
-              "unknown"
+              "double bed"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
+            "board": "room only",
+            "roomCategory": [
+              "standard"
+            ],
+            "roomType": "unknown",
             "view": "unknown"
           },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DG7BYGY4DEMZDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Privilege Room with a double bed - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCMT4HA3DSMJVENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
+          "similarity": 0.9059228301048279,
           "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6FERSOPQZDAMRUGA2TCND4GEYHYOJQGI3DSI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
           "supplierRoomName": "Standard Room with Double bed - Room Only"
         },
         {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
+          "cleanRoomName": "standard room with double bed room only",
+          "pass": "Fourth Pass (Cosine Similarity)",
           "roomDescription": {
             "amenities": [
               "unknown"
             ],
             "bedType": [
-              "unknown"
+              "double bed"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
+            "board": "room only",
+            "roomCategory": [
+              "standard"
+            ],
+            "roomType": "unknown",
             "view": "unknown"
           },
+          "similarity": 0.9059228301048279,
           "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGIYDCMBRPQYTE7BZGE2TCOBDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
           "supplierRoomName": "Standard Room with Double bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQ3XYOJRHEZTQI2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Privilege Room with a double bed - Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQYTG7BZGIYDENRDKJHSGUSGJYRTEMBSGQWTANJNGE2A",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DQ7BZGMZTCOJDIJBCGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Privilege Room with a double bed - Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DCND4HEZTIMJTENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
-          "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DS7BZGU4TMOBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Privilege Room with a double bed - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCMD4HE3TONZZENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Privilege Room with a double bed - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQYTK7BRGAZDKNRYENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
-          "supplierRoomName": "Privilege Room with a double bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DCNT4GEYDINZYG4RVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
-          "supplierRoomName": "Privilege Room with a double bed - Room Only"
         }
       ],
       "propertyId": "57103",
@@ -648,7 +134,9 @@
           "unknown"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
+        "roomCategory": [
+          "standard"
+        ],
         "roomType": "double room",
         "view": "unknown"
       },
@@ -679,6 +167,47 @@
       "supplierRoomName": "Standard Room with twin beds - BED AND BREAKFAST"
     },
     {
+      "cleanRoomName": "standard room with double bed bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQ2XYNZSGMZTQI2CIIRU4USGJYRTEMBSGQWTAMRNGI3A",
+      "supplierRoomName": "Standard Room with Double bed - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DE7BXGQYTIOBDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - BED AND BREAKFAST"
+    },
+    {
       "cleanRoomName": "standard room with twin beds bed and breakfast",
       "normalizedRoom": {
         "amenities": [
@@ -698,6 +227,47 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGIZDOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDM7BUPQ3TIMJUHARUEQRDJZJEMTRDGIYDENBNGAZC2MRW",
       "supplierRoomName": "Standard Room with twin beds - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "standard room with double bed bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQ3HYNZUGE2DQI2CIIRU4USGJYRTEMBSGQWTAMRNGI3A",
+      "supplierRoomName": "Standard Room with Double bed - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DO7BXGU4TKOJDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with twin beds breakfast",
@@ -721,6 +291,26 @@
       "supplierRoomName": "Standard Room with twin beds - Breakfast"
     },
     {
+      "cleanRoomName": "standard room with double bed breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6FERSOPQZDAMRUGA2TCND4GJ6DOOJWGQYCGQSCENJEMTRDGIYDENBNGA2S2MJU",
+      "supplierRoomName": "Standard Room with Double bed - Breakfast"
+    },
+    {
       "cleanRoomName": "standard room with twin beds breakfast",
       "normalizedRoom": {
         "amenities": [
@@ -740,6 +330,26 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGM4DCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMRQGEYDC7BTPQ4DAMBUHERUEQRDJZJEMTRDGIYDEMRNGAYS2MBR",
       "supplierRoomName": "Standard Room with twin beds - Breakfast"
+    },
+    {
+      "cleanRoomName": "standard room with double bed breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGIYDCMBRPQ2HYOBQGA2DSI2CIIRU4USGJYRTEMBSGIWTAMJNGAYQ",
+      "supplierRoomName": "Standard Room with Double bed - Breakfast"
     },
     {
       "cleanRoomName": "standard room non refundable bb",
@@ -820,6 +430,46 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMBQHAYTSMJXGAYHYMT4HAYDSMZQENBEEI2OKJDE4IZSGAZDALJQHAWTCOI",
       "supplierRoomName": "Standard Room - BREAKFAST"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQ2XYOBRGM4TOI2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Breakfast"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DM7BYGE4TINJDIJBCGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Breakfast"
     },
     {
       "cleanRoomName": "standard room breakfast",
@@ -963,6 +613,26 @@
       "supplierRoomName": "Standard Room - Free Breakfast"
     },
     {
+      "cleanRoomName": "privilege room with a double bed bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DQ7BYGUYDCMZDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Privilege Room with a double bed - BED AND BREAKFAST"
+    },
+    {
       "cleanRoomName": "standard room with twin beds room only",
       "normalizedRoom": {
         "amenities": [
@@ -982,6 +652,26 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGIZDOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDM7BRGF6DQNJRGA2CGUSPENHFERSOEMZDAMRUFUYDELJSGY",
       "supplierRoomName": "Standard Room with twin beds - ROOM ONLY"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCND4HA2TCMBUENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - ROOM ONLY"
     },
     {
       "cleanRoomName": "standard room breakfast",
@@ -1004,6 +694,26 @@
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
+      "cleanRoomName": "privilege room with a double bed bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DG7BYGY4DEMZDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Privilege Room with a double bed - BED AND BREAKFAST"
+    },
+    {
       "cleanRoomName": "standard room breakfast",
       "normalizedRoom": {
         "amenities": [
@@ -1022,6 +732,26 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4KJDE47BSGAZDIMBVGE2TAMBQGB6DO7BYGY4DKOBDIJBCGUSGJYRTEMBSGAWTAOBNGE4Q",
       "supplierRoomName": "Standard Room - BREAKFAST"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCMT4HA3DSMJVENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - ROOM ONLY"
     },
     {
       "cleanRoomName": "standard room free breakfast",
@@ -1166,6 +896,86 @@
       "supplierRoomName": "Standard Room with twin beds - Room Only"
     },
     {
+      "cleanRoomName": "privilege room with a double bed breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQ3XYOJRHEZTQI2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Privilege Room with a double bed - Breakfast"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQYTG7BZGIYDENRDKJHSGUSGJYRTEMBSGQWTANJNGE2A",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Room Only"
+    },
+    {
+      "cleanRoomName": "privilege room with a double bed breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DQ7BZGMZTCOJDIJBCGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Privilege Room with a double bed - Breakfast"
+    },
+    {
+      "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "standard"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DCND4HEZTIMJTENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
+      "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Room Only"
+    },
+    {
       "cleanRoomName": "standard room room only",
       "normalizedRoom": {
         "amenities": [
@@ -1204,6 +1014,86 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTSLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYM34HE2TINBRENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Room Only"
+    },
+    {
+      "cleanRoomName": "privilege room with a double bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DS7BZGU4TMOBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Privilege Room with a double bed - ROOM ONLY"
+    },
+    {
+      "cleanRoomName": "privilege room with a double bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCMD4HE3TONZZENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Privilege Room with a double bed - ROOM ONLY"
+    },
+    {
+      "cleanRoomName": "privilege room with a double bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQYTK7BRGAZDKNRYENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
+      "supplierRoomName": "Privilege Room with a double bed - Room Only"
+    },
+    {
+      "cleanRoomName": "privilege room with a double bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "privilege"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DCNT4GEYDINZYG4RVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
+      "supplierRoomName": "Privilege Room with a double bed - Room Only"
     }
   ]
 }

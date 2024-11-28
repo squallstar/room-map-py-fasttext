@@ -3155,7 +3155,7 @@
       "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "single with views room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3163,9 +3163,9 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "room only",
         "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3292,7 +3292,7 @@
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "single with views breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3302,7 +3302,7 @@
         ],
         "board": "unknown",
         "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3347,7 +3347,7 @@
       "supplierRoomName": "Singular Room, 1 King Bed - Breakfast buffet"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "single room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3355,7 +3355,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "room only",
         "roomCategory": "unknown",
         "roomType": "single room",
         "view": "unknown"
@@ -3365,7 +3365,7 @@
       "supplierRoomName": "single - Room Only"
     },
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "twin double room style room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3373,8 +3373,10 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
+        "board": "room only",
+        "roomCategory": [
+          "style"
+        ],
         "roomType": "double room",
         "view": "unknown"
       },
@@ -3383,7 +3385,7 @@
       "supplierRoomName": "Twin/Double room - Style - Room Only"
     },
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "twin double room style room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3391,8 +3393,10 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
+        "board": "room only",
+        "roomCategory": [
+          "style"
+        ],
         "roomType": "double room",
         "view": "unknown"
       },
@@ -3475,7 +3479,7 @@
       "supplierRoomName": "Singular Extra Room, 1 King Bed - Breakfast buffet"
     },
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "twin double room style room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3483,8 +3487,10 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
+        "board": "room only",
+        "roomCategory": [
+          "style"
+        ],
         "roomType": "double room",
         "view": "unknown"
       },
@@ -3651,7 +3657,7 @@
       "supplierRoomName": "standard room - Room Only"
     },
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "twin double room singular room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3659,7 +3665,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
@@ -3669,7 +3675,7 @@
       "supplierRoomName": "Twin/Double room - Singular - Room Only"
     },
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "twin double room singular room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3677,7 +3683,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
@@ -3687,7 +3693,7 @@
       "supplierRoomName": "Twin/Double room - Singular - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "single breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3697,7 +3703,7 @@
         ],
         "board": "unknown",
         "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3724,7 +3730,7 @@
       "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "twin double room singular room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3732,7 +3738,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"

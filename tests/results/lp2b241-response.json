@@ -1,19 +1,19 @@
 {
   "Counts": {
-    "FirstPassMatches": 47,
-    "FourthPassMatches": 0,
-    "MappedSupplierRooms": 47,
+    "FirstPassMatches": 4,
+    "FourthPassMatches": 2,
+    "MappedSupplierRooms": 6,
     "SecondPassMatches": 0,
     "ThirdPassMatches": 0,
     "TotalSupplierRooms": 156,
-    "UnmappedSupplierRooms": 109
+    "UnmappedSupplierRooms": 150
   },
   "Results": [
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "superior double room with sofabed",
       "mappedRooms": [
         {
-          "cleanRoomName": "double room",
+          "cleanRoomName": "superior double room with sofabed room only",
           "matchAttributes": {
             "bedTypes": true,
             "matchedAmenities": true,
@@ -27,335 +27,12 @@
               "unknown"
             ],
             "bedType": [
-              "unknown"
+              "sofabed"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMJNGE3TMNZQGV6FERSOPQZDAMRUGA2TCNJSGE2TS7BSPQ4DCMZUGQRVETZDKJDE4IZSGAZDILJQGUWTCNI",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
+            "board": "room only",
+            "roomCategory": [
+              "superior"
             ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMJWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQYXYOBRG43DEI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - European Plan"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ2DE7BYGE4TEMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ2DC7BYGI3DIMZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GM4HYOBSG4ZTOI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BRPQ4DENZVGERVETZDKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGJ6DQMZZHA2CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGF6DQNBXG4ZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRJEMTT4GIYDENBQGIZDSMJQGAYHYOD4HA2DQNRXENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BSPQ4DKNBXGQRVETZDKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4TEMBSMQZDANZQGYYTMMZWMI3DCNRXGY2TEMBXGI3DCNZUGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQYXYOBVHE4TSI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - Package Rate - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQ3HYOBVHE4TSI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGOBRFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQZHYOBXGM4DCI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
           },
@@ -363,7 +40,7 @@
           "supplierRoomName": "Superior Double Room with Sofabed  - ROOM ONLY"
         },
         {
-          "cleanRoomName": "double room",
+          "cleanRoomName": "superior double room with sofabed room only",
           "matchAttributes": {
             "bedTypes": true,
             "matchedAmenities": true,
@@ -377,10 +54,12 @@
               "unknown"
             ],
             "bedType": [
-              "unknown"
+              "sofabed"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
+            "board": "room only",
+            "roomCategory": [
+              "superior"
+            ],
             "roomType": "double room",
             "view": "unknown"
           },
@@ -388,7 +67,7 @@
           "supplierRoomName": "Superior Double Room with Sofabed - Room Only"
         },
         {
-          "cleanRoomName": "double room",
+          "cleanRoomName": "superior double room with sofabed breakfast included in the price bed and breakfas",
           "matchAttributes": {
             "bedTypes": true,
             "matchedAmenities": true,
@@ -402,668 +81,43 @@
               "unknown"
             ],
             "bedType": [
-              "unknown"
+              "sofabed"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMJNGE3TMNZQGV6FERSOPQZDAMRUGA2TCNJSGE2TS7BTPQ4DSOBQHERUEQRDKJDE4IZSGAZDILJQGUWTCNI",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Free breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
+            "board": "breakfast included",
+            "roomCategory": [
+              "superior"
             ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ2DA7BZGAZDSNBDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGMYTEMBXGE3TKNRVGY2TMZJSMQ3TGNRZG5QTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3DINTGG42TMMRWMM3DKMRQG4ZTMZRWGY3DCMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG43DOMBVEMZDENZNGE3TMNZQGV6FERSOPQZDAMRUGA2TCNL4GIYHYOJQG4YTKI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
-          "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZTS7BZGEYTAMJDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GM3XYOJRGE4TKI2CIIZCGUSGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BTPQ4TCMZXG4RUEQRDKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Free breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBXG43DSNZUGY4DEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGY2TALJRG43DOMBVPRJEMTT4GIYDENBQGUYTI7BRGJ6DSMJXHA2CGUSPENJEMTRDGIYDENBNGA2S2MJU",
-          "supplierRoomName": "Superior Room 1 Double Bed with Sofa bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGB6DSMRRGIYSGQSCGIRU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANTCGY4TMZJWG4ZGINZTGY4TOYJWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZWG4YDKIZTGYYS2MJXGY3TANL4JZJEMTT4GIYDENBQGIZDIMJWGAYHYMRWPQ4TEMRQG4RVETZDJZJEMTRDGIYDENBNGAZC2MRU",
-          "supplierRoomName": "DOUBLE Executive Room With 1 King-Size Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQG4ZTMOJWMU3DONTDGY2TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENBRGYYDA7BSHB6DSMRSGA3SGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
-          "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Single Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANTCGY4TMZJWG4ZGINZTGY4TOYJWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZWG4YDKIZTGYYS2MJXGY3TANL4KJDE47BSGAZDIMBVGE2DCNRQGB6DI7BZGI2DQNJDKJHSGUSGJYRTEMBSGQWTANJNGE2A",
-          "supplierRoomName": "DOUBLE Executive Room With 1 King-Size Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQG4ZTMOJWMU3DONTDGY2TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRJEMTT4GIYDENBQGUYTIMJWGAYHYOL4HEZDIOBVENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
-          "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Single Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMJWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQ3HYOJSGUYTII2CIIRVERSOEMZDAMRUFUYDKLJRGM",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast Included"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQZTOLJRG43DOMBVPRJEMTT4GIYDENBQGQZDKMBQGAYHYND4HEZDKNRZENJE6I2SIZHCGMRQGI2C2MBUFUZDK",
-          "supplierRoomName": "DOUBLE EXECUTIVE KING BED - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIMZXFUYTONRXGA2XYUSGJZ6DEMBSGQYDIMRVGAYDAMD4GV6DSMRVGY4SGUSPENJEMTRDGIYDENBNGA2C2MRV",
-          "supplierRoomName": "DOUBLE EXECUTIVE - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BZPQ4TEOJZG4RUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRJEMTT4GIYDENBQGIZDSMJQGAYHYN34HEZTAOJQENBEEMRDKJDE4IZSGAZDILJQGIWTENY",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGMZVHEWTCNZWG4YDK7CSIZHHYMRQGI2DANJRGMYDAMBQPQYXYOJTGU4TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Superior Room with 1 Double Bed and Sofa Bed - RO"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGNJWG4WTCNZWG4YDK7CSIZHHYMRQGI2DANJRGMYDAMBQPQYXYOJTGU4TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Superior Room with 1 Double Bed and Sofa Bed - RO"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BUPQ4TGNZVHARUEQRDKJDE4IZSGAZDILJQGIWTENQ",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Free breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4TEMBSMQZDANZQGYYTMMZWMI3DCNRXGY2TEMBXGI3DCNZUGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQZDS7BZGQZTCMBDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - Package Rate - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQZTG7BZGQZTCMBDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - BED AND BREAKFAST"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENBRGYYDA7BTGJ6DSNJTGAYSGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
-          "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRJEMTT4GIYDENBQGUYTIMJWGAYHYMJYPQ4TKNJYHERVETZDKJDE4IZSGAZDILJQGUWTCNA",
-          "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIMZXFUYTONRXGA2XYUSGJZ6DEMBSGQYDIMRVGAYDAMD4G56DSNJWG43CGUSPENJEMTRDGIYDENBNGA2C2MRV",
-          "supplierRoomName": "DOUBLE EXECUTIVE QUEEN BED - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGOBRFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQYTO7BZGYZTCNBDIJBCGUSGJYRTEMBSGQWTANJNGE2Q",
-          "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
           },
           "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANRUGZTDONJWGI3GGNRVGIYDOMRWMY3GMNTEGIYDONZWHE3TINRYGIYDOMZWMY3DMNRRGYZDMNJWGQZDAMTEGIYDMMRXGI3DKNRRGZRDMNRWGE3TGNZUGIYDMOJWMU3DGNTDG42TMNBWGU3DIMRQGY4TMZJSGA3TINRYGY2TEMBXGA3TENRZGYZTMNJSGB6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG43DOMBVEM2TOMZNGE3TMNZQGV6FERSOPQZDAMRUGA2TCMT4GIZXYOJXGIYDAI2CIIRVERSOEMZDAMRUFUYDKLJRGI",
           "supplierRoomName": "Superior Double Room with Sofabed - Breakfast included in the price  - BED AND BREAKFAS"
-        },
+        }
+      ],
+      "propertyId": "53699",
+      "propertyName": "Novotel Paris Les Halles",
+      "roomDescription": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofabed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "double room",
+        "view": "unknown"
+      },
+      "roomId": "5369908",
+      "roomName": "Superior Double Room with Sofabed"
+    },
+    {
+      "cleanRoomName": "executive twin room",
+      "mappedRooms": [
         {
-          "cleanRoomName": "double room",
+          "cleanRoomName": "double executive room only",
           "matchAttributes": {
             "bedTypes": true,
             "matchedAmenities": true,
@@ -1079,113 +133,15 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
             "view": "unknown"
           },
-          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMRWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQ4XYOJYG44DSI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
-          "supplierRoomName": "Executive Room, 1 Queen Bed with Sofa bed, 1 Queen Bed and 1 Double Sofa Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGMYTEMBXGE3TKNRVGY2TMZJSMQ3TGNRZG5QTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3DINTGG42TMMRWMM3DKMRQG4ZTMZRWGY3DCMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG43DOMBVEM2TOMZNGE3TMNZQGV6FERSOPQZDAMRUGA2TCM34HB6DSOJRGAYCGUSPENJEMTRDGIYDENBNGA2S2MJT",
-          "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBXG43DSNZUGY4DEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGY2TALJRG43DOMBVPRJEMTT4GIYDENBQGUYTI7BSG56DCMBQGY3TII2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Superior Room 1 Double Bed with Sofa bed - Bed And Breakfast"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGMYTEMBXGE3TKNRVGY2TMZJSMQ3TGNRZG5QTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3DINTGG42TMMRWMM3DKMRQG4ZTMZRWGY3DCMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG43DOMBVEMZTQMJNGE3TMNZQGV6FERSOPQZDAMRUGA2TCND4HB6DCMBRGQ2DKI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - Room Only"
-        },
-        {
-          "cleanRoomName": "double room",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "roomCategory": "unknown",
-            "roomType": "double room",
-            "view": "unknown"
-          },
-          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMRWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQYTA7BRGAZDANBQENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
-          "supplierRoomName": "Executive Room, 1 Queen Bed with Sofa bed, 1 Queen Bed and 1 Double Sofa Bed - Room Only"
+          "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIMZXFUYTONRXGA2XYUSGJZ6DEMBSGQYDIMRVGAYDAMD4GV6DSMRVGY4SGUSPENJEMTRDGIYDENBNGA2C2MRV",
+          "supplierRoomName": "DOUBLE EXECUTIVE - Room Only"
         }
       ],
       "propertyId": "53699",
@@ -1198,27 +154,101 @@
           "unknown"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "double room",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
-      "roomId": "5369908",
-      "roomName": "Superior Double Room with Sofabed"
+      "roomId": "5369939",
+      "roomName": "Executive Twin Room"
+    },
+    {
+      "cleanRoomName": "executive queen room with 2 queen beds",
+      "mappedRooms": [
+        {
+          "cleanRoomName": "executive 1 queen bed room only",
+          "pass": "Fourth Pass (Cosine Similarity)",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "queen bed",
+              "queen"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "similarity": 0.9086880683898926,
+          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGMYTEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMBXFUYTONRXGA2XYTSSIZHHYVCEPQ4XYOJVGMYTSI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+          "supplierRoomName": "Executive 1 Queen Bed - Room Only"
+        },
+        {
+          "cleanRoomName": "executive 1 queen bed room only",
+          "pass": "Fourth Pass (Cosine Similarity)",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "queen bed",
+              "queen"
+            ],
+            "board": "room only",
+            "roomCategory": [
+              "executive"
+            ],
+            "roomType": "unknown",
+            "view": "unknown"
+          },
+          "similarity": 0.9086880683898926,
+          "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGMYTEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMJZFUYTONRXGA2XYTSSIZHHYVCEPQ4XYOJVGQYTII2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+          "supplierRoomName": "Executive 1 Queen Bed - Room Only"
+        }
+      ],
+      "propertyId": "53699",
+      "propertyName": "Novotel Paris Les Halles",
+      "roomDescription": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "queen",
+          "queen beds"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "queen room",
+        "view": "unknown"
+      },
+      "roomId": "5369935",
+      "roomName": "Executive Queen Room with Two Queen Beds"
     }
   ],
   "UnmappedRooms": [
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1248,17 +278,20 @@
       "supplierRoomName": "Classic Room, 1 Queen Bed with Sofa bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1266,17 +299,20 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1306,17 +342,20 @@
       "supplierRoomName": "Classic Room, 1 Queen Bed with Sofa bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "room superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1346,17 +385,20 @@
       "supplierRoomName": "Classic Room, 1 Queen Bed with Sofa bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "room superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1384,17 +426,41 @@
       "supplierRoomName": "Room SUPERIOR - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMJNGE3TMNZQGV6FERSOPQZDAMRUGA2TCNJSGE2TS7BSPQ4DCMZUGQRVETZDKJDE4IZSGAZDILJQGUWTCNI",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1402,22 +468,67 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZTGY4TMZJWG43GGNRVGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGMZRGEWTCNZWG4YDK7CSIZHHYMRQGI2DANJRGUYDAMBQPQ2HYOBRGY3DAI2SJ4RVERSOEMZDAMRQFUYDQLJRHE",
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed european plan",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMJWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQYXYOBRG43DEI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - European Plan"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ2DE7BYGE4TEMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
     },
     {
       "cleanRoomName": "superior sofabed room only",
@@ -1460,17 +571,41 @@
       "supplierRoomName": "Superior Sofabed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ2DC7BYGI3DIMZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed no breakfast",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1478,17 +613,63 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - no breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GM4HYOBSG4ZTOI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 1 double bed and 1 twin sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "double bed",
+          "sofa bed",
+          "twin sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BRPQ4DENZVGERVETZDKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1496,17 +677,20 @@
       "supplierRoomName": "Superior Room With Single Sofa Bed - ROOM ONLY"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1514,17 +698,41 @@
       "supplierRoomName": "Superior room with single sofa bed - ROOM ONLY"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGJ6DQMZZHA2CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1532,17 +740,20 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1550,17 +761,84 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGF6DQNBXG4ZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRJEMTT4GIYDENBQGIZDSMJQGAYHYOD4HA2DQNRXENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 1 double bed and 1 twin sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed",
+          "twin sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BSPQ4DKNBXGQRVETZDKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1568,17 +846,62 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 package rate room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4TEMBSMQZDANZQGYYTMMZWMI3DCNRXGY2TEMBXGI3DCNZUGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQYXYOBVHE4TSI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - Package Rate - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQ3HYOBVHE4TSI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1586,17 +909,20 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1604,17 +930,20 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1622,22 +951,46 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - BREAKFAST"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZTGY4TMZJWG43GGNRVGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGMZRGEWTCNZWG4YDK7CSIZHHYMRQGI2DANJRGUYDAMBQPQYTA7BYG4ZDINRDIJBCGUSGJYRTEMBSGAWTAOBNGE4Q",
       "supplierRoomName": "Superior Room with Single Sofa Bed - BREAKFAST"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGOBRFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQZHYOBXGM4DCI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Room Only"
     },
     {
       "cleanRoomName": "executive room with 1 king size bed room only",
@@ -1660,17 +1013,21 @@
       "supplierRoomName": "Executive Room With 1 King-Size Bed - ROOM ONLY"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "executive room with 1 queen size bed and 1 single bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "single bed",
+          "queen",
+          "queen size bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1678,17 +1035,20 @@
       "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Single Bed - ROOM ONLY"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1696,17 +1056,20 @@
       "supplierRoomName": "Superior Room With Single Sofa Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1714,17 +1077,20 @@
       "supplierRoomName": "Superior Room With Single Sofa Bed - Room only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed bed and breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1770,6 +1136,48 @@
       "supplierRoomName": "Superior Room - Accommodation only"
     },
     {
+      "cleanRoomName": "superior room 1 double bed with sofa bed free breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "free breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMJNGE3TMNZQGV6FERSOPQZDAMRUGA2TCNJSGE2TS7BTPQ4DSOBQHERUEQRDKJDE4IZSGAZDILJQGUWTCNI",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Free breakfast"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed breakfast for 2 guest",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "breakfast for 2",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ2DA7BZGAZDSNBDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast for Two Guest"
+    },
+    {
       "cleanRoomName": "superior sofabed free breakfast",
       "normalizedRoom": {
         "amenities": [
@@ -1810,17 +1218,43 @@
       "supplierRoomName": "Superior Sofabed - Free Breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "executive room with 1 queen size bed and 1 double sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double sofa bed",
+          "sofa bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGMYTEMBXGE3TKNRVGY2TMZJSMQ3TGNRZG5QTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3DINTGG42TMMRWMM3DKMRQG4ZTMZRWGY3DCMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG43DOMBVEMZDENZNGE3TMNZQGV6FERSOPQZDAMRUGA2TCNL4GIYHYOJQG4YTKI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
+      "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - ROOM ONLY"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1828,17 +1262,41 @@
       "supplierRoomName": "Superior room with single sofa bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed breakfast for 2 guest",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "breakfast for 2",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZTS7BZGEYTAMJDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast for Two Guest"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room and breakfast",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1846,17 +1304,63 @@
       "supplierRoomName": "Superior room with single sofa bed - ROOM AND BREAKFAST"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed breakfast for 2 guest",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "breakfast for 2",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIOBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GM3XYOJRGE4TKI2CIIZCGUSGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast for Two Guest"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 1 double bed and 1 twin sofa bed free breakfast",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "double bed",
+          "sofa bed",
+          "twin sofa bed"
+        ],
+        "board": "free breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BTPQ4TCMZXG4RUEQRDKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Free breakfast"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1864,7 +1368,7 @@
       "supplierRoomName": "Superior room with single sofa bed - ROOM ONLY"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior single room non refundable ro",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1873,7 +1377,9 @@
           "unknown"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
+        "roomCategory": [
+          "superior"
+        ],
         "roomType": "single room",
         "view": "unknown"
       },
@@ -1882,7 +1388,7 @@
       "supplierRoomName": "Superior Single Room Non refundable - RO"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior single room non refundable ro",
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1891,7 +1397,9 @@
           "unknown"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
+        "roomCategory": [
+          "superior"
+        ],
         "roomType": "single room",
         "view": "unknown"
       },
@@ -1900,17 +1408,41 @@
       "supplierRoomName": "Superior Single Room Non refundable - RO"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBXG43DSNZUGY4DEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGY2TALJRG43DOMBVPRJEMTT4GIYDENBQGUYTI7BRGJ6DSMJXHA2CGUSPENJEMTRDGIYDENBNGA2S2MJU",
+      "supplierRoomName": "Superior Room 1 Double Bed with Sofa bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed with breakfast",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1918,17 +1450,83 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - With Breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 breakfast for 2 guest",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "breakfast for 2",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGB6DSMRRGIYSGQSCGIRU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Breakfast for Two Guest"
+    },
+    {
+      "cleanRoomName": "double executive room with 1 king size bed room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
+        "bedType": [
+          "king size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANTCGY4TMZJWG4ZGINZTGY4TOYJWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZWG4YDKIZTGYYS2MJXGY3TANL4JZJEMTT4GIYDENBQGIZDIMJWGAYHYMRWPQ4TEMRQG4RVETZDJZJEMTRDGIYDENBNGAZC2MRU",
+      "supplierRoomName": "DOUBLE Executive Room With 1 King-Size Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "double executive room with 1 queen size bed and 1 single bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "single bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQG4ZTMOJWMU3DONTDGY2TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENBRGYYDA7BSHB6DSMRSGA3SGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
+      "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Single Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed with breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -1936,22 +1534,88 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - With Breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZTGY4TMZJWG43GGNRVGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGMZWGEWTCNZWG4YDK7COKJDE47BSGAZDIMBSGI2DCNRQGB6DCM34HEZDINBUENJE6I2OKJDE4IZSGAZDILJQGIWTENA",
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "double executive room with 1 king size bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "king size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANTCGY4TMZJWG4ZGINZTGY4TOYJWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZWG4YDKIZTGYYS2MJXGY3TANL4KJDE47BSGAZDIMBVGE2DCNRQGB6DI7BZGI2DQNJDKJHSGUSGJYRTEMBSGQWTANJNGE2A",
+      "supplierRoomName": "DOUBLE Executive Room With 1 King-Size Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "double executive room with 1 queen size bed and 1 single bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "single bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQG4ZTMOJWMU3DONTDGY2TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRJEMTT4GIYDENBQGUYTIMJWGAYHYOL4HEZDIOBVENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
+      "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Single Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed breakfast included",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "breakfast included",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMJWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQ3HYOJSGUYTII2CIIRVERSOEMZDAMRUFUYDKLJRGM",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast Included"
     },
     {
       "cleanRoomName": "room run of house room only",
@@ -1972,22 +1636,87 @@
       "supplierRoomName": "Room RUN OF HOUSE - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "double executive king bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "king bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQZTOLJRG43DOMBVPRJEMTT4GIYDENBQGQZDKMBQGAYHYND4HEZDKNRZENJE6I2SIZHCGMRQGI2C2MBUFUZDK",
+      "supplierRoomName": "DOUBLE EXECUTIVE KING BED - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed bed and breakfas",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZTGY4TMZJWG43GGNRVGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGNJXGMWTCNZWG4YDK7CSIZHHYMRQGI2DANJRGJ6DEMT4HEZDOMBQENBEEI2SIZHCGMRQGI2C2MBVFUYTE",
       "supplierRoomName": "Superior room with single sofa bed - BED AND BREAKFAS"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 breakfast for 2 guest",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "breakfast for 2",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZRGM2TS7BZPQ4TEOJZG4RUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Breakfast for Two Guest"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 breakfast for 2 guest",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "breakfast for 2",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDONBXG43DSNTFGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGQ4DELJRG43DOMBVPRJEMTT4GIYDENBQGIZDSMJQGAYHYN34HEZTAOJQENBEEMRDKJDE4IZSGAZDILJQGIWTENY",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed(1 Double Bed and 1 Twin Sofa Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "room superior bed breakfast",
@@ -2010,17 +1739,20 @@
       "supplierRoomName": "Room SUPERIOR - Bed & Breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2028,22 +1760,89 @@
       "supplierRoomName": "Superior Room with Single Sofa Bed - Breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with 1 double bed and sofa bed ro",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "double bed",
+          "sofa bed"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGMZVHEWTCNZWG4YDK7CSIZHHYMRQGI2DANJRGMYDAMBQPQYXYOJTGU4TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Superior Room with 1 Double Bed and Sofa Bed - RO"
+    },
+    {
+      "cleanRoomName": "superior room with 1 double bed and sofa bed ro",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "unknown",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGNJWG4WTCNZWG4YDK7CSIZHHYMRQGI2DANJRGMYDAMBQPQYXYOJTGU4TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Superior Room with 1 Double Bed and Sofa Bed - RO"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZTGY4TMZJWG43GGNRVGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGMZYGEWTCNZWG4YDK7COKJDE47BSGAZDEMBRGAYXYM34HEZTOMZZENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
       "supplierRoomName": "Superior Room with Single Sofa Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 1 double bed and 1 twin sofa bed free breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed",
+          "twin sofa bed"
+        ],
+        "board": "free breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGEZDMLJRG43DOMBVPRJEMTT4GIYDENBQGUYTK7BUPQ4TGNZVHARUEQRDKJDE4IZSGAZDILJQGIWTENQ",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed, 1 Double Bed and 1 Twin Sofa Bed - Free breakfast"
     },
     {
       "cleanRoomName": "room run of house room only",
@@ -2104,6 +1903,48 @@
       "supplierId": "nuitee",
       "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3GENRZGZSTMNZSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMJNGE3TMNZQGV6FERSOPQZDAMRUGA2TCNJSGE2TS7BRGR6DSMZZGU4CGUSPENJEMTRDGIYDENBNGA2S2MJV",
       "supplierRoomName": "Executive Room, 1 King Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 package rate bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4TEMBSMQZDANZQGYYTMMZWMI3DCNRXGY2TEMBXGI3DCNZUGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQZDS7BZGQZTCMBDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - Package Rate - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed 0 bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGIYDMMJWMU3DIMRQGMYTEMBXGQ3TONRZGZSTEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMBSFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJTPQZTG7BZGQZTCMBDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed (1 Double Bed and 1 Twin Sofa Bed) - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "executive room 1 king bed european plan",
@@ -2190,17 +2031,20 @@
       "supplierRoomName": "Executive Room, 1 King Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2208,22 +2052,48 @@
       "supplierRoomName": "Superior room with single sofa bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZTGY4TMZJWG43GGNRVGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGNBRHEWTCNZWG4YDK7CSIZHHYMRQGI2DANJRGR6DGN34HE2DSNZWENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "Superior room with single sofa bed - ROOM ONLY"
+    },
+    {
+      "cleanRoomName": "double executive room with 1 queen size bed and 1 double sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double sofa bed",
+          "sofa bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENBRGYYDA7BTGJ6DSNJTGAYSGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
+      "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - Room Only"
     },
     {
       "cleanRoomName": "executive 1 king bed room only",
@@ -2246,27 +2116,6 @@
       "supplierRoomName": "Executive 1 King Bed - Room Only"
     },
     {
-      "cleanRoomName": "executive 1 queen bed room only",
-      "normalizedRoom": {
-        "amenities": [
-          "unknown"
-        ],
-        "bedType": [
-          "queen bed",
-          "queen"
-        ],
-        "board": "room only",
-        "roomCategory": [
-          "executive"
-        ],
-        "roomType": "unknown",
-        "view": "unknown"
-      },
-      "supplierId": "nuitee",
-      "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGMYTEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMBXFUYTONRXGA2XYTSSIZHHYVCEPQ4XYOJVGMYTSI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-      "supplierRoomName": "Executive 1 Queen Bed - Room Only"
-    },
-    {
       "cleanRoomName": "executive 1 king bed room only",
       "normalizedRoom": {
         "amenities": [
@@ -2287,27 +2136,6 @@
       "supplierRoomName": "Executive 1 King Bed - Room Only"
     },
     {
-      "cleanRoomName": "executive 1 queen bed room only",
-      "normalizedRoom": {
-        "amenities": [
-          "unknown"
-        ],
-        "bedType": [
-          "queen bed",
-          "queen"
-        ],
-        "board": "room only",
-        "roomCategory": [
-          "executive"
-        ],
-        "roomType": "unknown",
-        "view": "unknown"
-      },
-      "supplierId": "nuitee",
-      "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGMYTEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGMJZFUYTONRXGA2XYTSSIZHHYVCEPQ4XYOJVGQYTII2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-      "supplierRoomName": "Executive 1 Queen Bed - Room Only"
-    },
-    {
       "cleanRoomName": "room run of house room only",
       "normalizedRoom": {
         "amenities": [
@@ -2326,17 +2154,20 @@
       "supplierRoomName": "Room RUN OF HOUSE - ROOM ONLY"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2471,17 +2302,43 @@
       "supplierRoomName": "Executive Room, 1 King Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "double executive room with 1 queen size bed and 1 double sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "double sofa bed",
+          "sofa bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGI3GMNTGGZSDEMBXG43DSNZUGY4DEMBTGEZDANZRG42TMNJWGU3GKMTEG4ZTMOJXME3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM3DCLJRG43DOMBVPRJEMTT4GIYDENBQGUYTIMJWGAYHYMJYPQ4TKNJYHERVETZDKJDE4IZSGAZDILJQGUWTCNA",
+      "supplierRoomName": "DOUBLE Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - Room Only"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed non refundable room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2489,17 +2346,42 @@
       "supplierRoomName": "Superior Room With Single Sofa Bed Non Refundable - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "double executive queen bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
+          "queen bed",
+          "queen"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTIMZXFUYTONRXGA2XYUSGJZ6DEMBSGQYDIMRVGAYDAMD4G56DSNJWG43CGUSPENJEMTRDGIYDENBNGA2C2MRV",
+      "supplierRoomName": "DOUBLE EXECUTIVE QUEEN BED - Room Only"
+    },
+    {
+      "cleanRoomName": "executive room with 1 queen size bed and 1 single bed room only",
+      "normalizedRoom": {
+        "amenities": [
           "unknown"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "bedType": [
+          "single bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2568,17 +2450,41 @@
       "supplierRoomName": "Executive Room with 1 king-size bed - ROOM ONLY"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room 1 double bed with sofa bed breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "double bed",
+          "sofa bed"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTGOBRFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQYTO7BZGYZTCNBDIJBCGUSGJYRTEMBSGQWTANJNGE2Q",
+      "supplierRoomName": "Superior Room, 1 Double Bed with Sofa bed - Breakfast"
+    },
+    {
+      "cleanRoomName": "superior room with single sofa bed bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "sofa bed",
+          "single sofa bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2586,17 +2492,20 @@
       "supplierRoomName": "Superior Room With Single Sofa Bed - Bed And Breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed bed and breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2604,17 +2513,20 @@
       "supplierRoomName": "Superior Room With Single Sofa Bed - Bed and breakfast"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed non refundable room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2794,17 +2706,21 @@
       "supplierRoomName": "Executive Room With 1 King-Size Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "executive room with 1 queen size bed and 1 single bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "single bed",
+          "queen",
+          "queen size bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -2895,6 +2811,29 @@
       "supplierRoomName": "Executive Room, 1 King Bed - Room Only"
     },
     {
+      "cleanRoomName": "executive room 1 queen bed with sofa bed 1 queen bed and 1 double sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "double sofa bed",
+          "sofa bed",
+          "queen"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMRWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQ4XYOJYG44DSI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
+      "supplierRoomName": "Executive Room, 1 Queen Bed with Sofa bed, 1 Queen Bed and 1 Double Sofa Bed - Room Only"
+    },
+    {
       "cleanRoomName": "executive room with 1 queen size bed and 1 doub le sofa bed room only",
       "normalizedRoom": {
         "amenities": [
@@ -2933,6 +2872,29 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZDONJWMUZDANTGGY3DEMBWHA3GMNZVG4ZTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZWG4YDKIZUGM3S2MJXGY3TANL4KJDE47BSGAZDIMBUGI2TAMBQGB6DQ7BZHEYDGOBDIJBCGUSGJYRTEMBSGQWTANBNGI2Q",
       "supplierRoomName": "Room RUN OF HOUSE - Bed & Breakfast"
+    },
+    {
+      "cleanRoomName": "executive room with 1 queen size bed and 1 double sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double sofa bed",
+          "sofa bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGMYTEMBXGE3TKNRVGY2TMZJSMQ3TGNRZG5QTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3DINTGG42TMMRWMM3DKMRQG4ZTMZRWGY3DCMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG43DOMBVEM2TOMZNGE3TMNZQGV6FERSOPQZDAMRUGA2TCM34HB6DSOJRGAYCGUSPENJEMTRDGIYDENBNGA2S2MJT",
+      "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - ROOM ONLY"
     },
     {
       "cleanRoomName": "executive room 1 king bed 0 package rate room only",
@@ -3041,17 +3003,20 @@
       "supplierRoomName": "Executive Room, 1 Queen Bed with Sofa bed(1 Queen Bed and 1 Double Sofa Bed) - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3059,22 +3024,46 @@
       "supplierRoomName": "Superior room with single sofa bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed bed and breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZTGY4TMZJWG43GGNRVGIYDOMZWMY3DMNRRGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTONRXGA2SGMJQGIWTCNZWG4YDK7CSIZHHYMRQGI2DAMRSGV6DGN34GEYDANBXGIRUEQRDJZJEMTRDGIYDENBNGAZC2MRV",
       "supplierRoomName": "Superior room with single sofa bed - BED AND BREAKFAST"
+    },
+    {
+      "cleanRoomName": "superior room 1 double bed with sofa bed bed and breakfast",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double bed",
+          "sofa bed"
+        ],
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBXG43DSNZUGY4DEMBXGM3GMNRWGYYTEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGY2TALJRG43DOMBVPRJEMTT4GIYDENBQGUYTI7BSG56DCMBQGY3TII2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Superior Room 1 Double Bed with Sofa bed - Bed And Breakfast"
     },
     {
       "cleanRoomName": "executive room 1 queen bed with sofa bed room only",
@@ -3139,17 +3128,21 @@
       "supplierRoomName": "Executive Room With 1 King-Size Bed - BED AND BREAKFAST"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "executive room with 1 queen size bed and 1 single bed bed and breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "single bed",
+          "queen",
+          "queen size bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "bed and breakfast",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3157,17 +3150,20 @@
       "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Single Bed - BED AND BREAKFAST"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed bed and breakfas",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3175,17 +3171,20 @@
       "supplierRoomName": "Superior Room With Single Sofa Bed - BED AND BREAKFAS"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "superior room with single sofa bed room and breakfast",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "sofa bed",
+          "single sofa bed"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "roomCategory": [
+          "superior"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3235,17 +3234,21 @@
       "supplierRoomName": "Executive Room With 1 King-Size Bed - Room Only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "executive room with 1 queen size bed and 1 single bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "single bed",
+          "queen",
+          "queen size bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3273,17 +3276,21 @@
       "supplierRoomName": "Executive Room With 1 King-Size Bed - Room only"
     },
     {
-      "cleanRoomName": "single room",
+      "cleanRoomName": "executive room with 1 queen size bed and 1 single bed room only",
       "normalizedRoom": {
         "amenities": [
           "unknown"
         ],
         "bedType": [
-          "unknown"
+          "single bed",
+          "queen",
+          "queen size bed"
         ],
-        "board": "unknown",
-        "roomCategory": "unknown",
-        "roomType": "single room",
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
         "view": "unknown"
       },
       "supplierId": "nuitee",
@@ -3313,6 +3320,29 @@
       "supplierRoomName": "Executive Room, 1 Queen Bed with Sofa bed(1 Queen Bed and 1 Double Sofa Bed) - Room Only"
     },
     {
+      "cleanRoomName": "executive room with 1 queen size bed and 1 double sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "double sofa bed",
+          "sofa bed",
+          "queen",
+          "queen size bed"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGMYTEMBXGE3TKNRVGY2TMZJSMQ3TGNRZG5QTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3DINTGG42TMMRWMM3DKMRQG4ZTMZRWGY3DCMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG43DOMBVEMZTQMJNGE3TMNZQGV6FERSOPQZDAMRUGA2TCND4HB6DCMBRGQ2DKI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Executive Room With 1 Queen-Size Bed And 1 Double Sofa Bed - Room Only"
+    },
+    {
       "cleanRoomName": "room run of house bed breakfast",
       "normalizedRoom": {
         "amenities": [
@@ -3329,6 +3359,29 @@
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZDONJWMUZDANTGGY3DEMBWHA3GMNZVG4ZTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZWG4YDKIZUGM3S2MJXGY3TANL4KJDE47BSGAZDIMBUGI2TAMBQGB6DS7BRGAYTKMZTENBEEI2SIZHCGMRQGI2C2MBUFUZDK",
       "supplierRoomName": "Room RUN OF HOUSE - Bed & Breakfast"
+    },
+    {
+      "cleanRoomName": "executive room 1 queen bed with sofa bed 1 queen bed and 1 double sofa bed room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "queen bed",
+          "double sofa bed",
+          "sofa bed",
+          "queen"
+        ],
+        "board": "room only",
+        "roomCategory": [
+          "executive"
+        ],
+        "roomType": "unknown",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSGA3TONRZG42DMOBSGA3TGNTGGY3DMMJSGA3DENRVGY2DEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRQGYYTMZJWGQZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3TGNTGGY3DMMJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TMNZQGURTCMRWFUYTONRXGA2XYUSGJZ6DEMBSGQYDKMJVPQYTA7BRGAZDANBQENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
+      "supplierRoomName": "Executive Room, 1 Queen Bed with Sofa bed, 1 Queen Bed and 1 Double Sofa Bed - Room Only"
     }
   ]
 }

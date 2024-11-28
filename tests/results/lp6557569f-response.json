@@ -10,10 +10,10 @@
   },
   "Results": [
     {
-      "cleanRoomName": "double room",
+      "cleanRoomName": "classic double room",
       "mappedRooms": [
         {
-          "cleanRoomName": "double room",
+          "cleanRoomName": "classic double room room only",
           "matchAttributes": {
             "bedTypes": true,
             "matchedAmenities": true,
@@ -29,8 +29,10 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
-            "roomCategory": "unknown",
+            "board": "room only",
+            "roomCategory": [
+              "classic"
+            ],
             "roomType": "double room",
             "view": "unknown"
           },
@@ -48,7 +50,9 @@
           "unknown"
         ],
         "board": "unknown",
-        "roomCategory": "unknown",
+        "roomCategory": [
+          "classic"
+        ],
         "roomType": "double room",
         "view": "unknown"
       },
