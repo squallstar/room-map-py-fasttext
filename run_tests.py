@@ -6,7 +6,7 @@ from collections import defaultdict
 # Directories
 input_directory = 'tests/'
 output_directory = 'tests/results'
-compare_directory = 'tests/cupid'
+compare_directory = 'tests/previous'
 endpoint_url = "http://127.0.0.1:5555/"  # Replace with your endpoint URL
 
 # Ensure the output and compare directories exist
@@ -98,7 +98,7 @@ for filename in os.listdir(input_directory):
                                 total_regressions += abs(diff_value)
 
                             print(f"  Room ID: {room_id}")
-                            print(f"    > Current model: {diff['current']} - Cupid model: {diff['previous']} - Difference: {diff['difference']}")
+                            print(f"    > Current model: {diff['current']} - Previous model: {diff['previous']} - Difference: {diff['difference']}")
                 else:
                     print(f"No previous results found for {filename}. Skipping comparison.\r")
 
