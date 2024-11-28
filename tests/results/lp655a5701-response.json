@@ -451,7 +451,7 @@
           "twin bed",
           "twin beds"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room with twin beds breakfast",
         "roomCategory": [
           "standard"
@@ -495,7 +495,7 @@
         "bedType": [
           "double bed"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room with double bed breakfast",
         "roomCategory": [
           "standard"
@@ -540,7 +540,7 @@
           "twin bed",
           "twin beds"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room with twin beds breakfast",
         "roomCategory": [
           "standard"
@@ -584,7 +584,7 @@
         "bedType": [
           "double bed"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room with double bed breakfast",
         "roomCategory": [
           "standard"
@@ -716,7 +716,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -760,7 +760,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -804,7 +804,7 @@
         "bedType": [
           "double bed"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room with 1 double bed and 1 sofa breakfast",
         "roomCategory": [
           "standard"
@@ -848,7 +848,7 @@
         "bedType": [
           "double bed"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room with 1 double bed and 1 sofa breakfast",
         "roomCategory": [
           "standard"
@@ -892,7 +892,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -980,7 +980,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -1024,7 +1024,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -1334,7 +1334,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -1422,7 +1422,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -1820,7 +1820,7 @@
         "bedType": [
           "double bed"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "privilege room with a double bed breakfast",
         "roomCategory": [
           "privilege"
@@ -1908,7 +1908,7 @@
         "bedType": [
           "double bed"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "privilege room with a double bed breakfast",
         "roomCategory": [
           "privilege"

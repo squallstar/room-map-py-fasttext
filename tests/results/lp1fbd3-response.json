@@ -143,58 +143,6 @@
           "supplierRoomName": "Singular Room(1 King Bed) - Room Only"
         },
         {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQZDI7BRGAZTAOJUENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYTSSIZHHYMRQGIZDAMJQGF6DK7BRGA3DENRSENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
-          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Room Only"
-        },
-        {
           "cleanRoomName": "singular room breakfast included",
           "matchAttributes": {
             "bedTypes": true,
@@ -219,58 +167,6 @@
           },
           "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTCLJRGMYDAMBTPRHFERSOPQZDAMRSGAYTAML4G56DCMBWGU3TSI2CIIRU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Singular Room - Breakfast buffet"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ3XYMJQGY4TGNBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 0 room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DEMD4GEYDMOJTGQRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Room Only"
         },
         {
           "cleanRoomName": "singular room room only",
@@ -315,7 +211,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "singular room breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
@@ -323,32 +219,6 @@
           },
           "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTQMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQYTS7BRGEYDCMJXENBEEI2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "Singular Room - Breakfast"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame breakfast included",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast included",
-            "cleanRoom": "singular room with glimpses of notre dame breakfast included",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQZDA7BRGEYDKMBZENBEEI2OKJDE4IZSGAZDELJQGEWTAMI",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast buffet"
         },
         {
           "cleanRoomName": "singular room room only",
@@ -481,58 +351,6 @@
           "supplierRoomName": "Singular Extra Room - Room Only"
         },
         {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQ4HYMJRGM4TKNBDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
-          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame breakfast",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "cleanRoom": "singular room with glimpses of notre dame breakfast",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYTSSIZHHYMRQGIZDAMJQGF6DEMT4GEYTIMJWHARUEQRDJZJEMTRDGIYDEMRNGAYS2MBR",
-          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Breakfast"
-        },
-        {
           "cleanRoomName": "singular room 0 room only",
           "matchAttributes": {
             "bedTypes": true,
@@ -637,32 +455,6 @@
           "supplierRoomName": "Room Singular Room - Room Only"
         },
         {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNBRGI2TS7BSGF6DCMJUHE4DII2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
-        },
-        {
           "cleanRoomName": "room singular room room only",
           "matchAttributes": {
             "bedTypes": true,
@@ -687,58 +479,6 @@
           },
           "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTMMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCMRRGYYDA7BVPQYTCNJQGI3CGUSPENJEMTRDGIYDENBNGA2S2MJS",
           "supplierRoomName": "Room Singular Room - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame breakfast for 2 guest",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast for 2",
-            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4XYMJRGU2TGNRDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast for 2",
-            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DCOL4GEYTKNJTGYRUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Breakfast for Two Guest"
         },
         {
           "cleanRoomName": "singular room 0 room only",
@@ -913,7 +653,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "singular room breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
@@ -921,162 +661,6 @@
           },
           "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTQMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCM34GIZXYMJRHA3TOMZDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
           "supplierRoomName": "Singular Room - Breakfast"
-        },
-        {
-          "cleanRoomName": "room singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "room singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQYTE7BRGE4TAMJVENJE6I2OKJDE4IZSGAZDILJQGIWTENA",
-          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTE7BRGE4TAOJSENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 0 room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DEM34GEYTSMBZGIRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Room Only"
-        },
-        {
-          "cleanRoomName": "room singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "room singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJSGE3DAMD4GR6DCMJZGM3TGI2SJ4RVERSOEMZDAMRUFUYDKLJRGI",
-          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GEYHYMJSGAZTIMZDKJHSGUSGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 0 room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQZDC7BRGIYDGNBTENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Room Only"
         },
         {
           "cleanRoomName": "singular room breakfast included",
@@ -1155,32 +739,6 @@
           },
           "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTCLJRGMYDAMBTPRHFERSOPQZDAMRSGAYTAML4GZ6DCMRSGI4TQI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Singular Room - Room Only"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame breakfast",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "cleanRoom": "singular room with glimpses of notre dame breakfast",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQZDK7BRGIZTCMJZENBEEI2SIZHCGMRQGI2C2MBVFUYTG",
-          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Breakfast"
         },
         {
           "cleanRoomName": "singular extra room room only",
@@ -1287,32 +845,6 @@
           "supplierRoomName": "Singular Extra Room(1 King Bed) - Breakfast for Two Guest"
         },
         {
-          "cleanRoomName": "singular room with glimpses of notre dame breakfast included",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast included",
-            "cleanRoom": "singular room with glimpses of notre dame breakfast included",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNBRGI2TS7BRHB6DCMRUHE4TII2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast buffet"
-        },
-        {
           "cleanRoomName": "room singular room with breakfast",
           "matchAttributes": {
             "bedTypes": true,
@@ -1329,7 +861,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "room singular room with breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
@@ -1433,7 +965,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "room singular room with breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
@@ -1547,32 +1079,6 @@
           "supplierRoomName": "Singular Room(1 King Bed) - Breakfast for Two Guest"
         },
         {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQZDE7BRGI3TANZXENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
-        },
-        {
           "cleanRoomName": "singular room room only",
           "matchAttributes": {
             "bedTypes": true,
@@ -1651,110 +1157,6 @@
           "supplierRoomName": "Room Singular Extra Room - Room Only"
         },
         {
-          "cleanRoomName": "room singular room with glimpses of notre dame with breakfast",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "cleanRoom": "room singular room with glimpses of notre dame with breakfast",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQYTK7BRGMYDAMZRENBEEI2OKJDE4IZSGAZDILJQGIWTENA",
-          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - With Breakfast"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame breakfast for 2 guest",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast for 2",
-            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTC7BRGMYDANRVENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast for 2",
-            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DEND4GEZTAMBWGURUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "room singular room with glimpses of notre dame with breakfast",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "unknown",
-            "cleanRoom": "room singular room with glimpses of notre dame with breakfast",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJSGE3DAMD4G56DCMZQGQZDII2CIIRVERSOEMZDAMRUFUYDKLJRGI",
-          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - With Breakfast"
-        },
-        {
           "cleanRoomName": "singular room room only",
           "matchAttributes": {
             "bedTypes": true,
@@ -1781,32 +1183,6 @@
           "supplierRoomName": "Singular Room - Room Only"
         },
         {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNJRGI2TS7BRHF6DCMZQHA3DSI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
-        },
-        {
           "cleanRoomName": "singular room room only",
           "matchAttributes": {
             "bedTypes": true,
@@ -1831,84 +1207,6 @@
           },
           "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZDENZNGEZTAMBQGN6FERSOPQZDAMRUGA2TCND4GE2HYMJTGEZTGOBDKJHSGUSGJYRTEMBSGQWTANJNGE2A",
           "supplierRoomName": "Singular Room - ROOM ONLY"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame breakfast for 2 guest",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast for 2",
-            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYUSGJZ6DEMBSGQYDEMRZGEYDAMD4HB6DCMZRGQZTEI2CIIZCGUSGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "breakfast for 2",
-            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQZDE7BRGMYTIMZSENBEEMRDKJDE4IZSGAZDILJQGIWTENY",
-          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Breakfast for Two Guest"
-        },
-        {
-          "cleanRoomName": "singular room with glimpses of notre dame room only",
-          "matchAttributes": {
-            "bedTypes": true,
-            "matchedAmenities": true,
-            "matchedRoomCategory": true,
-            "matchedRoomType": true,
-            "matchedView": true
-          },
-          "pass": "First Pass",
-          "roomDescription": {
-            "amenities": [
-              "unknown"
-            ],
-            "bedType": [
-              "unknown"
-            ],
-            "board": "room only",
-            "cleanRoom": "singular room with glimpses of notre dame room only",
-            "roomCategory": "unknown",
-            "roomType": "singular",
-            "view": "unknown"
-          },
-          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTEMRXFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGZ6DCNL4GEZTENJUGERVETZDJZJEMTRDGIYDENBNGAZC2MRW",
-          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - ROOM ONLY"
         },
         {
           "cleanRoomName": "singular room breakfast included",
@@ -1953,7 +1251,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "singular extra room breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
@@ -2197,7 +1495,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "style room breakfast",
             "roomCategory": [
               "style"
@@ -2449,7 +1747,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "style room breakfast",
             "roomCategory": [
               "style"
@@ -2617,7 +1915,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "room style room with breakfast",
             "roomCategory": [
               "style"
@@ -2645,7 +1943,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "room style room with breakfast",
             "roomCategory": [
               "style"
@@ -3012,6 +2310,730 @@
       },
       "roomId": "5439605",
       "roomName": "Style Room"
+    },
+    {
+      "cleanRoomName": "singular room with glimpses of notre dame",
+      "mappedRooms": [
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQZDI7BRGAZTAOJUENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYTSSIZHHYMRQGIZDAMJQGF6DK7BRGA3DENRSENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
+          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ3XYMJQGY4TGNBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame 0 room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DEMD4GEYDMOJTGQRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame breakfast included",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast included",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast included",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQZDA7BRGEYDKMBZENBEEI2OKJDE4IZSGAZDELJQGEWTAMI",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast buffet"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQ4HYMJRGM4TKNBDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
+          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame breakfast",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYTSSIZHHYMRQGIZDAMJQGF6DEMT4GEYTIMJWHARUEQRDJZJEMTRDGIYDEMRNGAYS2MBR",
+          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Breakfast"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNBRGI2TS7BSGF6DCMJUHE4DII2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame breakfast for 2 guest",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4XYMJRGU2TGNRDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast for Two Guest"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DCOL4GEYTKNJTGYRUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Breakfast for Two Guest"
+        },
+        {
+          "cleanRoomName": "room singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "room singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQYTE7BRGE4TAMJVENJE6I2OKJDE4IZSGAZDILJQGIWTENA",
+          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTE7BRGE4TAOJSENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame 0 room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DEM34GEYTSMBZGIRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Room Only"
+        },
+        {
+          "cleanRoomName": "room singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "room singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJSGE3DAMD4GR6DCMJZGM3TGI2SJ4RVERSOEMZDAMRUFUYDKLJRGI",
+          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GEYHYMJSGAZTIMZDKJHSGUSGJYRTEMBSGQWTAMRNGI3Q",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame 0 room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQZDC7BRGIYDGNBTENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame breakfast",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQZDK7BRGIZTCMJZENBEEI2SIZHCGMRQGI2C2MBVFUYTG",
+          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - Breakfast"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame breakfast included",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast included",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast included",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNBRGI2TS7BRHB6DCMRUHE4TII2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast buffet"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQZDE7BRGI3TANZXENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "room singular room with glimpses of notre dame with breakfast",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast",
+            "cleanRoom": "room singular room with glimpses of notre dame with breakfast",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQYTK7BRGMYDAMZRENBEEI2OKJDE4IZSGAZDILJQGIWTENA",
+          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - With Breakfast"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame breakfast for 2 guest",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTC7BRGMYDANRVENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast for Two Guest"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DEND4GEZTAMBWGURUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Breakfast for Two Guest"
+        },
+        {
+          "cleanRoomName": "room singular room with glimpses of notre dame with breakfast",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast",
+            "cleanRoom": "room singular room with glimpses of notre dame with breakfast",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZDMZRWMY3GIMRQG4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGNRRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJSGE3DAMD4G56DCMZQGQZDII2CIIRVERSOEMZDAMRUFUYDKLJRGI",
+          "supplierRoomName": "Room Singular Room With Glimpses Of Notre Dame - With Breakfast"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNJRGI2TS7BRHF6DCMZQHA3DSI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Room Only"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame breakfast for 2 guest",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTIOBSFUYTGMBQGAZXYUSGJZ6DEMBSGQYDEMRZGEYDAMD4HB6DCMZRGQZTEI2CIIZCGUSGJYRTEMBSGQWTAMRNGI3Q",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame - Breakfast for Two Guest"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEOBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGQZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBYGIWTCMZQGAYDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQZDE7BRGMYTIMZSENBEEMRDKJDE4IZSGAZDILJQGIWTENY",
+          "supplierRoomName": "Singular Room with Glimpses of Notre Dame(1 Queen Bed) - Breakfast for Two Guest"
+        },
+        {
+          "cleanRoomName": "singular room with glimpses of notre dame room only",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
+            "roomCategory": "unknown",
+            "roomType": "singular",
+            "view": "glimpses"
+          },
+          "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTEMRXFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGZ6DCNL4GEZTENJUGERVETZDJZJEMTRDGIYDENBNGAZC2MRW",
+          "supplierRoomName": "Singular Room With Glimpses Of Notre Dame - ROOM ONLY"
+        }
+      ],
+      "propertyId": "54396",
+      "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+      "roomDescription": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "cleanRoom": "singular room with glimpses of notre dame",
+        "roomCategory": "unknown",
+        "roomType": "singular",
+        "view": "glimpses"
+      },
+      "roomId": "5439628",
+      "roomName": "Singular Room with Glimpses of Notre Dame"
     }
   ],
   "UnmappedRooms": [
@@ -3243,7 +3265,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -3262,7 +3284,7 @@
         "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
-        "view": "unknown"
+        "view": "glimpses"
       },
       "similarity": 0.8967925310134888,
       "supplierId": "nuitee",
@@ -3426,7 +3448,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
@@ -3454,7 +3476,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -3473,7 +3495,7 @@
         "cleanRoom": "singular room with glimpses of notre dame 1 queen bed breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
-        "view": "unknown"
+        "view": "glimpses"
       },
       "similarity": 0.8791722059249878,
       "supplierId": "nuitee",
@@ -3576,7 +3598,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -3787,7 +3809,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -3806,7 +3828,7 @@
         "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
-        "view": "unknown"
+        "view": "glimpses"
       },
       "similarity": 0.8967925310134888,
       "supplierId": "nuitee",
@@ -3873,7 +3895,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -3887,7 +3909,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "single with views breakfast",
         "roomCategory": "unknown",
         "roomType": "unknown",
@@ -4373,7 +4395,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -4392,7 +4414,7 @@
         "cleanRoom": "singular room with glimpses of notre dame 1 queen bed breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
-        "view": "unknown"
+        "view": "glimpses"
       },
       "similarity": 0.8791722059249878,
       "supplierId": "nuitee",
@@ -4495,7 +4517,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -4514,7 +4536,7 @@
         "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
-        "view": "unknown"
+        "view": "glimpses"
       },
       "similarity": 0.8967925310134888,
       "supplierId": "nuitee",
@@ -4762,7 +4784,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "single breakfast",
         "roomCategory": "unknown",
         "roomType": "unknown",
@@ -4788,7 +4810,7 @@
           "cleanRoom": "singular room with glimpses of notre dame",
           "roomCategory": "unknown",
           "roomType": "singular",
-          "view": "unknown"
+          "view": "glimpses"
         },
         "propertyId": "54396",
         "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
@@ -4807,7 +4829,7 @@
         "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
-        "view": "unknown"
+        "view": "glimpses"
       },
       "similarity": 0.8967925310134888,
       "supplierId": "nuitee",

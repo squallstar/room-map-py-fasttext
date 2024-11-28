@@ -1005,7 +1005,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior double breakfast",
             "roomCategory": [
               "superior"
@@ -1033,7 +1033,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior twin breakfast",
             "roomCategory": [
               "superior"
@@ -1425,7 +1425,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "twin superior twin with breakfast",
             "roomCategory": [
               "superior"
@@ -1453,7 +1453,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "twin superior twin with breakfast",
             "roomCategory": [
               "superior"
@@ -1593,7 +1593,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior twin room full breakfast",
             "roomCategory": [
               "superior"
@@ -1621,7 +1621,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior twin room full breakfast",
             "roomCategory": [
               "superior"
@@ -1677,7 +1677,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "double superior double with breakfast",
             "roomCategory": [
               "superior"
@@ -1761,7 +1761,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "double superior double with breakfast",
             "roomCategory": [
               "superior"
@@ -1817,7 +1817,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior twin breakfast",
             "roomCategory": [
               "superior"
@@ -1901,7 +1901,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior double breakfast",
             "roomCategory": [
               "superior"
@@ -2933,7 +2933,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior double room full breakfast",
             "roomCategory": [
               "superior"
@@ -2961,7 +2961,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior double room full breakfast",
             "roomCategory": [
               "superior"
@@ -3157,7 +3157,7 @@
             "bedType": [
               "unknown"
             ],
-            "board": "unknown",
+            "board": "breakfast",
             "cleanRoom": "superior double room breakfast",
             "roomCategory": [
               "superior"
@@ -3474,7 +3474,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard double breakfast",
         "roomCategory": [
           "standard"
@@ -4030,7 +4030,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "double standard double with breakfast",
         "roomCategory": [
           "standard"
@@ -4074,7 +4074,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "double standard double with breakfast",
         "roomCategory": [
           "standard"
@@ -4462,7 +4462,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "double room full breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",
@@ -4504,7 +4504,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "double room full breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",
@@ -4672,7 +4672,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "standard double breakfast",
         "roomCategory": [
           "standard"
@@ -5018,7 +5018,7 @@
         "bedType": [
           "unknown"
         ],
-        "board": "unknown",
+        "board": "breakfast",
         "cleanRoom": "double room breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",

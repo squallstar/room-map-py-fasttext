@@ -120,7 +120,7 @@ def extract_board_type(clean_name):
         'all inclusive', 'self catering', 'board basis', 'breakfast included',
         'dinner included', 'lunch included', 'breakfast & dinner', 'full pension',
         'breakfast for 2', 'free breakfast', 'complimentary breakfast', 'no meals',
-        'meal plan available', 'kitchenette', 'full kitchen'
+        'meal plan available', 'kitchenette', 'full kitchen', 'breakfast buffet', 'breakfast'
     ]
     for board_type in board_types:
         if board_type in clean_name:
@@ -134,7 +134,7 @@ def extract_view(clean_name):
         'city view', 'sea view', 'garden view', 'courtyard view', 'mountain view',
         'beachfront', 'pool view', 'lake view', 'river view', 'panoramic view',
         'ocean view', 'forest view', 'park view', 'street view', 'skyline view',
-        'terrace view', 'courtyard area', 'empire state view', 'fifth avenue', 'seine river view'
+        'terrace view', 'courtyard area', 'empire state view', 'fifth avenue', 'seine river view', 'glimpses'
     ]
     for view in views:
         if view in clean_name:
