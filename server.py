@@ -61,7 +61,7 @@ def map_rooms_trained_fasttext(input_json):
     results = {}
     unmapped_rates = []
 
-    # Map supplier rooms to all reference rooms that meet the threshold
+    # Map supplier rooms to the highest scoring reference room
     for supplier in input_catalog:
         supplier_id = supplier["supplierId"]
 
@@ -72,47 +72,50 @@ def map_rooms_trained_fasttext(input_json):
 
             supplier_embedding = supplier_embeddings[clean_sup_room_name]
 
-            # Track whether the supplier room is mapped
-            is_mapped = False
+            # Find the best matching reference room
+            best_match = None
+            best_similarity = -1
 
             for clean_ref_room_name, ref_embedding in reference_embeddings.items():
                 similarity = cosine_similarity(supplier_embedding, ref_embedding)
 
-                if similarity > 0.75:  # Threshold for matching
-                    is_mapped = True
-                    ref_room = ref_room_mapping[clean_ref_room_name]
-                    ref_room_key = (ref_room["propertyId"], ref_room["roomId"])
+                if similarity > best_similarity:
+                    best_similarity = similarity
+                    best_match = clean_ref_room_name
 
-                    if ref_room_key not in results:
-                        results[ref_room_key] = {
-                            "propertyName": ref_room["propertyName"],
-                            "propertyId": ref_room["propertyId"],
-                            "roomId": ref_room["roomId"],
-                            "roomName": ref_room["roomName"],
-                            "cleanRoomName": ref_room["cleanRoomName"],
-                            "roomDescription": "",  # Placeholder for room description
-                            "mappedRooms": [],
-                        }
+            if best_similarity > 0.68 and best_match:
+                # Aggregate mapped rooms under the best matching reference room
+                ref_room = ref_room_mapping[best_match]
+                ref_room_key = (ref_room["propertyId"], ref_room["roomId"])
 
-                    results[ref_room_key]["mappedRooms"].append({
-                        "supplierId": supplier_id,
-                        "supplierRoomId": sup_room_id,
-                        "supplierRoomName": sup_room_name,
-                        "cleanSupplierRoomName": clean_sup_room_name,
-                        "similarity": float(similarity),
-                    })
+                if ref_room_key not in results:
+                    results[ref_room_key] = {
+                        "propertyName": ref_room["propertyName"],
+                        "propertyId": ref_room["propertyId"],
+                        "roomId": ref_room["roomId"],
+                        "roomName": ref_room["roomName"],
+                        "cleanRoomName": ref_room["cleanRoomName"],
+                        "roomDescription": "",  # Placeholder for room description
+                        "mappedRooms": [],
+                    }
 
-            if not is_mapped:
+                results[ref_room_key]["mappedRooms"].append({
+                    "supplierId": supplier_id,
+                    "supplierRoomId": sup_room_id,
+                    "supplierRoomName": sup_room_name,
+                    "cleanSupplierRoomName": clean_sup_room_name,
+                    "similarity": float(best_similarity),
+                })
+            else:
                 # Mark as unmapped if no match exceeds the threshold
                 unmapped_rates.append({
                     "supplierId": supplier_id,
                     "supplierRoomId": sup_room_id,
                     "supplierRoomName": sup_room_name,
                     "cleanSupplierRoomName": clean_sup_room_name,
-                    "similarity": float(similarity) if similarity > 0 else 0,
-                    "closestMatch": None,  # Optional: Store the closest match if needed
+                    "similarity": float(best_similarity) if best_match else 0,
+                    "closestMatch": best_match,
                 })
-
 
     # Sort unmapped rates by similarity in descending order
     unmapped_rates.sort(key=lambda x: x["similarity"], reverse=True)
