@@ -347,20 +347,6 @@
           "supplierRoomName": "Superior room with single sofa bed - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "superior single room non refundable ro",
-          "similarity": 0.6841540336608887,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZTGY4TMZJWG43GGNRVGIYDOMRWMY3GMNTEGIYDMZJWMY3GKMRQG4ZDMNJWGY3TKNTFGY2DMMJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM2TSLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZQGAYDA7BTPQ4TCNJZGYRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Superior Single Room Non refundable - RO"
-        },
-        {
-          "cleanSupplierRoomName": "superior single room non refundable ro",
-          "similarity": 0.6841540336608887,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZTGY4TMZJWG43GGNRVGIYDOMRWMY3GMNTEGIYDMZJWMY3GKMRQG4ZDMNJWGY3TKNTFGY2DMMJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGU3DOLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZQGAYDA7BTPQ4TCNJZGYRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Superior Single Room Non refundable - RO"
-        },
-        {
           "cleanSupplierRoomName": "superior room 1 double bed with sofa bed room only",
           "similarity": 0.8919903039932251,
           "supplierId": "nuitee",
@@ -1102,6 +1088,22 @@
     }
   ],
   "Unmapped": [
+    {
+      "cleanSupplierRoomName": "superior single room non refundable ro",
+      "closestMatch": "superior double room with sofabed",
+      "similarity": 0.6841540336608887,
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZTGY4TMZJWG43GGNRVGIYDOMRWMY3GMNTEGIYDMZJWMY3GKMRQG4ZDMNJWGY3TKNTFGY2DMMJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGM2TSLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZQGAYDA7BTPQ4TCNJZGYRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
+      "supplierRoomName": "Superior Single Room Non refundable - RO"
+    },
+    {
+      "cleanSupplierRoomName": "superior single room non refundable ro",
+      "closestMatch": "superior double room with sofabed",
+      "similarity": 0.6841540336608887,
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZTGY4TMZJWG43GGNRVGIYDOMRWMY3GMNTEGIYDMZJWMY3GKMRQG4ZDMNJWGY3TKNTFGY2DMMJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGY3TANJDGU3DOLJRG43DOMBVPRHFERSOPQZDAMRUGAZDENZQGAYDA7BTPQ4TCNJZGYRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
+      "supplierRoomName": "Superior Single Room Non refundable - RO"
+    },
     {
       "cleanSupplierRoomName": "room run of house bed breakfast",
       "closestMatch": "executive queen room with two queen beds",
