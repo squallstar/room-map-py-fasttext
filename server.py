@@ -15,12 +15,84 @@ def cosine_similarity(vec1, vec2):
     """Calculate cosine similarity between two vectors."""
     return (vec1 @ vec2) / (np.linalg.norm(vec1) * np.linalg.norm(vec2))
 
+import re
+
 # Function to clean and normalize room names
-def clean_text(text):
-    text = text.lower()
-    text = re.sub(r"[^a-zA-Z0-9\s]", " ", text)  # Remove special characters
-    text = re.sub(r"\s+", " ", text).strip()    # Remove extra spaces
-    return text
+def clean_text(room_name):
+    if not room_name:
+        return "unknown"
+
+    # Helper dictionary for synonyms and normalization
+    abbreviation_map = {
+        'bdr': 'room', 'bedroom': 'room', 'dbl': 'double', 'dbl room': 'double room',
+        'sgl': 'single', 'sgl room': 'single room', 'tpl': 'triple', 'tpl room': 'triple room',
+        'trpl': 'triple', 'qd': 'quad', 'quad': 'quad room', 'quadruple': 'quad room',
+        'exec': 'executive', 'pres': 'presidential', 'std': 'standard', 'fam': 'family-friendly',
+        'rom': 'romantic', 'honeymn': 'honeymoon', 'biz': 'business class', 'prm': 'premium',
+        'btq': 'boutique', 'hist': 'historic', 'mod': 'modern', 'high-rise': 'high floor',
+        'low-rise': 'low floor', 'ground floor': 'low floor', 'with a view': 'balcony',
+        'disability access': 'accessible'
+    }
+
+    # Synonyms normalization
+    synonyms = {
+        'double-double': 'double room', 'accessible': 'accessible room',
+        'family': 'family room', 'connected': 'connected rooms',
+        'communicating rooms': 'connected rooms'
+    }
+
+    # Predefined terms
+    predefined_types = [
+        'suite', 'single room', 'double room', 'triple room', 'quad room', 'family room',
+        'studio room', 'apartment', 'villa', 'bungalow', 'king room', 'queen room', 'cottage',
+        'penthouse', 'loft', 'cabin', 'chalet', 'duplex', 'guesthouse', 'hostel', 'accessible room',
+        'connected rooms', 'studio', 'appartment'
+    ]
+
+    # Normalize number words to digits
+    number_words_to_digits = {
+        'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5',
+        'six': '6', 'seven': '7', 'eight': '8', 'nine': '9', 'ten': '10'
+    }
+
+    # Normalize room name
+    room_name = room_name.lower()
+
+    # Replace parentheses with placeholders to preserve inner content
+    placeholders = []
+    room_name = re.sub(r"\((.*?)\)", lambda m: f"<<{len(placeholders)}>>", room_name)
+    placeholders.append(m.group(1) for m in re.finditer(r"\((.*?)\)", room_name))
+
+    # Apply replacements and remove special characters
+    room_name = re.sub(r"[^a-zA-Z0-9\s]", " ", room_name)
+    room_name = re.sub(r"\b(one|two|three|four|five|six|seven|eight|nine|ten)\b",
+                       lambda m: number_words_to_digits[m.group(0)], room_name)
+    room_name = re.sub(r"\s+", " ", room_name).strip()
+
+    # Restore parentheses content from placeholders
+    room_name = re.sub(r"<<(\d+)>>", lambda m: placeholders[int(m.group(1))], room_name)
+
+    # Apply abbreviation normalization
+    for abbr, full_form in abbreviation_map.items():
+        room_name = re.sub(fr"\b{abbr}\b", full_form, room_name)
+
+    # Apply synonyms normalization
+    for key, value in synonyms.items():
+        room_name = re.sub(fr"\b{key}\b", value, room_name)
+
+    # Normalize predefined room types
+    for room_type in predefined_types:
+        if room_type in room_name:
+            return room_type
+
+    # Improved fallback logic
+    match = re.search(r"\b(single|double|triple|quad)\b", room_name)
+    if match:
+        return f"{match.group(0)} room"
+
+    # If no match found, return normalized name
+    return room_name.strip()
+
 
 def compute_embeddings(texts):
     """
