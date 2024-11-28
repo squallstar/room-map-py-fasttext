@@ -180,6 +180,7 @@ def extract_amenities(clean_name):
 def normalize_room_name(room_name):
     clean_name = clean_text(room_name)
     return {
+        "cleanRoom": clean_name,
         "roomType": extract_room_type(clean_name),
         "roomCategory": extract_room_category(clean_name),
         "board": extract_board_type(clean_name),
@@ -406,6 +407,22 @@ def map_rooms_with_multiple_passes(input_json):
 
     # Collect unmapped rooms
     unmapped_rooms = [room for room in supplier_rooms if room["supplierRoomId"] not in mapped_supplier_room_ids]
+
+    # Calculate fourth pass similarity for the unmapped rooms
+    for sup_room in unmapped_rooms:
+        supplier_embedding = supplier_embeddings[sup_room["cleanRoomName"]]
+        best_similarity = -1
+        closest_match_ref_room = None
+        for ref_room in reference_rooms:
+            ref_embedding = reference_embeddings[ref_room["cleanRoomName"]]
+            similarity = cosine_similarity(supplier_embedding, ref_embedding)
+            similarity = float(similarity)
+            if similarity > best_similarity:
+                best_similarity = similarity
+                closest_match_ref_room = ref_room
+
+        sup_room["similarity"] = best_similarity
+        sup_room["closestRoom"] = closest_match_ref_room
 
     return {
         "Results": results,

@@ -30,6 +30,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -57,6 +58,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -84,6 +86,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -111,6 +114,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -138,6 +142,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -165,6 +170,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -192,6 +198,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -219,6 +226,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -246,6 +254,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -273,6 +282,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -300,6 +310,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -327,6 +338,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room non refundable room only",
             "roomCategory": [
               "standard"
             ],
@@ -354,6 +366,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -381,6 +394,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -408,6 +422,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -435,6 +450,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -462,6 +478,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room only",
             "roomCategory": [
               "standard"
             ],
@@ -482,6 +499,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard double room",
         "roomCategory": [
           "standard"
         ],
@@ -512,6 +530,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -539,6 +558,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -566,6 +586,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -593,6 +614,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -620,6 +642,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -647,6 +670,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -674,6 +698,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -701,6 +726,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -728,6 +754,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -755,6 +782,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -782,6 +810,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -809,6 +838,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -836,6 +866,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -863,6 +894,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -890,6 +922,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room 0 package rate room only",
             "roomCategory": [
               "superior"
             ],
@@ -917,6 +950,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -944,6 +978,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -971,6 +1006,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior double breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -998,6 +1034,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior twin breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1025,6 +1062,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -1052,6 +1090,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -1079,6 +1118,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -1106,6 +1146,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -1133,6 +1174,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room only",
             "roomCategory": [
               "superior"
             ],
@@ -1160,6 +1202,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -1187,6 +1230,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -1214,6 +1258,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior twin room breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -1241,6 +1286,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -1268,6 +1314,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior twin room breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -1295,6 +1342,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior twin room breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -1322,6 +1370,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -1349,6 +1398,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -1376,6 +1426,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "twin superior twin with breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1403,6 +1454,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "twin superior twin with breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1430,6 +1482,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room 0 package rate room only",
             "roomCategory": [
               "superior"
             ],
@@ -1457,6 +1510,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -1484,6 +1538,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -1511,6 +1566,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -1538,6 +1594,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior twin room full breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1565,6 +1622,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior twin room full breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1592,6 +1650,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior twin room room only",
             "roomCategory": [
               "superior"
             ],
@@ -1619,6 +1678,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "double superior double with breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1646,6 +1706,7 @@
               "unknown"
             ],
             "board": "bed and breakfast",
+            "cleanRoom": "superior twin room 0 package rate bed and breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1673,6 +1734,7 @@
               "unknown"
             ],
             "board": "bed and breakfast",
+            "cleanRoom": "superior twin room 0 bed and breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1700,6 +1762,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "double superior double with breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1727,6 +1790,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior twin room 0 breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -1754,6 +1818,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior twin breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1781,6 +1846,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior twin room 0 breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -1808,6 +1874,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior twin room 0 breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -1835,6 +1902,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior double breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1862,6 +1930,7 @@
               "unknown"
             ],
             "board": "free breakfast",
+            "cleanRoom": "superior 2 beds free breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -1882,6 +1951,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "superior twin room",
         "roomCategory": [
           "superior"
         ],
@@ -1912,6 +1982,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -1939,6 +2010,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -1966,6 +2038,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -1993,6 +2066,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2020,6 +2094,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2047,6 +2122,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2074,6 +2150,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2101,6 +2178,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2128,6 +2206,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2155,6 +2234,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2182,6 +2262,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2209,6 +2290,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2236,6 +2318,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2263,6 +2346,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2290,6 +2374,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room 0 package rate room only",
             "roomCategory": [
               "superior"
             ],
@@ -2317,6 +2402,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -2344,6 +2430,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -2371,6 +2458,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2398,6 +2486,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2425,6 +2514,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2452,6 +2542,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2479,6 +2570,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room only",
             "roomCategory": [
               "superior"
             ],
@@ -2506,6 +2598,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2533,6 +2626,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2560,6 +2654,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2587,6 +2682,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2614,6 +2710,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2641,6 +2738,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room 0 package rate room only",
             "roomCategory": [
               "superior"
             ],
@@ -2668,6 +2766,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -2695,6 +2794,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior double room breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -2722,6 +2822,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior double room breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -2749,6 +2850,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior double room breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -2776,6 +2878,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -2803,6 +2906,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room 0 room only",
             "roomCategory": [
               "superior"
             ],
@@ -2830,6 +2934,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior double room full breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -2857,6 +2962,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior double room full breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -2884,6 +2990,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "superior double room room only",
             "roomCategory": [
               "superior"
             ],
@@ -2911,6 +3018,7 @@
               "unknown"
             ],
             "board": "bed and breakfast",
+            "cleanRoom": "superior double room 0 package rate bed and breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -2938,6 +3046,7 @@
               "unknown"
             ],
             "board": "bed and breakfast",
+            "cleanRoom": "superior double room 0 bed and breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -2965,6 +3074,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior double room 0 breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -2992,6 +3102,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior double room 0 breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -3019,6 +3130,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "superior double room 0 breakfast for 2 guest",
             "roomCategory": [
               "superior"
             ],
@@ -3046,6 +3158,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "superior double room breakfast",
             "roomCategory": [
               "superior"
             ],
@@ -3066,6 +3179,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "superior double room",
         "roomCategory": [
           "superior"
         ],
@@ -3079,6 +3193,28 @@
   "UnmappedRooms": [
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3087,16 +3223,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTIOBSFUZTQNRSHAZHYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTG7BVGA2TCNBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3105,16 +3265,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGMJNGM4DMMRYGJ6E4USGJZ6DEMBSGIYDCMBRPQYTE7BWGAYTINZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3123,16 +3307,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGMJNGM4DMMRYGJ6E4USGJZ6DEMBSGIYDCMBRPQ4HYNRQGIYDEI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room 0 package rate room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3141,16 +3349,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room 0 package rate room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8015075922012329,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGI4TEMBSMQZDANZQGYYTMMZWMI3DCNRXGY2TEMBXGI3DCNZUGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTCMBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDEMRVPQYXYNRRGE3DCI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Double Room (1 Double Bed) - Package Rate - Room Only"
     },
     {
       "cleanRoomName": "double room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3159,16 +3391,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room 0 room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8065454959869385,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTCMBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDEMRVPQ3XYNRRGE3DCI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Double Room (1 Double Bed) - Room Only"
     },
     {
       "cleanRoomName": "double room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3177,16 +3433,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room 0 room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8065454959869385,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQ4DELJTHA3DEOBSPRHFERSOPQZDAMRUGAZDENZRGM2TS7BSGV6DMMJXGYZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Double Room(1 Double Bed) - Room Only"
     },
     {
       "cleanRoomName": "standard double breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3195,18 +3475,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard double breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8755630254745483,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGEZC2MZYGYZDQMT4KJDE47BSGAZDIMBVGEZXYML4GYYTSMBUENBEEI2SIZHCGMRQGI2C2MBVFUYTG",
       "supplierRoomName": "Standard Double - Breakfast"
     },
     {
       "cleanRoomName": "standard double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3215,18 +3519,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard double bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8219210505485535,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQZC2MZYGYZDQMT4KJDE47BSGAZDIMBVGE2HYML4GYZDOOJWENBEEI2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "STANDARD DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3235,18 +3563,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard double bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8219210505485535,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGU3C2MZYGYZDQMT4KJDE47BSGAZDIMBVGE2HYM34GYZDOOJWENBEEI2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "STANDARD DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3255,18 +3607,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard double bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8219210505485535,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGEYDOLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BRPQ3DENZZGYRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
       "supplierRoomName": "STANDARD DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3275,18 +3651,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard double bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8219210505485535,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGIZDOLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BTPQ3DENZZGYRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
       "supplierRoomName": "STANDARD DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3295,16 +3695,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTIOBSFUZTQNRSHAZHYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTQ7BWGMYTMNJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3313,16 +3737,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGOBRFUZTQNRSHAZHYTSSIZHHYMRQGIZDAMJQGF6DK7BWGMYTONZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3331,16 +3779,40 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "double room breakfast for 2 guest",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7509455680847168,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTIOBSFUZTQNRSHAZHYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTO7BWGMZTAMJDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Double Room - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3349,16 +3821,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTIOBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GE2XYNRTHAYDAI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3367,16 +3863,40 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "double room breakfast for 2 guest",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7509455680847168,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTIOBSFUZTQNRSHAZHYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTM7BWGM4DINJDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Double Room - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "double room breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3385,16 +3905,40 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "double room breakfast for 2 guest",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7509455680847168,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTIOBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GE2HYNRTHEZTQI2CIIZCGUSGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Double Room - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3403,16 +3947,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGMJNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCMZSGIYDA7BZPQ3DKMBZGARVETZDKJDE4IZSGAZDILJQGUWTCMY",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3421,16 +3989,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGMJNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCMZSGIYDA7BRGF6DMNJRGUYSGUSPENJEMTRDGIYDENBNGA2S2MJT",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double standard double with breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3439,18 +4031,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "double standard double with breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8722561001777649,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGM3TINRRGZSTMNBWGE3TENRUGIYDMNBWMY3TKNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTGOBWGI4DEIZTGYYS2MZYGYZDQMT4JZJEMTT4GIYDENBQGIZDIMJWGAYHYMJTPQ3DKOJXGARUEQRDJZJEMTRDGIYDENBNGAZC2MRU",
       "supplierRoomName": "DOUBLE STANDARD DOUBLE - With Breakfast"
     },
     {
       "cleanRoomName": "double standard double with breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3459,18 +4075,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "double standard double with breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8722561001777649,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGM3TINRRGZSTMNBWGE3TENRUGIYDMNBWMY3TKNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTGOBWGI4DEIZTGYYS2MZYGYZDQMT4KJDE47BSGAZDIMBVGEZDCNRQGB6DI7BWGYYTMOJDIJBCGUSGJYRTEMBSGQWTANJNGEZA",
       "supplierRoomName": "DOUBLE STANDARD DOUBLE - With Breakfast"
     },
     {
       "cleanRoomName": "double room 0 package rate room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3479,16 +4119,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room 0 package rate room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8015075922012329,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGI4TEMBSMQZDANZQGYYTMMZWMI3DCNRXGY2TEMBXGI3DCNZUGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTCMBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDKMJSPQ2HYNRWGIYDGI2SJ4RVERSOEMZDAMRUFUYDKLJRGI",
       "supplierRoomName": "Double Room (1 Double Bed) - Package Rate - Room Only"
     },
     {
       "cleanRoomName": "double room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3497,16 +4161,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room 0 room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8065454959869385,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTCMBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDKMJSPQYTA7BWGYZDAMZDKJHSGUSGJYRTEMBSGQWTANJNGEZA",
       "supplierRoomName": "Double Room (1 Double Bed) - Room Only"
     },
     {
       "cleanRoomName": "superior twin bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior twin room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior twin room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263005",
+        "roomName": "Superior Twin Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3515,18 +4203,42 @@
           "twin bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior twin bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8067203164100647,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEM2DELJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BTPQ3DMOBYGIRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
       "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "superior twin bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior twin room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior twin room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263005",
+        "roomName": "Superior Twin Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3535,18 +4247,42 @@
           "twin bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior twin bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8067203164100647,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEM2TMLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BRPQ3DMOBYGIRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
       "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "superior twin bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior twin room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior twin room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263005",
+        "roomName": "Superior Twin Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3555,18 +4291,42 @@
           "twin bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior twin bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8067203164100647,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMYTANZNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCND4GN6DMNRYHAZCGQSCENJEMTRDGIYDENBNGA2S2MJU",
       "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "superior twin bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior twin room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior twin room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263005",
+        "roomName": "Superior Twin Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3575,18 +4335,42 @@
           "twin bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior twin bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8067203164100647,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZUG43TMOJWMV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMZDENZNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCND4GJ6DMNRYHAZCGQSCENJEMTRDGIYDENBNGA2S2MJU",
       "supplierRoomName": "SUPERIOR TWIN - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "double room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3595,16 +4379,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room 0 room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8065454959869385,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQ4DELJTHA3DEOBSPRHFERSOPQZDAMRUGAZDENZRGM2TS7BTGB6DMNZTHE3SGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Double Room(1 Double Bed) - Room Only"
     },
     {
       "cleanRoomName": "double room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3613,16 +4421,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room 0 room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8065454959869385,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQ4DELJTHA3DEOBSPRJEMTT4GIYDENBQGIZDSMJQGAYHYMRYPQ3DQMJQGURVETZDKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Double Room(1 Double Bed) - Room Only"
     },
     {
       "cleanRoomName": "double room full breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3631,16 +4463,40 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "double room full breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.81570965051651,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGMJNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCMZSGIYDA7BRGB6DMOBUGUYSGQSCENJEMTRDGIYDENBNGA2S2MJT",
       "supplierRoomName": "Double Room - Full Breakfast"
     },
     {
       "cleanRoomName": "double room full breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3649,16 +4505,40 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "double room full breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.81570965051651,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGMJNGM4DMMRYGJ6FERSOPQZDAMRUGA2TCMZSGIYDA7BXPQ3DQNJTGYRUEQRDKJDE4IZSGAZDILJQGUWTCMY",
       "supplierRoomName": "Double Room - Full Breakfast"
     },
     {
       "cleanRoomName": "double room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3667,16 +4547,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double room room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8606321811676025,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGOBRFUZTQNRSHAZHYUSGJZ6DEMBSGQYDKMJTPQYTA7BWHA2TSMBDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
       "supplierRoomName": "Double Room - Room Only"
     },
     {
       "cleanRoomName": "double room 0 package rate bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3685,16 +4589,40 @@
           "unknown"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "double room 0 package rate bed and breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7444338798522949,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGI4TEMBSMQZDANZQGYYTMMZWMI3DCNRXGY2TEMBXGI3DCNZUGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTCMBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDKMJSPQYTG7BWHE2TMNJDIJBCGUSGJYRTEMBSGQWTANJNGEZA",
       "supplierRoomName": "Double Room (1 Double Bed) - Package Rate - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "double room 0 bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3703,16 +4631,40 @@
           "unknown"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "double room 0 bed and breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7290147542953491,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSHAZTCMRQGY2DMZRXGU3DENTDGY2TEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTCMBSFUZTQNRSHAZHYUSGJZ6DEMBSGQYDKMJSPQYTM7BWHE2TMNJDIJBCGUSGJYRTEMBSGQWTANJNGEZA",
       "supplierRoomName": "Double Room (1 Double Bed) - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard double breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3721,18 +4673,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard double breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8755630254745483,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGM4DCLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTG7BRGN6DOMBRGEZCGQSCENJEMTRDGIYDENBNGA2S2MJT",
       "supplierRoomName": "Standard Double - Breakfast"
     },
     {
       "cleanRoomName": "double room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3741,16 +4717,40 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "double room 0 breakfast for 2 guest",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.6859822869300842,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQ4DELJTHA3DEOBSPRHFERSOPQZDAMRUGAZDENZRGM2TS7BSGZ6DOMBRGI3SGQSCGIRU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Double Room(1 Double Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263006",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3759,18 +4759,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior double bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8077552318572998,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQZC2MZYGYZDQMT4KJDE47BSGAZDIMBVGE2HYMT4G4YDEMJUENBEEI2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "SUPERIOR DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "superior double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263006",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3779,18 +4803,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior double bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8077552318572998,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGU3C2MZYGYZDQMT4KJDE47BSGAZDIMBVGE2HYMT4G4YDEMJUENBEEI2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "SUPERIOR DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "superior double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263006",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3799,18 +4847,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior double bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8077552318572998,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGEYDOLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BSPQ3TAMRRGQRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
       "supplierRoomName": "SUPERIOR DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "superior double bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263006",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3819,18 +4891,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "superior double bed and breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8077552318572998,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANRUGZTDONJWGI3GGNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGIZDOLJTHA3DEOBSPRJEMTT4GIYDENBQGUYTI7BRPQ3TAMRRGQRUEQRDKJDE4IZSGAZDILJQGUWTCNA",
       "supplierRoomName": "SUPERIOR DOUBLE - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "double room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3839,16 +4935,40 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "double room 0 breakfast for 2 guest",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.6859822869300842,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQ4DELJTHA3DEOBSPRHFERSOPQZDAMRUGAZDENZRGM2TS7BSHF6DOMBYGA4SGQSCGIRU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Double Room(1 Double Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "double room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3857,16 +4977,40 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "double room 0 breakfast for 2 guest",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.6859822869300842,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMZYGYZDQMRDGQ4DELJTHA3DEOBSPRJEMTT4GIYDENBQGIZDSMJQGAYHYMRXPQ3TCNJVGIRUEQRSENJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Double Room(1 Double Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "double room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3875,16 +5019,40 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "double room breakfast",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8291126489639282,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGM4DMMRYGIRTGOBRFUZTQNRSHAZHYUSGJZ6DEMBSGQYDKMJTPQYTI7BXGIYDMMZDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
       "supplierRoomName": "Double Room - Breakfast"
     },
     {
       "cleanRoomName": "standard room only",
+      "closestRoom": {
+        "cleanRoomName": "standard single room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard single room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "single room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263001",
+        "roomName": "Standard Single Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3893,18 +5061,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8754135370254517,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMZTCOJNGM4DMMRYGJ6E4USGJZ6FIRD4GF6DQMZXGAYSGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Standard - Room Only"
     },
     {
       "cleanRoomName": "standard free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "272630",
+        "propertyName": "H\u00f4tel Eug\u00e9nie",
+        "roomId": "27263002",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3913,12 +5105,14 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "standard free breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6592805981636047,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZTHA3DEOBSEMZTCOJNGM4DMMRYGJ6E4USGJZ6FIRD4GJ6DSMZTGQYSGQSCENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Standard - Free Breakfast"

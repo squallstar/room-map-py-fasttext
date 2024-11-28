@@ -30,6 +30,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "standard double room non refundable room only",
             "roomCategory": [
               "standard"
             ],
@@ -50,6 +51,7 @@
               "double bed"
             ],
             "board": "room only",
+            "cleanRoom": "standard room with double bed room only",
             "roomCategory": [
               "standard"
             ],
@@ -71,6 +73,7 @@
               "double bed"
             ],
             "board": "room only",
+            "cleanRoom": "standard room with double bed room only",
             "roomCategory": [
               "standard"
             ],
@@ -92,6 +95,7 @@
               "double bed"
             ],
             "board": "room only",
+            "cleanRoom": "standard room with double bed room only",
             "roomCategory": [
               "standard"
             ],
@@ -113,6 +117,7 @@
               "double bed"
             ],
             "board": "room only",
+            "cleanRoom": "standard room with double bed room only",
             "roomCategory": [
               "standard"
             ],
@@ -134,6 +139,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard double room",
         "roomCategory": [
           "standard"
         ],
@@ -147,6 +153,28 @@
   "UnmappedRooms": [
     {
       "cleanRoomName": "standard room with twin beds bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -156,18 +184,42 @@
           "twin beds"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard room with twin beds bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7555059194564819,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGIZDOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDM7BRPQ3TEMZTHARUEQRDJZJEMTRDGIYDENBNGAZC2MRW",
       "supplierRoomName": "Standard Room with twin beds - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with double bed bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -176,18 +228,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard room with double bed bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8092052340507507,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQ2XYNZSGMZTQI2CIIRU4USGJYRTEMBSGQWTAMRNGI3A",
       "supplierRoomName": "Standard Room with Double bed - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -197,18 +273,42 @@
           "sofa bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7450164556503296,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DE7BXGQYTIOBDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with twin beds bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -218,18 +318,42 @@
           "twin beds"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard room with twin beds bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7555059194564819,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGIZDOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDM7BUPQ3TIMJUHARUEQRDJZJEMTRDGIYDENBNGAZC2MRW",
       "supplierRoomName": "Standard Room with twin beds - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with double bed bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -238,18 +362,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard room with double bed bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8092052340507507,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTEMRXFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGQYDEMRWPQ3HYNZUGE2DQI2CIIRU4USGJYRTEMBSGQWTAMRNGI3A",
       "supplierRoomName": "Standard Room with Double bed - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -259,18 +407,42 @@
           "sofa bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa bed and breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7450164556503296,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DO7BXGU4TKOJDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with twin beds breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -280,18 +452,42 @@
           "twin beds"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room with twin beds breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8076360821723938,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGM4DCLJRG4YDANBRHEZTEOL4KJDE47BSGAZDIMBVGE2HYML4G44TMNBQENBEEI2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "Standard Room with twin beds - Breakfast"
     },
     {
       "cleanRoomName": "standard room with double bed breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -300,18 +496,42 @@
           "double bed"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room with double bed breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8784952759742737,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6FERSOPQZDAMRUGA2TCND4GJ6DOOJWGQYCGQSCENJEMTRDGIYDENBNGA2S2MJU",
       "supplierRoomName": "Standard Room with Double bed - Breakfast"
     },
     {
       "cleanRoomName": "standard room with twin beds breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -321,18 +541,42 @@
           "twin beds"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room with twin beds breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8076360821723938,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGM4DCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMRQGEYDC7BTPQ4DAMBUHERUEQRDJZJEMTRDGIYDEMRNGAYS2MBR",
       "supplierRoomName": "Standard Room with twin beds - Breakfast"
     },
     {
       "cleanRoomName": "standard room with double bed breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -341,18 +585,42 @@
           "double bed"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room with double bed breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8784952759742737,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTOMBQGQYTSMZSHERTGOBRFUYTOMBQGQYTSMZSHF6E4USGJZ6DEMBSGIYDCMBRPQ2HYOBQGA2DSI2CIIRU4USGJYRTEMBSGIWTAMJNGAYQ",
       "supplierRoomName": "Standard Room with Double bed - Breakfast"
     },
     {
       "cleanRoomName": "standard room non refundable bb",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -361,18 +629,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room non refundable bb",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7181149125099182,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANTFGZTDMZJSGA3TENRVGY3DONJWMU3DINRRGYZDMYZWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGM2TSLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDOMBQGAYHYML4HAYDGNJVENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room Non refundable - BB"
     },
     {
       "cleanRoomName": "standard room non refundable bb",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -381,18 +673,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room non refundable bb",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7181149125099182,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANTFGZTDMZJSGA3TENRVGY3DONJWMU3DINRRGYZDMYZWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGU3DOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDOMBQGAYHYML4HAYDGNJVENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room Non refundable - BB"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -401,18 +717,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8304799199104309,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMBQHAYTSMJXGAYHYML4HAYDSMZQENBEEI2OKJDE4IZSGAZDALJQHAWTCOI",
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -421,18 +761,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8304799199104309,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMBQHAYTSMJXGAYHYMT4HAYDSMZQENBEEI2OKJDE4IZSGAZDALJQHAWTCOI",
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -441,18 +805,42 @@
           "double bed"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7830299139022827,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQ2XYOBRGM4TOI2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Breakfast"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -461,18 +849,42 @@
           "double bed"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7830299139022827,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DM7BYGE4TINJDIJBCGTSSIZHCGMRQGIZC2MBRFUYDC",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Breakfast"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -481,18 +893,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8304799199104309,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMBQHAYTSMJXGAYHYM34HAZDSMBXENBEEI2OKJDE4IZSGAZDALJQHAWTCOI",
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
       "cleanRoomName": "standard room free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -501,18 +937,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "standard room free breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7823315262794495,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYDOLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYML4HAZTANRZENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Free Breakfast"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -521,18 +981,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8304799199104309,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMBQHAYTSMJXGAYHYND4HAZTAOBXENBEEI2OKJDE4IZSGAZDALJQHAWTCOI",
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -541,18 +1025,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8304799199104309,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMBQHAYTSMJXGAYHYNL4HAZTAOBXENBEEI2OKJDE4IZSGAZDALJQHAWTCOI",
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
       "cleanRoomName": "standard room free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -561,18 +1069,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "standard room free breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7823315262794495,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTSLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYML4HAZTCNJSENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Free Breakfast"
     },
     {
       "cleanRoomName": "standard room with twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -582,18 +1114,42 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with twin beds room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8414746522903442,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGIZDOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDM7BRGN6DQMZSHEZSGUSPENHFERSOEMZDAMRUFUYDELJSGY",
       "supplierRoomName": "Standard Room with twin beds - ROOM ONLY"
     },
     {
       "cleanRoomName": "standard room free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -602,18 +1158,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "standard room free breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7823315262794495,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTSLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYND4HA2DEMZYENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Free Breakfast"
     },
     {
       "cleanRoomName": "privilege room with a double bed bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -622,18 +1202,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "privilege room with a double bed bed and breakfast",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.729010283946991,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DQ7BYGUYDCMZDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Privilege Room with a double bed - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -643,18 +1247,42 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with twin beds room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8414746522903442,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGIZDOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDM7BRGF6DQNJRGA2CGUSPENHFERSOEMZDAMRUFUYDELJSGY",
       "supplierRoomName": "Standard Room with twin beds - ROOM ONLY"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -663,18 +1291,42 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8157085180282593,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCND4HA2TCMBUENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - ROOM ONLY"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -683,18 +1335,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8304799199104309,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMBQHAYTSMJXGAYHYNT4HA2TCMJYENBEEI2OKJDE4IZSGAZDALJQHAWTCOI",
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
       "cleanRoomName": "privilege room with a double bed bed and breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -703,18 +1379,42 @@
           "double bed"
         ],
         "board": "bed and breakfast",
+        "cleanRoom": "privilege room with a double bed bed and breakfast",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.729010283946991,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DG7BYGY4DEMZDIJBCGTSSIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Privilege Room with a double bed - BED AND BREAKFAST"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -723,18 +1423,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8304799199104309,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTCLJRG4YDANBRHEZTEOL4KJDE47BSGAZDIMBVGE2TAMBQGB6DO7BYGY4DKOBDIJBCGUSGJYRTEMBSGAWTAOBNGE4Q",
       "supplierRoomName": "Standard Room - BREAKFAST"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -743,18 +1467,42 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8157085180282593,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCMT4HA3DSMJVENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - ROOM ONLY"
     },
     {
       "cleanRoomName": "standard room free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -763,18 +1511,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "standard room free breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7823315262794495,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYDOLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYMT4HA4TCNJXENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Free Breakfast"
     },
     {
       "cleanRoomName": "standard room free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -783,18 +1555,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "standard room free breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7823315262794495,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTSLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYMT4HA4TENBWENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Free Breakfast"
     },
     {
       "cleanRoomName": "standard room non refundable ro",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -803,18 +1599,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room non refundable ro",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7290823459625244,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANTFGZTDMZJSGA3TENRVGY3DONJWMU3DINRRGYZDMYZWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGM2TSLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDOMBQGAYHYMT4HA4TMMRRENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room Non refundable - RO"
     },
     {
       "cleanRoomName": "standard room non refundable ro",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -823,18 +1643,42 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room non refundable ro",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7290823459625244,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANTFGZTDMZJSGA3TENRVGY3DONJWMU3DINRRGYZDMYZWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGU3DOLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDENBQGIZDOMBQGAYHYMT4HA4TMMRRENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room Non refundable - RO"
     },
     {
       "cleanRoomName": "standard room with twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -844,18 +1688,42 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with twin beds room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8414746522903442,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGM4DCLJRG4YDANBRHEZTEOL4KJDE47BSGAZDIMBVGE2HYOL4HEYDENRZENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "Standard Room with twin beds - Room Only"
     },
     {
       "cleanRoomName": "standard room free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -864,18 +1732,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "standard room free breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7823315262794495,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTSLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYNL4HEYDIMJQENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Free Breakfast"
     },
     {
       "cleanRoomName": "standard room with twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -885,18 +1777,42 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with twin beds room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8414746522903442,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANZUG43TMOJWMUZDANRSGY2TMNBXGN6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGM4DCLJRG4YDANBRHEZTEOL4JZJEMTT4GIYDEMRQGEYDC7BRGF6DSMJVGE4CGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
       "supplierRoomName": "Standard Room with twin beds - Room Only"
     },
     {
       "cleanRoomName": "privilege room with a double bed breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -905,18 +1821,42 @@
           "double bed"
         ],
         "board": "unknown",
+        "cleanRoom": "privilege room with a double bed breakfast",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.766170084476471,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQ3XYOJRHEZTQI2CIIRVERSOEMZDAMRUFUYDKLJRGQ",
       "supplierRoomName": "Privilege Room with a double bed - Breakfast"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -925,18 +1865,42 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8157085180282593,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQYTG7BZGIYDENRDKJHSGUSGJYRTEMBSGQWTANJNGE2A",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Room Only"
     },
     {
       "cleanRoomName": "privilege room with a double bed breakfast",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -945,18 +1909,42 @@
           "double bed"
         ],
         "board": "unknown",
+        "cleanRoom": "privilege room with a double bed breakfast",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.766170084476471,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DQ7BZGMZTCOJDIJBCGTSSIZHCGMRQGIZC2MBRFUYDC",
       "supplierRoomName": "Privilege Room with a double bed - Breakfast"
     },
     {
       "cleanRoomName": "standard room with 1 double bed and 1 sofa room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -965,18 +1953,42 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "standard room with 1 double bed and 1 sofa room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8157085180282593,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDAMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEMBWGE3GKNRUGIYDGMJSGA3TGNTGGY3DMML4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DCND4HEZTIMJTENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
       "supplierRoomName": "Standard room with 1 double bed and 1 sofa - Room Only"
     },
     {
       "cleanRoomName": "standard room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -985,18 +1997,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "standard room room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8571071028709412,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYDOLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYM34HE2TGNBWENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Room Only"
     },
     {
       "cleanRoomName": "standard room room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1005,18 +2041,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "standard room room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8571071028709412,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDANBRHEZTEOJDGMYTSLJRG4YDANBRHEZTEOL4JZJEMTT4KRCHYM34HE2TINBRENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Standard Room - Room Only"
     },
     {
       "cleanRoomName": "privilege room with a double bed room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1025,18 +2085,42 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "privilege room with a double bed room only",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8040285110473633,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DS7BZGU4TMOBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Privilege Room with a double bed - ROOM ONLY"
     },
     {
       "cleanRoomName": "privilege room with a double bed room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1045,18 +2129,42 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "privilege room with a double bed room only",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8040285110473633,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMRSG4WTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGI2DAMRSGZ6DCMD4HE3TONZZENJE6I2OKJDE4IZSGAZDILJQGIWTENQ",
       "supplierRoomName": "Privilege Room with a double bed - ROOM ONLY"
     },
     {
       "cleanRoomName": "privilege room with a double bed room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1065,18 +2173,42 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "privilege room with a double bed room only",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8040285110473633,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYUSGJZ6DEMBSGQYDKMJUPQYTK7BRGAZDKNRYENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
       "supplierRoomName": "Privilege Room with a double bed - Room Only"
     },
     {
       "cleanRoomName": "privilege room with a double bed room only",
+      "closestRoom": {
+        "cleanRoomName": "standard double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "standard double room",
+          "roomCategory": [
+            "standard"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "57103",
+        "propertyName": "Hotel Mercure La Sorbonne Saint-Germain-des-Pr\u00e9s",
+        "roomId": "5710301",
+        "roomName": "Standard Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1085,12 +2217,14 @@
           "double bed"
         ],
         "board": "room only",
+        "cleanRoom": "privilege room with a double bed room only",
         "roomCategory": [
           "privilege"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8040285110473633,
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWHE3TMNRZGZRTMNJWG43DKMRQG4ZDMZRWMY3GIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGA2DCOJTGI4SGMZYGEWTCNZQGA2DCOJTGI4XYTSSIZHHYMRQGIZDAMJQGF6DCNT4GEYDINZYG4RVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
       "supplierRoomName": "Privilege Room with a double bed - Room Only"

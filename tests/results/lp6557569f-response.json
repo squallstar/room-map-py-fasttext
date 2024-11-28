@@ -30,6 +30,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "classic double room room only",
             "roomCategory": [
               "classic"
             ],
@@ -50,6 +51,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "classic double room",
         "roomCategory": [
           "classic"
         ],
@@ -63,6 +65,28 @@
   "UnmappedRooms": [
     {
       "cleanRoomName": "classic room room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -71,18 +95,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8373525738716125,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNBYGIWTCNZQGAZDEMRWGIZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDO7BWG4ZTENBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Classic Room - Room Only"
     },
     {
       "cleanRoomName": "classic room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -91,18 +139,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room 0 room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7910729050636292,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DGM34GY3TGMRUENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "classic room room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -111,18 +183,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8373525738716125,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNRSGAWTCNZQGAZDEMRWGIZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQYTA7BWG4ZTENBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Classic Room - Room Only"
     },
     {
       "cleanRoomName": "classic room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -131,18 +227,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room 0 room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7910729050636292,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZWGIYC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DCMT4GY3TGMRUENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "classic room breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -151,18 +271,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7473247647285461,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNBYGIWTCNZQGAZDEMRWGIZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDK7BWG44TKNJDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Classic Room - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -171,18 +315,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room 0 breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6861084699630737,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DGMT4GY3TSNJVENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -191,18 +359,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7473247647285461,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNBYGIWTCNZQGAZDEMRWGIZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDQ7BWHA3DCMJDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Classic Room - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -211,18 +403,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room 0 breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6861084699630737,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DGND4GY4DMMJRENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -231,18 +447,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8373525738716125,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNBYGIWTCNZQGAZDEMRWGIZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZTA7BWHA4TSNJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Classic Room - Room Only"
     },
     {
       "cleanRoomName": "classic room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -251,18 +491,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room 0 room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7910729050636292,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DGNT4GY4DSOJVENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "classic room breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -271,18 +535,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7473247647285461,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNRSGAWTCNZQGAZDEMRWGIZXYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4XYNRZGMYDOI2CIIZCGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Classic Room - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -291,18 +579,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room 0 breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6861084699630737,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZWGIYC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DCML4GY4TGMBXENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -311,18 +623,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7473247647285461,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNBYGIWTCNZQGAZDEMRWGIZXYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GI3HYNRZGMZTEI2CIIZCGUSGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Classic Room - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -331,18 +667,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "classic room 0 breakfast for 2 guest",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6861084699630737,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQZTC7BWHEZTGMRDIJBDEI2SIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "classic room room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -351,18 +711,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8373525738716125,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGNBYGIWTCNZQGAZDEMRWGIZXYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GI4XYNRZG4ZDAI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Classic Room - Room Only"
     },
     {
       "cleanRoomName": "classic room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -371,18 +755,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room 0 room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7910729050636292,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMMZSGA3TENTGGZTDMZBSHAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQZTK7BWHE3TEMBDKJHSGUSGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Classic Room(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "classic room only",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -391,18 +799,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "classic room only",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8215293288230896,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGMZRHEWTCNZQGAZDEMRWGIZXYTSSIZHHYVCEPQ2HYNZQHE2DGI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Classic - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -411,18 +843,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7012108564376831,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYM34G4ZTAOBZENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -431,18 +887,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8023515343666077,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DO7BXGMYDQOJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -451,18 +931,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7012108564376831,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGYZDALJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMT4G4ZTAOBZENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -471,18 +975,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8023515343666077,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZWGIYC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DG7BXGMYDQOJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -491,18 +1019,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.5925870537757874,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMT4G4ZTEMRSENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -511,18 +1063,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6751187443733215,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DQ7BXGMZDEMRDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -531,18 +1107,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.5925870537757874,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYND4G4ZTSMRXENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -551,18 +1151,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6751187443733215,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DCMD4G4ZTSMRXENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -571,18 +1195,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.5925870537757874,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGYZDALJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYML4G42DMOBQENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -591,18 +1239,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6751187443733215,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZWGIYC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DI7BXGQ3DQMBDIJBDEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -611,18 +1283,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.5925870537757874,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34KJDE47BSGAZDIMBSGI4TCMBQGB6DC7BXGQ3TANBDIJBDEI2SIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -631,18 +1327,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "superior room 0 breakfast for 2 guest",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6751187443733215,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQ4XYNZUG4YDII2CIIZCGUSGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "superior room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -651,18 +1371,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7012108564376831,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYNT4G42DSMBSENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -671,18 +1415,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8023515343666077,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7COKJDE47BSGAZDIMBSGI3TCMZVHF6DCMT4G42DSMBSENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -691,18 +1459,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7012108564376831,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZGI4DGMJSGA3TCNZVGY2TMNJWMUZDANRSGY2TMNBSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34KJDE47BSGAZDIMBSGI4TCMBQGB6DK7BXGU3DSMBDKJHSGUSGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "superior room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -711,18 +1503,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room 0 room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8023515343666077,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGIZDANZSGZTDMZRWMQZDAMRYG43DONJWGUZDANTBGYYTOMRWGQ3DSNTFGIYDMZRXGUZDANZWGY4TMYZWMM3DKMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJXGAYDEMRSGYZDGIZUHAZC2MJXGAYDEMRSGYZDG7CSIZHHYMRQGI2DAMRSHEYTAMBQPQYTC7BXGU3DSMBDKJHSGUSGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Superior Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "superior room only",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -731,18 +1547,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "superior room only",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8306944966316223,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGJ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGMYTSLJRG4YDAMRSGI3DEM34JZJEMTT4KRCHYMT4G43TAMJZENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior - Room Only"
     },
     {
       "cleanRoomName": "classic free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "classic double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "classic double room",
+          "roomCategory": [
+            "classic"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492201",
+        "roomName": "Classic Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -751,18 +1591,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "classic free breakfast",
         "roomCategory": [
           "classic"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6151042580604553,
       "supplierId": "nuitee",
       "supplierRoomId": "GYZTMYZWGE3TGNZTGY4TMM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCNZQGAZDEMRWGIZSGMZRHEWTCNZQGAZDEMRWGIZXYTSSIZHHYVCEPQ3HYNZYGM4DSI2CIIRU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Classic - Free Breakfast"
     },
     {
       "cleanRoomName": "superior free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "superior double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "superior double room",
+          "roomCategory": [
+            "superior"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492202",
+        "roomName": "Superior Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -771,18 +1635,42 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "superior free breakfast",
         "roomCategory": [
           "superior"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6172181963920593,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONJXGA3DKNZSGY4TMZRXGJ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGMYTSLJRG4YDAMRSGI3DEM34JZJEMTT4KRCHYNL4HA2DINRUENBEEI2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Superior - Free Breakfast"
     },
     {
       "cleanRoomName": "deluxe room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -791,18 +1679,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6341429352760315,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM2DQMRNGE3TAMBSGIZDMMRTPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGN6DSMZXGI4SGQSCGIRU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -811,18 +1723,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7164172530174255,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMJZPQ4TGNZSHERUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -831,18 +1767,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6341429352760315,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM2DQMRNGE3TAMBSGIZDMMRTPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGZ6DSNBVHEZCGQSCGIRU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -851,18 +1811,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7164172530174255,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMRSPQ4TINJZGIRUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -871,18 +1855,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7104641795158386,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM2DQMRNGE3TAMBSGIZDMMRTPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGR6DSNJUG42SGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -891,18 +1899,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.809651792049408,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMRQPQ4TKNBXGURVETZDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -911,18 +1943,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7104641795158386,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM3DEMBNGE3TAMBSGIZDMMRTPRHFERSOPQZDAMRUGAZDENZRGM2TS7BWPQ4TKNBXGURVETZDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -931,18 +1987,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.809651792049408,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGYZDALJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYOD4HE2TINZVENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -951,18 +2031,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6341429352760315,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM2DQMRNGE3TAMBSGIZDMMRTPRJEMTT4GIYDENBQGIZDSMJQGAYHYMJVPQ4TKNJYG4RUEQRSENJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -971,18 +2075,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7164172530174255,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34KJDE47BSGAZDIMBSGI4TCMBQGB6DEML4HE2TKOBXENBEEMRDKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -991,18 +2119,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6341429352760315,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM3DEMBNGE3TAMBSGIZDMMRTPRHFERSOPQZDAMRUGAZDENZRGM2TS7BVPQ4TKNJZGQRUEQRSENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 breakfast for 2 guest",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1011,18 +2163,42 @@
           "unknown"
         ],
         "board": "breakfast for 2",
+        "cleanRoom": "deluxe room 0 breakfast for 2 guest",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7164172530174255,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGYZDALJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYN34HE2TKOJUENBEEMRDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Breakfast for Two Guest"
     },
     {
       "cleanRoomName": "deluxe room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1031,18 +2207,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7104641795158386,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM2DQMRNGE3TAMBSGIZDMMRTPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRHB6DSNZXGY4CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1051,18 +2251,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.809651792049408,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMRUPQ4TONZWHARVETZDJZJEMTRDGIYDENBNGAZC2MRX",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room 0 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1071,18 +2295,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7104641795158386,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHEZDQMZRGIYDOMJXGU3DKNRVGZSTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEM2DQMRNGE3TAMBSGIZDMMRTPRJEMTT4GIYDENBQGIZDSMJQGAYHYMJXPQ4TQOBRGQRVETZDKJDE4IZSGAZDILJQGIWTENY",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville)(1 Queen Bed) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room 0 room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1091,18 +2339,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room 0 room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.809651792049408,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGI3GMNTGGZSDEMBSHA3TMNZVGY2TEMBWME3DCNZSGY2DMOJWMUZDANTGG42TEMBXGY3DSNTDGZRTMNJSHF6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRG4YDAMRSGI3DEMZDGQ4DELJRG4YDAMRSGI3DEM34KJDE47BSGAZDIMBSGI4TCMBQGB6DEM34HE4DQMJUENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
       "supplierRoomName": "Deluxe Room (Vue Jardin ou Ville) - Room Only"
     },
     {
       "cleanRoomName": "deluxe room only",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1111,18 +2383,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "deluxe room only",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8453956246376038,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEMZTCOJNGE3TAMBSGIZDMMRTPRHFERSOPRKEI7BRPQYTAMJVGQ3CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Deluxe - Room Only"
     },
     {
       "cleanRoomName": "deluxe free breakfast",
+      "closestRoom": {
+        "cleanRoomName": "deluxe double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "deluxe double room",
+          "roomCategory": [
+            "deluxe"
+          ],
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "7634922",
+        "propertyName": "Dandy Hotel & Kitchen",
+        "roomId": "763492203",
+        "roomName": "Deluxe Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -1131,12 +2427,14 @@
           "unknown"
         ],
         "board": "free breakfast",
+        "cleanRoom": "deluxe free breakfast",
         "roomCategory": [
           "deluxe"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6659855246543884,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMNJWMM3TKNZYGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE3TAMBSGIZDMMRTEMZTCOJNGE3TAMBSGIZDMMRTPRHFERSOPRKEI7BTPQYTAOBZHEZCGQSCENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Deluxe - Free Breakfast"

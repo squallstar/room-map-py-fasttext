@@ -30,6 +30,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -55,6 +56,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -80,6 +82,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -105,6 +108,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -130,6 +134,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -155,6 +160,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -180,6 +186,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -205,6 +212,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "singular room breakfast included",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -230,6 +238,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -255,6 +264,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -280,6 +290,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -305,6 +316,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "singular room breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -330,6 +342,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast included",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -355,6 +368,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -380,6 +394,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -405,6 +420,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -430,6 +446,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -455,6 +472,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular extra room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -480,6 +498,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -505,6 +524,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -530,6 +550,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -555,6 +576,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -580,6 +602,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -605,6 +628,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -630,6 +654,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -655,6 +680,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -680,6 +706,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -705,6 +732,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -730,6 +758,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -755,6 +784,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -780,6 +810,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -805,6 +836,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular extra room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -830,6 +862,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular extra room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -855,6 +888,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular extra room 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -880,6 +914,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "singular room breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -905,6 +940,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -930,6 +966,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -955,6 +992,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -980,6 +1018,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1005,6 +1044,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1030,6 +1070,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame 0 room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1055,6 +1096,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "singular room breakfast included",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1080,6 +1122,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "singular extra room breakfast included",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1105,6 +1148,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1130,6 +1174,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1155,6 +1200,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular extra room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1180,6 +1226,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular extra room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1205,6 +1252,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular extra room breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1230,6 +1278,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular extra room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1255,6 +1304,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast included",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1280,6 +1330,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "room singular room with breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1305,6 +1356,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1330,6 +1382,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1355,6 +1408,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1380,6 +1434,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "room singular room with breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1405,6 +1460,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1430,6 +1486,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1455,6 +1512,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1480,6 +1538,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1505,6 +1564,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1530,6 +1590,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1555,6 +1616,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room singular extra room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1580,6 +1642,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room singular extra room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1605,6 +1668,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "room singular room with glimpses of notre dame with breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1630,6 +1694,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1655,6 +1720,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1680,6 +1746,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "room singular room with glimpses of notre dame with breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1705,6 +1772,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1730,6 +1798,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1755,6 +1824,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1780,6 +1850,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1805,6 +1876,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "singular room with glimpses of notre dame 0 breakfast for 2 guest",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1830,6 +1902,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "singular room with glimpses of notre dame room only",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1855,6 +1928,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "singular room breakfast included",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1880,6 +1954,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "singular extra room breakfast",
             "roomCategory": "unknown",
             "roomType": "singular",
             "view": "unknown"
@@ -1898,6 +1973,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "singular extra room",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
@@ -1926,6 +2002,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -1953,6 +2030,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -1980,6 +2058,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2007,6 +2086,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room 0 room only",
             "roomCategory": [
               "style"
             ],
@@ -2034,6 +2114,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "style room breakfast included",
             "roomCategory": [
               "style"
             ],
@@ -2061,6 +2142,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2088,6 +2170,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2115,6 +2198,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "style room breakfast",
             "roomCategory": [
               "style"
             ],
@@ -2142,6 +2226,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "style room breakfast for 2 guest",
             "roomCategory": [
               "style"
             ],
@@ -2169,6 +2254,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "style room 0 breakfast for 2 guest",
             "roomCategory": [
               "style"
             ],
@@ -2196,6 +2282,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2223,6 +2310,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room 0 room only",
             "roomCategory": [
               "style"
             ],
@@ -2250,6 +2338,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2277,6 +2366,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "room style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2304,6 +2394,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2331,6 +2422,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room 0 room only",
             "roomCategory": [
               "style"
             ],
@@ -2358,6 +2450,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "style room breakfast",
             "roomCategory": [
               "style"
             ],
@@ -2385,6 +2478,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "style room breakfast included",
             "roomCategory": [
               "style"
             ],
@@ -2412,6 +2506,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2439,6 +2534,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2466,6 +2562,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "style room breakfast for 2 guest",
             "roomCategory": [
               "style"
             ],
@@ -2493,6 +2590,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "style room 0 breakfast for 2 guest",
             "roomCategory": [
               "style"
             ],
@@ -2520,6 +2618,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "room style room with breakfast",
             "roomCategory": [
               "style"
             ],
@@ -2547,6 +2646,7 @@
               "unknown"
             ],
             "board": "unknown",
+            "cleanRoom": "room style room with breakfast",
             "roomCategory": [
               "style"
             ],
@@ -2574,6 +2674,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2601,6 +2702,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "style room breakfast for 2 guest",
             "roomCategory": [
               "style"
             ],
@@ -2628,6 +2730,7 @@
               "unknown"
             ],
             "board": "breakfast for 2",
+            "cleanRoom": "style room 0 breakfast for 2 guest",
             "roomCategory": [
               "style"
             ],
@@ -2655,6 +2758,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2682,6 +2786,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room room only",
             "roomCategory": [
               "style"
             ],
@@ -2709,6 +2814,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "style room breakfast included",
             "roomCategory": [
               "style"
             ],
@@ -2736,6 +2842,7 @@
               "unknown"
             ],
             "board": "breakfast included",
+            "cleanRoom": "style room breakfast included",
             "roomCategory": [
               "style"
             ],
@@ -2763,6 +2870,7 @@
               "unknown"
             ],
             "board": "bed and breakfast",
+            "cleanRoom": "style room bed and breakfast",
             "roomCategory": [
               "style"
             ],
@@ -2790,6 +2898,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room 0 package rate room only",
             "roomCategory": [
               "style"
             ],
@@ -2817,6 +2926,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "style room 0 room only",
             "roomCategory": [
               "style"
             ],
@@ -2844,6 +2954,7 @@
               "unknown"
             ],
             "board": "free breakfast",
+            "cleanRoom": "style room free breakfast",
             "roomCategory": [
               "style"
             ],
@@ -2871,6 +2982,7 @@
               "unknown"
             ],
             "board": "bed and breakfast",
+            "cleanRoom": "style room bed and breakfast",
             "roomCategory": [
               "style"
             ],
@@ -2891,6 +3003,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "style room",
         "roomCategory": [
           "style"
         ],
@@ -2904,6 +3017,28 @@
   "UnmappedRooms": [
     {
       "cleanRoomName": "style room 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -2913,18 +3048,40 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "style room 1 queen bed room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7905027270317078,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQYXYOJVGM4TII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "singular room 2 twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -2934,16 +3091,38 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 2 twin beds room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8011809587478638,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DE7BRGAZDAOBUENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
       "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
     },
     {
       "cleanRoomName": "singular room 1 king bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -2952,16 +3131,38 @@
           "king bed"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 1 king bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8045051693916321,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4GN6DCMBSGA4DII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
     },
     {
       "cleanRoomName": "standard room room only",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -2970,18 +3171,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "standard room room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7325654029846191,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTQMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCM34GN6DCMBSGQ2DAI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
       "supplierRoomName": "standard room - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -2991,18 +3216,40 @@
           "queen"
         ],
         "board": "breakfast included",
+        "cleanRoom": "style room 1 queen bed breakfast included",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7272834181785583,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQ2HYMJQGI3DSOJDIJBCGTSSIZHCGMRQGI2C2MBSFUZDK",
       "supplierRoomName": "Style Room, 1 Queen Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3012,16 +3259,40 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8967925310134888,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYNL4GEYDMMBUGQRVETZDJZJEMTRDGIYDENBNGAZC2MRV",
       "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3031,18 +3302,40 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "style room 1 queen bed room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7905027270317078,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6FERSOPQZDAMRUGA2TCND4GZ6DCMBWGA4TII2SJ4RVERSOEMZDAMRUFUYDELJSGY",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "singular room 2 twin beds breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3052,16 +3345,38 @@
           "twin beds"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular room 2 twin beds breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.7230697274208069,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DO7BRGA4TGOBUENBEEI2OKJDE4IZSGAZDILJQGIWTENI",
       "supplierRoomName": "Singular Room, 2 Twin Beds - Breakfast buffet"
     },
     {
       "cleanRoomName": "singular room 1 king bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3070,16 +3385,40 @@
           "king bed"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular room 1 king bed breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.7056139707565308,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4HB6DCMBZGM4DII2CIIRU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Singular Room, 1 King Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "standard room breakfast",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3088,18 +3427,40 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "standard room breakfast",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6926661133766174,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTQMJNGEZTAMBQGN6FERSOPQZDAMRUGA2TCM34GIYHYMJRGE2TANBDIJBCGUSGJYRTEMBSGQWTANJNGEZQ",
       "supplierRoomName": "standard room - Breakfast"
     },
     {
       "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3109,16 +3470,38 @@
           "queen"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular room with glimpses of notre dame 1 queen bed breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8791722059249878,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYOL4GEYTGNBSGMRUEQRDJZJEMTRDGIYDENBNGAZC2MRV",
       "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "singular room 2 twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3128,16 +3511,38 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 2 twin beds room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8011809587478638,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJUPQYTA7BRGEZTKNRRENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
     },
     {
       "cleanRoomName": "singular room 1 king bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3146,16 +3551,38 @@
           "king bed"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 1 king bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8045051693916321,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTI7BRGF6DCMJTGU3DCI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
       "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
     },
     {
       "cleanRoomName": "single with views room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3164,16 +3591,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "single with views room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.6623414158821106,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONTDGY2TEMBXG43DSNZUGY4DEMBXGY3DSNRVG43TOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZTHAYS2MJTGAYDAM34KJDE47BSGAZDIMBVGEZXYN34GEYTGOBWGURVETZDKJDE4IZSGAZDILJQGUWTCMY",
       "supplierRoomName": "single with views - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3183,18 +3634,42 @@
           "queen"
         ],
         "board": "breakfast included",
+        "cleanRoom": "style room 1 queen bed breakfast included",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7272834181785583,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6FERSOPQZDAMRUGA2TCND4GEZHYMJRGU4TEOBDIJBCGUSGJYRTEMBSGQWTAMRNGI3A",
       "supplierRoomName": "Style Room, 1 Queen Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3204,18 +3679,40 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "style room 1 queen bed room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7905027270317078,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQYTG7BRGE3DCNRTENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "singular extra room 2 twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3225,16 +3722,38 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "singular extra room 2 twin beds room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8590338230133057,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMRSGA3TINZXGY4TMZJSGA3DENRVGY2DOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZRGI3C2MJTGAYDAM34JZJEMTT4GIYDENBQGIZDK7BRGR6DCMJXGQZTMI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Singular Extra Room, 2 Twin Beds - Room Only"
     },
     {
       "cleanRoomName": "singular extra room 1 king bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3243,16 +3762,38 @@
           "king bed"
         ],
         "board": "room only",
+        "cleanRoom": "singular extra room 1 king bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8555651307106018,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3GENRZGZSTMNZSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DCNL4GEYTONBTGYRVETZDJZJEMTRDGIYDENBNGAZC2MRV",
       "supplierRoomName": "Singular Extra Room, 1 King Bed - Room Only"
     },
     {
       "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3262,16 +3803,40 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8967925310134888,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGR6DCNT4GEYTOOJYG4RVETZDKJDE4IZSGAZDILJQGIWTENQ",
       "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3281,18 +3846,40 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "style room 1 queen bed room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7905027270317078,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNL4GE3XYMJRHE3DQMZDKJHSGUSGJYRTEMBSGQWTAMRNGI3A",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "single with views breakfast",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3301,16 +3888,38 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "single with views breakfast",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.5632193684577942,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONTDGY2TEMBXG43DSNZUGY4DEMBXGY3DSNRVG43TOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZTHAYS2MJTGAYDAM34KJDE47BSGAZDIMBVGEZXYMRUPQYTEMZQGIZSGQSCENJEMTRDGIYDENBNGA2S2MJT",
       "supplierRoomName": "single with views - Breakfast"
     },
     {
       "cleanRoomName": "singular room 2 twin beds breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3320,16 +3929,38 @@
           "twin beds"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular room 2 twin beds breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.7230697274208069,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJUPQYTQ7BRGIZTINJSENBEEI2SIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Singular Room, 2 Twin Beds - Breakfast buffet"
     },
     {
       "cleanRoomName": "singular room 1 king bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3338,16 +3969,38 @@
           "king bed"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular room 1 king bed breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.7056139707565308,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTI7BRHF6DCMRTGQ2TEI2CIIRVERSOEMZDAMRUFUYDELJSGY",
       "supplierRoomName": "Singular Room, 1 King Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "single room only",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3356,16 +4009,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "single room only",
         "roomCategory": "unknown",
         "roomType": "single room",
         "view": "unknown"
       },
+      "similarity": 0.7121456265449524,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONTDGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQ4XYMJSGM4TMNZDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
       "supplierRoomName": "single - Room Only"
     },
     {
       "cleanRoomName": "twin double room style room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3374,18 +4051,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin double room style room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7995683550834656,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMTGGY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSMQZDANZTG42DOOJWMM3DK7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJSPQYXYMJSGQYTKOBDKJHSGUSGJYRTEMBSGQWTANJNGEZA",
       "supplierRoomName": "Twin/Double room - Style - Room Only"
     },
     {
       "cleanRoomName": "twin double room style room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3394,18 +4095,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin double room style room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7995683550834656,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMTGGY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSMQZDANZTG42DOOJWMM3DK7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMZYGEWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGJ6DCML4GEZDIMJVHARVETZDKJDE4IZSGAZDILJQGUWTCMQ",
       "supplierRoomName": "Twin/Double room - Style - Room Only"
     },
     {
       "cleanRoomName": "singular room 2 twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3415,16 +4138,38 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 2 twin beds room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8011809587478638,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DEMD4GEZDIMZXG4RVETZDJZJEMTRDGIYDENBNGAZC2MRV",
       "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
     },
     {
       "cleanRoomName": "singular room 1 king bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3433,16 +4178,38 @@
           "king bed"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 1 king bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8045051693916321,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRHFERSOPQZDAMRUGAZDENL4GIYXYMJSGQZTONZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDK",
       "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
     },
     {
       "cleanRoomName": "singular extra room 2 twin beds breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3452,16 +4219,38 @@
           "twin beds"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular extra room 2 twin beds breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8046201467514038,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMRSGA3TINZXGY4TMZJSGA3DENRVGY2DOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZRGI3C2MJTGAYDAM34JZJEMTT4GIYDENBQGIZDK7BSGJ6DCMRUGUZTKI2CIIRU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Singular Extra Room, 2 Twin Beds - Breakfast buffet"
     },
     {
       "cleanRoomName": "singular extra room 1 king bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3470,16 +4259,40 @@
           "king bed"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular extra room 1 king bed breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.791368842124939,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANRVG44DONBXGI3DCMRQG4ZDMZRWMY3GIMTDGIYDGMJSGA3GENRZGZSTMNZSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYTSSIZHHYMRQGI2DAMRSGV6DEM34GEZDINJTGURUEQRDJZJEMTRDGIYDENBNGAZC2MRV",
       "supplierRoomName": "Singular Extra Room, 1 King Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "twin double room style room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3488,18 +4301,42 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin double room style room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.7995683550834656,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMTGGY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSMQZDANZTG42DOOJWMM3DK7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGNBXGUWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGJ6DC7BRGI2DKNBZENJE6I2SIZHCGMRQGI2C2MBVFUYTE",
       "supplierRoomName": "Twin/Double room - Style - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3509,18 +4346,40 @@
           "queen"
         ],
         "board": "breakfast included",
+        "cleanRoom": "style room 1 queen bed breakfast included",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7272834181785583,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQZDI7BRGI3DQOBZENBEEI2OKJDE4IZSGAZDILJQGIWTENI",
       "supplierRoomName": "Style Room, 1 Queen Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3530,16 +4389,38 @@
           "queen"
         ],
         "board": "breakfast included",
+        "cleanRoom": "singular room with glimpses of notre dame 1 queen bed breakfast included",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8791722059249878,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGR6DENL4GEZDOOJQG4RUEQRDKJDE4IZSGAZDILJQGIWTENQ",
       "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "singular room 2 twin beds room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3549,16 +4430,38 @@
           "twin beds"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 2 twin beds room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8011809587478638,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMZDEMBXGQ3TONRZGZSTEMBWGI3DKNRUG4ZXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTCMRWFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJVPQZDM7BRGI4DCOJZENJE6I2SIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "Singular Room, 2 Twin Beds - Room Only"
     },
     {
       "cleanRoomName": "singular room 1 king bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3567,16 +4470,38 @@
           "king bed"
         ],
         "board": "room only",
+        "cleanRoom": "singular room 1 king bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8045051693916321,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZGGMRQGMYTEMBWMI3DSNTFGY3TEMBWGI3DKNRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJTGAYDAMZDGEZDMLJRGMYDAMBTPRJEMTT4GIYDENBQGUYTK7BSG56DCMRYGE4TSI2SJ4RVERSOEMZDAMRUFUYDELJSGY",
       "supplierRoomName": "Singular Room, 1 King Bed - Room Only"
     },
     {
       "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3586,16 +4511,40 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8967925310134888,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7COKJDE47BSGAZDIMBSGI2XYMRYPQYTEOJSGQYCGUSPENHFERSOEMZDAMRUFUYDELJSGU",
       "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3605,18 +4554,42 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "style room 1 queen bed room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7905027270317078,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6E4USGJZ6DEMBSGQYDEMRVPQZDS7BRGI4TKOBSENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed breakfast included",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3626,18 +4599,40 @@
           "queen"
         ],
         "board": "breakfast included",
+        "cleanRoom": "style room 1 queen bed breakfast included",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7272834181785583,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNL4GMYHYMJTGA2DCMBDIJBCGUSGJYRTEMBSGQWTAMRNGI3A",
       "supplierRoomName": "Style Room, 1 Queen Bed - Breakfast buffet"
     },
     {
       "cleanRoomName": "standard room room only",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3646,18 +4641,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "standard room room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7325654029846191,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBWGE3GKNRUGYYTOMRWGQZDANZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMZTQMJNGEZTAMBQGN6E4USGJZ6DEMBSGIYDCMBRPQYTE7BRGMYDQNJZENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
       "supplierRoomName": "standard room - Room Only"
     },
     {
       "cleanRoomName": "twin double room singular room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3666,16 +4683,38 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin double room singular room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8433127999305725,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMTGGY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSMQZDANZTGY4TMZJWG43TKNTDGYYTOMT4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZUGEWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGJ6DE7BRGMZDQNBVENJE6I2SIZHCGMRQGI2C2MBVFUYTE",
       "supplierRoomName": "Twin/Double room - Singular - Room Only"
     },
     {
       "cleanRoomName": "twin double room singular room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3684,16 +4723,38 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin double room singular room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8433127999305725,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMTGGY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSMQZDANZTGY4TMZJWG43TKNTDGYYTOMT4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZTHAYS2MJTGAYDAM34KJDE47BSGAZDIMBVGEZHYMJTPQYTGMRYGQ2SGUSPENJEMTRDGIYDENBNGA2S2MJS",
       "supplierRoomName": "Twin/Double room - Singular - Room Only"
     },
     {
       "cleanRoomName": "single breakfast",
+      "closestRoom": {
+        "cleanRoomName": "singular extra room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular extra room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439601",
+        "roomName": "Singular Extra Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3702,16 +4763,38 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "single breakfast",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.48788759112358093,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONTDGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGEZTAMBQGMRTGOBRFUYTGMBQGAZXYUSGJZ6DEMBSGQYDKMJTPQZDM7BRGMZTAMZRENBEEI2SIZHCGMRQGI2C2MBVFUYTG",
       "supplierRoomName": "single - Breakfast"
     },
     {
       "cleanRoomName": "singular room with glimpses of notre dame 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room with glimpses of notre dame",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room with glimpses of notre dame",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439628",
+        "roomName": "Singular Room with Glimpses of Notre Dame"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3721,16 +4804,38 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "singular room with glimpses of notre dame 1 queen bed room only",
         "roomCategory": "unknown",
         "roomType": "singular",
         "view": "unknown"
       },
+      "similarity": 0.8967925310134888,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTMOJWMU3DONZVGZRTMMJXGIZDANZSGZTDMZRWMQZDANZXGY4TONBWHAZDANRXGZRTMOJWMQ3TANZTGY2TOMZSGA3GMNRWGIYDMZJWMY3TINZSGY2TEMBWGQ3DCNTEGY2TEYZSGAZTCMRQG4YTONJWGU3DKNTFGIYDMMRWGU3DI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTGMBQGAZSGMJSGYWTCMZQGAYDG7CSIZHHYMRQGI2DANJRGV6DGML4GEZTGMBZGQRVETZDKJDE4IZSGAZDILJQGIWTENQ",
       "supplierRoomName": "Singular Room with Glimpses of Notre Dame, 1 Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "twin double room singular room only",
+      "closestRoom": {
+        "cleanRoomName": "singular room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "singular room",
+          "roomCategory": "unknown",
+          "roomType": "singular",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439607",
+        "roomName": "Singular Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3739,16 +4844,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin double room singular room only",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
       },
+      "similarity": 0.8433127999305725,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMTGGY2DMZRXGU3DENTDGY2TEMBXGI3GMNTGGZSDEMBSMQZDANZTGY4TMZJWG43TKNTDGYYTOMT4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCMZQGAYDGIZUG42S2MJTGAYDAM34KJDE47BSGAZDIMBVGEZHYMT4GEZTGMRWGMRVETZDKJDE4IZSGAZDILJQGUWTCMQ",
       "supplierRoomName": "Twin/Double room - Singular - Room Only"
     },
     {
       "cleanRoomName": "style room 1 queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "style room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "style room",
+          "roomCategory": [
+            "style"
+          ],
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "54396",
+        "propertyName": "Maison Colbert Member of Meli\u00e1 Collection",
+        "roomId": "5439605",
+        "roomName": "Style Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -3758,12 +4887,14 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "style room 1 queen bed room only",
         "roomCategory": [
           "style"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.7905027270317078,
       "supplierId": "nuitee",
       "supplierRoomId": "G4ZTONBXHE3GGNRVGIYDOMRWMY3GMNTEGJRTEMBTGEZDANZRG42TMNJWGU3GKMRQGYZDMNJWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRGMYDAMBTEMYTENRNGEZTAMBQGN6FERSOPQZDAMRUGA2TCNL4GMZHYMJTGM2TCMBDKJHSGUSGJYRTEMBSGQWTAMRNGI3A",
       "supplierRoomName": "Style Room, 1 Queen Bed - Room Only"

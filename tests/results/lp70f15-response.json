@@ -30,6 +30,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -55,6 +56,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -80,6 +82,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -105,6 +108,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -130,6 +134,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -155,6 +160,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -180,6 +186,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -205,6 +212,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -230,6 +238,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 package rate room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -255,6 +264,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -280,6 +290,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 package rate room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -305,6 +316,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "double room 0 room only",
             "roomCategory": "unknown",
             "roomType": "double room",
             "view": "unknown"
@@ -323,6 +335,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "double room",
         "roomCategory": "unknown",
         "roomType": "double room",
         "view": "unknown"
@@ -351,6 +364,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -376,6 +390,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -401,6 +416,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -426,6 +442,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -451,6 +468,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -476,6 +494,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -501,6 +520,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -526,6 +546,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -551,6 +572,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 package rate room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -576,6 +598,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -601,6 +624,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room non refundable room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -626,6 +650,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 package rate room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -651,6 +676,7 @@
               "unknown"
             ],
             "board": "room only",
+            "cleanRoom": "twin room 0 room only",
             "roomCategory": "unknown",
             "roomType": "unknown",
             "view": "unknown"
@@ -669,6 +695,7 @@
           "unknown"
         ],
         "board": "unknown",
+        "cleanRoom": "twin room",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
@@ -680,6 +707,26 @@
   "UnmappedRooms": [
     {
       "cleanRoomName": "double queen size bed room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -689,16 +736,38 @@
           "queen size bed"
         ],
         "board": "room only",
+        "cleanRoom": "double queen size bed room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8413769006729126,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGE3TKNRVGY2TMZJSGA3TGNRZG5QTMNJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGQ3DENRRGMRTEMRXFU2DMMRWGEZXYTSSIZHHYMRQGI2DAMRSGZ6DC7BVGY2TSMJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDM",
       "supplierRoomName": "DOUBLE QUEEN SIZE BED - ROOM ONLY"
     },
     {
       "cleanRoomName": "double or twin standard room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -707,18 +776,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double or twin standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8121117353439331,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZDENZNGQ3DENRRGN6E4USGJZ6DEMBSGQYDEMRWPQ2HYNJWGU4TCI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3A",
       "supplierRoomName": "Double or Twin STANDARD - ROOM ONLY"
     },
     {
       "cleanRoomName": "double queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -728,16 +819,38 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "double queen bed room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8667980432510376,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGQ3DENRRGMRTGMJZFU2DMMRWGEZXYTSSIZHHYVCEPQYXYNJWHA2TEI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Double Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "twin standard room only",
+      "closestRoom": {
+        "cleanRoomName": "twin room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "twin room",
+          "roomCategory": "unknown",
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322603",
+        "roomName": "Twin Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -746,18 +859,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8178014159202576,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTCOJNGQ3DENRRGN6E4USGJZ6FIRD4GJ6DKNRYGUZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Twin Standard - Room Only"
     },
     {
       "cleanRoomName": "double or twin standard room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -766,18 +901,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double or twin standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8121117353439331,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTMMJNGQ3DENRRGN6E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GN6DKOJTGM2SGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
       "supplierRoomName": "Double or Twin STANDARD - Room Only"
     },
     {
       "cleanRoomName": "double queen size bed room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -787,16 +944,38 @@
           "queen size bed"
         ],
         "board": "room only",
+        "cleanRoom": "double queen size bed room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8413769006729126,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGE3TKNRVGY2TMZJSGA3TGNRZG5QTMNJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGQ3DENRRGMRTGNRRFU2DMMRWGEZXYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQ2HYNJZGMZTKI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
       "supplierRoomName": "DOUBLE QUEEN SIZE BED - Room Only"
     },
     {
       "cleanRoomName": "double or twin standard room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -805,18 +984,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double or twin standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8121117353439331,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZDENZNGQ3DENRRGN6FERSOPQZDAMRUGA2TCMT4GJ6DMMRXHAZCGUSPENJEMTRDGIYDENBNGA2S2MJS",
       "supplierRoomName": "Double or Twin STANDARD - ROOM ONLY"
     },
     {
       "cleanRoomName": "double queen size bed room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -826,16 +1027,38 @@
           "queen size bed"
         ],
         "board": "room only",
+        "cleanRoom": "double queen size bed room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8413769006729126,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGE3TKNRVGY2TMZJSGA3TGNRZG5QTMNJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGQ3DENRRGMRTEMRXFU2DMMRWGEZXYUSGJZ6DEMBSGQYDKMJSPQZXYNRSG44DEI2SJ4RVERSOEMZDAMRUFUYDKLJRGI",
       "supplierRoomName": "DOUBLE QUEEN SIZE BED - ROOM ONLY"
     },
     {
       "cleanRoomName": "double queen bed room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -845,16 +1068,38 @@
           "queen"
         ],
         "board": "room only",
+        "cleanRoom": "double queen bed room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8667980432510376,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGE3TKNRVGY2TMZJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGQ3DENRRGMRTGMJZFU2DMMRWGEZXYTSSIZHHYVCEPQZXYNRTGA3TEI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
       "supplierRoomName": "Double Queen Bed - Room Only"
     },
     {
       "cleanRoomName": "twin standard room only",
+      "closestRoom": {
+        "cleanRoomName": "twin room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "twin room",
+          "roomCategory": "unknown",
+          "roomType": "unknown",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322603",
+        "roomName": "Twin Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -863,18 +1108,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "twin standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8178014159202576,
       "supplierId": "nuitee",
       "supplierRoomId": "G42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTCOJNGQ3DENRRGN6E4USGJZ6FIRD4GR6DMMZQG4ZCGUSPENHFERSOEMZDAMRUFUYDELJSG4",
       "supplierRoomName": "Twin Standard - Room Only"
     },
     {
       "cleanRoomName": "double queen size bed room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -884,16 +1151,38 @@
           "queen size bed"
         ],
         "board": "room only",
+        "cleanRoom": "double queen size bed room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8413769006729126,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGE3TKNRVGY2TMZJSGA3TGNRZG5QTMNJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGQ3DENRRGMRTGNRRFU2DMMRWGEZXYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQ2XYNRVGYZDQI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
       "supplierRoomName": "DOUBLE QUEEN SIZE BED - Room Only"
     },
     {
       "cleanRoomName": "double or twin standard room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -902,18 +1191,40 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double or twin standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8121117353439331,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTMMJNGQ3DENRRGN6E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GZ6DMNJWGI4CGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
       "supplierRoomName": "Double or Twin STANDARD - Room Only"
     },
     {
       "cleanRoomName": "double queen size bed room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -923,16 +1234,38 @@
           "queen size bed"
         ],
         "board": "room only",
+        "cleanRoom": "double queen size bed room only",
         "roomCategory": "unknown",
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8413769006729126,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBXGE3TKNRVGY2TMZJSGA3TGNRZG5QTMNJSGA3DENRVGY2HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGQ3DENRRGMRTGNRRFU2DMMRWGEZXYUSGJZ6DEMBSGQYDKMJRGE3DAMD4GF6DMNJYGI3CGUSPENJEMTRDGIYDENBNGA2S2MJR",
       "supplierRoomName": "DOUBLE QUEEN SIZE BED - Room Only"
     },
     {
       "cleanRoomName": "double or twin standard room only",
+      "closestRoom": {
+        "cleanRoomName": "double room",
+        "normalizedRoom": {
+          "amenities": [
+            "unknown"
+          ],
+          "bedType": [
+            "unknown"
+          ],
+          "board": "unknown",
+          "cleanRoom": "double room",
+          "roomCategory": "unknown",
+          "roomType": "double room",
+          "view": "unknown"
+        },
+        "propertyId": "493226",
+        "propertyName": "H\u00f4tel le Clos de Notre Dame",
+        "roomId": "49322602",
+        "roomName": "Double Room"
+      },
       "normalizedRoom": {
         "amenities": [
           "unknown"
@@ -941,12 +1274,14 @@
           "unknown"
         ],
         "board": "room only",
+        "cleanRoom": "double or twin standard room only",
         "roomCategory": [
           "standard"
         ],
         "roomType": "unknown",
         "view": "unknown"
       },
+      "similarity": 0.8121117353439331,
       "supplierId": "nuitee",
       "supplierRoomId": "GY2DMZRXGU3DENTDGY2TEMBWMY3TEMRQG42DONZWHE3GKMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZUGYZDMMJTEMZTMMJNGQ3DENRRGN6FERSOPQZDAMRUGA2TCMJRGYYDA7BSPQ3DKOBSGYRVETZDKJDE4IZSGAZDILJQGUWTCMI",
       "supplierRoomName": "Double or Twin STANDARD - Room Only"
