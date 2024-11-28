@@ -169,11 +169,17 @@ def normalize_room_name(room_name):
     }
 
 def extract_room_type(clean_name):
+    """
+    Extract the type of the room from the room name.
+    """
+    if not isinstance(clean_name, str):
+        clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
+
     room_types = [
         'suite', 'single room', 'double room', 'triple room', 'quad room', 'family room',
         'studio room', 'apartment', 'villa', 'bungalow', 'king room', 'queen room', 'cottage',
         'penthouse', 'loft', 'cabin', 'chalet', 'duplex', 'guesthouse', 'hostel', 'accessible room',
-        'connected rooms', 'studio', 'appartment'
+        'connected rooms', 'studio', 'appartment', 'deluxe suite', 'standard suite'
     ]
     for room_type in room_types:
         if room_type in clean_name:
@@ -181,6 +187,12 @@ def extract_room_type(clean_name):
     return "unknown"
 
 def extract_room_category(clean_name):
+    """
+    Extract the category of the room from the room name.
+    """
+    if not isinstance(clean_name, str):
+        clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
+
     categories = [
         'deluxe', 'superior', 'executive', 'club', 'presidential', 'classic',
         'junior', 'luxury', 'economy', 'standard', 'budget', 'family-friendly',
@@ -194,6 +206,9 @@ def extract_board_type(clean_name):
     """
     Extract the board type from the room name.
     """
+    if not isinstance(clean_name, str):
+        clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
+
     board_types = [
         'room only', 'bed and breakfast', 'half board', 'full board',
         'all inclusive', 'self catering', 'board basis', 'breakfast included',
@@ -210,6 +225,9 @@ def extract_view(clean_name):
     """
     Extract the view from the room name.
     """
+    if not isinstance(clean_name, str):
+        clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
+
     views = [
         'city view', 'sea view', 'garden view', 'courtyard view', 'mountain view',
         'beachfront', 'pool view', 'lake view', 'river view', 'panoramic view',
@@ -232,6 +250,9 @@ def extract_bed_types(clean_name):
     """
     Extract the bed types from the room name.
     """
+    if not isinstance(clean_name, str):
+        clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
+
     bed_types = [
         'single bed', 'double bed', 'queen bed', 'king bed', 'twin bed', 'twin beds', 'double beds',
         'bunk bed', 'double sofa bed', 'sofa bed', 'futon', 'murphy bed', 'queen',
@@ -246,11 +267,13 @@ def extract_bed_types(clean_name):
             found_beds.append(bed_type)
     return found_beds if found_beds else ["unknown"]
 
-
 def extract_amenities(clean_name):
     """
     Extract the amenities from the room name.
     """
+    if not isinstance(clean_name, str):
+        clean_name = " ".join(clean_name) if isinstance(clean_name, list) else str(clean_name)
+
     amenities = [
         'wifi', 'air conditioning', 'heating', 'kitchen', 'workspace', 'gym', 'pool',
         'free parking', 'pet-friendly', 'washer', 'dryer', 'balcony', 'fireplace',
@@ -265,6 +288,7 @@ def extract_amenities(clean_name):
     found_amenities = [amenity for amenity in amenities if amenity in clean_name]
     return found_amenities if found_amenities else ["unknown"]
 
+
 def compute_embeddings(texts):
     """
     Compute embeddings for a list of texts using the FastText model.
@@ -278,6 +302,7 @@ def map_rooms_with_multiple_passes(input_json):
 
     # Precompute embeddings and normalize reference rooms
     reference_rooms = []
+    reference_embeddings = {}
     for ref_property in reference_catalog:
         for ref_room in ref_property["referenceRoomInfo"]:
             clean_ref_room_name = clean_text(ref_room["roomName"])
@@ -289,9 +314,12 @@ def map_rooms_with_multiple_passes(input_json):
                 "cleanRoomName": clean_ref_room_name,
                 "normalizedRoom": normalize_room_name(ref_room["roomName"])
             })
+            if clean_ref_room_name not in reference_embeddings:
+                reference_embeddings[clean_ref_room_name] = ft_model.get_sentence_vector(clean_ref_room_name)
 
     # Normalize and preprocess supplier rooms
     supplier_rooms = []
+    supplier_embeddings = {}
     for supplier in input_catalog:
         for sup_room in supplier["supplierRoomInfo"]:
             clean_sup_room_name = clean_text(sup_room["supplierRoomName"])
@@ -302,6 +330,8 @@ def map_rooms_with_multiple_passes(input_json):
                 "cleanRoomName": clean_sup_room_name,
                 "normalizedRoom": normalize_room_name(sup_room["supplierRoomName"])
             })
+            if clean_sup_room_name not in supplier_embeddings:
+                supplier_embeddings[clean_sup_room_name] = ft_model.get_sentence_vector(clean_sup_room_name)
 
     # Track matched supplier room IDs and results
     mapped_supplier_room_ids = set()
@@ -373,6 +403,35 @@ def map_rooms_with_multiple_passes(input_json):
     remaining_supplier_rooms = [room for room in supplier_rooms if room["supplierRoomId"] not in mapped_supplier_room_ids]
     third_pass_matches = perform_matching(reference_rooms, remaining_supplier_rooms, "Third Pass")
 
+    # Fourth Pass: Cosine Similarity Matching
+    remaining_supplier_rooms = [room for room in supplier_rooms if room["supplierRoomId"] not in mapped_supplier_room_ids]
+    fourth_pass_matches = 0
+    for sup_room in remaining_supplier_rooms:
+        best_match = None
+        best_similarity = -1
+        supplier_embedding = supplier_embeddings[sup_room["cleanRoomName"]]
+
+        for ref_room in reference_rooms:
+            ref_embedding = reference_embeddings[ref_room["cleanRoomName"]]
+            similarity = cosine_similarity(supplier_embedding, ref_embedding)
+
+            if similarity > best_similarity and similarity > 0.9:  # Threshold for cosine similarity
+                best_similarity = similarity
+                best_match = ref_room
+
+        if best_match:
+            fourth_pass_matches += 1
+            match = {
+                "pass": "Fourth Pass (Cosine Similarity)",
+                "supplierRoomId": sup_room["supplierRoomId"],
+                "supplierRoomName": sup_room["supplierRoomName"],
+                "cleanRoomName": sup_room["cleanRoomName"],
+                "similarity": best_similarity,
+                "roomDescription": sup_room["normalizedRoom"]
+            }
+            add_match_to_results(best_match, match, results)
+            mapped_supplier_room_ids.add(sup_room["supplierRoomId"])
+
     # Collect unmapped rooms
     unmapped_rooms = [room for room in supplier_rooms if room["supplierRoomId"] not in mapped_supplier_room_ids]
 
@@ -384,12 +443,12 @@ def map_rooms_with_multiple_passes(input_json):
             "FirstPassMatches": first_pass_matches,
             "SecondPassMatches": second_pass_matches,
             "ThirdPassMatches": third_pass_matches,
+            "FourthPassMatches": fourth_pass_matches,
             "MappedSupplierRooms": len(mapped_supplier_room_ids),
             "UnmappedSupplierRooms": len(unmapped_rooms)
         }
     }
 
-# Add helper functions `calculate_match_outcome`, `add_match_to_results`, and `normalize_room_name`
 
 
 @app.route("/", methods=["POST"])
