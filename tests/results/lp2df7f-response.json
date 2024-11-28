@@ -1,628 +1,1531 @@
 {
+  "Counts": {
+    "FirstPassMatches": 117,
+    "MappedSupplierRooms": 117,
+    "SecondPassMatches": 0,
+    "ThirdPassMatches": 0,
+    "TotalSupplierRooms": 156,
+    "UnmappedSupplierRooms": 39
+  },
   "Results": [
     {
       "cleanRoomName": "studio",
       "mappedRooms": [
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTA7BUGM4TCNBDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTCMJWFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DC7BUGQZDCNZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
           "supplierRoomName": "Studio - European Plan"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDA7BUGQZDINZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BYPQ2DKNRUHARVETZDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Studio(1 Double Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEOBTGIZDANZUG43TMOJWMUZDANRSGY2TMNBXGMZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBYGIWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI3TCMZVHF6DEOD4GQ2TMNBYENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
           "supplierRoomName": "Studio(2 Twin Beds) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DC7BUGYZDONZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGA3TENTGGZSDMZRSGAZTEMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRPQ2DOMJUHERVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Studio Promo 20 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4HYNBXG42DOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GZ6DINZXGYZCGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
-          "supplierRoomName": "STUDIO Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGAZDENL4GF6DIOBRGM3SGUSPENHFERSOEMZDAMRUFUYDELJSGU",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGA3TENTGGZSDMZRSGAZTCMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BSPQ2DSNRRGIRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Studio Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTC7BVGEYTINJDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXG43DSNZUGY4DEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTHAYS2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BSPQ2TCMJXHARVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "STUDIO WITH DOUBLE BED - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGA3TENTGGZSDMZRSGAZTEMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZWGUYC2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRPQ2TCMZYG4RVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Studio Promo 20 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJZFUYTQOBSHA3XYTSSIZHHYVCEPQYXYNJRGUZDOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINRRGZSTMNBWGE3TENRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGM4DCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GN6DKMZUHAYCGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
           "supplierRoomName": "STUDIO STANDARD - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSHAZTEMRQGYYTMNBXGU3GGNZUG4ZTEOJSGAZGIMRQGZSTMZRWMUZGINZSGY2TMNRXGU3GKNRUGYYTMMRWMM3DK7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMRYHAWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI3TCMZVHF6DC7BVGM4DEMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Studio (2 Adults) - Non-refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGA3TENTGGZSDMZRSGAZTCMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZWGUYC2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BSPQ2TIMBWHERVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Studio Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDC7BVGQYTGMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GE4XYNJUGY3TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMZYFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNJVGE2TGI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4XYNJVGI4TSI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GEZHYNJVG4YDGI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
-          "supplierRoomName": "STUDIO Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4G56DKNJYGU2CGUSPENJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCMZRGYYDA7BTPQ2TKOBXGERVETZDKJDE4IZSGAZDILJQGUWTCMY",
-          "supplierRoomName": "STUDIO Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCM34GJ6DKNRSG4YCGUSPENJEMTRDGIYDENBNGA2S2MJT",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GEZXYNJWGU4TOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQ2HYNJWHAZTQI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNJSGE2TS7BRGJ6DKNRYGYYCGUSPENJEMTRDGIYDENBNGA2S2MJV",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMYTCNRNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQZHYNJWHE4TSI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Deluxe Studio - European Plan"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GIZXYNJXGAZTAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTCMJWFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQZXYNJXGA4TOI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
           "supplierRoomName": "Studio - European Plan"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BZPQ2TQNZQHERVETZDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Studio(1 Double Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEOBTGIZDANZUG43TMOJWMUZDANRSGY2TMNBXGMZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBYGIWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI3TCMZVHF6DGMD4GU4DOMBZENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
           "supplierRoomName": "Studio(2 Twin Beds) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMYZDQMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEOL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZUHAZC2MJYHAZDQN34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMJRPQ2TQOBUGIRVETZDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Deluxe Studio(1 Double Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEOBTGEZDANRUGZTDONJWGI3GGNRVGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRJEMTT4GIYDENBQGIZDSMJQGAYHYN34GU4TGMRVENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Studio(1 Double Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEOBTGIZDANZUG43TMOJWMUZDANRSGY2TMNBXGMZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBYGIWTCOBYGI4DO7CSIZHHYMRQGI2DAMRSHEYTAMBQPQZDS7BVHEZTENJDKJHSGUSGJYRTEMBSGQWTAMRNGI3Q",
           "supplierRoomName": "Studio(2 Twin Beds) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ2XYNJZGY2DOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMNJQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNRQGY4DQI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
-          "supplierRoomName": "Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGUZDANZQG4ZDMZRWMQ3GMMRQGMZDGMBSMQZDANTFGZTDMZJSGA3TENRVGY3DONJWMU3DINRRGYZDMYZWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTGOBNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ2HYNRQG44DGI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Deluxe Promo 20- Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMYZDANRUGY2TMYZXGU3TQNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGM3DCLJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENBRGYYDA7BXPQ3DCNJXGYRVETZDJZJEMTRDGIYDENBNGAZC2MRU",
           "supplierRoomName": "STUDIO Studio Deluxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANRUGY2TEMBWMM3TKNZYGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGAZDENL4GN6DMMRQHE2SGUSPENHFERSOEMZDAMRUFUYDELJSGU",
           "supplierRoomName": "Studio - De Luxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINRRGZSTMNBWGE3TENRUPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGM4DCLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTI7BWPQ3DENJWGARVETZDKJDE4IZSGAZDILJQGUWTCNA",
           "supplierRoomName": "STUDIO STANDARD - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANRUGY2TEMBWMM3TKNZYGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRVPQ3XYNRSG4ZDCI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
           "supplierRoomName": "Studio - De Luxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGUZDANZQG4ZDMZRWMQ3GMMRQGMYTGMBSGAZGIMRQGZSTMZRWMUZDANZSGY2TMNRXGU3GKNRUGYYTMMRWMM3DK7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZTHAWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYNL4GYZTSNJRENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "Studio Deluxe Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXG43DSNZUGY4DEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMND4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTHAYS2MJYHAZDQN34KJDE47BSGAZDIMBVGEZXYOD4GYZTSNZSENJE6I2SIZHCGMRQGI2C2MBVFUYTG",
           "supplierRoomName": "STUDIO WITH DOUBLE BED - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ4XYNRVGQZDCI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Deluxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GE2XYNRVHEZDSI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGUZDANZQG4ZDMZRWMQ3GMMRQGMZDGMBSMQZDANTFGZTDMZJSGA3TENRVGY3DONJWMU3DINRRGYZDMYZWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM3DKMBNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ2HYNRWGI2DKI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Deluxe Promo 20- Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCOJNGE4DQMRYG56E4USGJZ6FIRD4GJ6DMOBUG42CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGUZDANZQG4ZDMZRWMQ3GMMRQGMYTGMBSGAZGIMRQGZSTMZRWMUZDANZSGY2TMNRXGU3GKNRUGYYTMMRWMM3DK7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNRVGAWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYNL4GY4TMOJZENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "Studio Deluxe Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTGOBNGE4DQMRYG56FERSOPQZDAMRUGA2TCND4GZ6DOMJQG42SGUSPENJEMTRDGIYDENBNGA2S2MJU",
           "supplierRoomName": "Studio Deluxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMYZDANRUGY2TMYZXGU3TQNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGM3DCLJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENBRGYYDA7BRGN6DOMJXHA2SGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
           "supplierRoomName": "STUDIO Studio Deluxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMYZDANRUGY2TMYZXGU3TQNRVPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGM3DCLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTGMJWGAYHYND4G4ZDAMBQENJE6I2SIZHCGMRQGI2C2MBVFUYTG",
           "supplierRoomName": "STUDIO Studio Deluxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANRUGY2TEMBWMM3TKNZYGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCM34GR6DOMRVGM3CGUSPENJEMTRDGIYDENBNGA2S2MJT",
           "supplierRoomName": "Studio - De Luxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANRUGY2TEMBWMM3TKNZYGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQYTA7BXGMZDMNZDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
           "supplierRoomName": "Studio - De Luxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTKMRRGU4XYMJUPQ3TGMRXGARVETZDKJDE4IZSGAZDILJQGUWTCNI",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMYTCNRNGE4DQMRYG56FERSOPQZDAMRUGA2TCM34GV6DOMZVG43SGUSPENJEMTRDGIYDENBNGA2S2MJT",
           "supplierRoomName": "Deluxe Studio - European Plan"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GI2HYNZUGI3TOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56FERSOPQZDAMRUGAZDEOJRGAYDA7BSGJ6DONJQGE4CGUSPENJEMTRDGIYDENBNGAZC2MRX",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMYZDQMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEOL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZUHAZC2MJYHAZDQN34JZJEMTT4GIYDENBQGIZDOMJTGU4XYMJSPQ3TKNRVGURVETZDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Deluxe Studio(1 Double Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMYZDQMZRGIYDMNBWMY3TKNRSGZRTMNJSGA3DENRVGY2DEOL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZUHAZC2MJYHAZDQN34KJDE47BSGAZDIMBSGI4TCMBQGB6DCMD4G43DINJRENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Deluxe Studio(1 Double Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCND4GEZHYNZWGQ4TSI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
           "supplierRoomName": "Studio Deluxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGV6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM3DKMBNGE4DQMRYG56FERSOPQZDAMRUGA2TCND4GZ6DOOBSGA3CGUSPENJEMTRDGIYDENBNGA2S2MJU",
           "supplierRoomName": "Studio Deluxe - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio room",
-          "similarity": 0.8389851450920105,
-          "supplierId": "nuitee",
-          "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNL4GEZXYNZYGQ3DAI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
-          "supplierRoomName": "Deluxe Studio - Room Only"
-        },
-        {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSHA3TGNRVGY4TMZJWGUZDANZWGY4TMNJXG4ZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZRFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DQ7BYHA3TKNJDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
           "supplierRoomName": "Studio (Seine View) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSHA3TGNRVGY4TMZJWGUZDANZWGY4TMNJXG4ZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMJRGYWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYNT4HA4TIMJQENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "Studio (Seine View) - European Plan"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSHA3TGNRVGY4TMZJWGUZDANZWGY4TMNJXG4ZDSMRYGMYTEMBWGQ3GMNZVGYZDMYZWGUZDANTEG42TOMRXGA3DQNZZGIYDMMRWGU3DIMRZPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BUPQ4TEMZQHERVETZDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Studio (Seine View)(1 Double Murphy Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSHA3TGNRVGY4TMZJWGUZDANZWGY4TMNJXG4ZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBYGIWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI3TCMZVHF6DCND4HEZDGMBZENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
           "supplierRoomName": "Studio (Seine View) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3DKNRZGZSTMNJSGA3TMNRZGY2TONZSGAYGCNTEG42TOMRXGA3DQNZZGIYDMMRWGU3DIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBQMEZTEMZQGIYDEZBSGAZTEMZXGIYDOMZXGE3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBRHEWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYMJTPQ4TIMZQGARVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Studio Seine View \nMurphy bed with a double bed\n20 - 27 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGA3TENTGGZSDMZRSGAZTEMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRGB6DSNJTGU2CGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
           "supplierRoomName": "Studio Executive Promo 20 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMYZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZWGEWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI2DCNRQGB6DQ7BZGY2TSNJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDI",
           "supplierRoomName": "STUDIO Studio Seine View - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRVPQ3XYOJXGM3TII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
           "supplierRoomName": "Studio - Seine view - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7CSIZHHYMRQGI2DAMRSGV6DEMT4HE4DGNJWENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
           "supplierRoomName": "Studio - Seine view - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3DKNRZGZSTMNJSGA3TMNRZGY2TONZSGAYGCNTEG42TOMRXGA3DQNZZGIYDMMRWGU3DIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBQMEZTEMZQGIYDEZBSGAZTEMZXGIYDOMZXGE3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBRHEWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYOD4HE4TCNZQENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "Studio Seine View \nMurphy bed with a double bed\n20 - 27 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGA3TENTGGZSDMZRSGAZTCMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRGF6DCMBQGI3TSI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Executive Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXG43DSNZUGY4DEMBXGY3DSNRVG43TOM34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTHAYS2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BSGV6DCMBSGYZDSI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "STUDIO WITH VIEWS - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSHA3TGNRVGY4TMZJWGUZDANZWGY4TMNJXG4ZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZRFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DO7BRGAZTGNZZENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "Studio (Seine View) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGA3TENTGGZSDMZRSGAZTEMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZWGUYC2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRGB6DCMBTHEZDGI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Executive Promo 20 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3DKNRZGZSTMNJSGA3TMNRZGY2TON34GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTHAYS2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BSG56DCMBUHAYDAI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Seine view - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGA3TENTGGZSDMZRSGAZTCMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZWGUYC2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRGF6DCMBZGI4TCI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Executive Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSHA3TGNRVGY4TMZJWGUZDANZWGY4TMNJXG4ZDS7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNRSGAWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI3TCMZVHF6DE7BRGEYDANBSENJE6I2OKJDE4IZSGAZDILJQGIWTENY",
           "supplierRoomName": "Studio (Seine View) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3DKNRZGZSTMNJSGA3TMNRZGY2TONZSGAYGCNTEG42TOMRXGA3DQNZZGIYDMMRWGU3DIMRQG43TMOJXGQ3DQMRQGYYTEMBWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBQMEZTEMZQGIYDEZBSGAZTEMZXGIYDOMZXGE3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBRHEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGR6DG7BRGEYDCMZSENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
           "supplierRoomName": "Studio Seine View \nMurphy bed with a double bed\n20 - 27 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMZYFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQYTG7BRGEYTENZVENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
           "supplierRoomName": "Studio Executive - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMYZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZWGEWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI2DCNRQGB6DCML4GEYTENBXGURVETZDJZJEMTRDGIYDENBNGAZC2MRU",
           "supplierRoomName": "STUDIO Studio Seine View - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMYZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZWGEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGMYTMMBQPQZHYMJRGI4DCMZDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
           "supplierRoomName": "STUDIO Studio Seine View - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQ4XYMJRGM3DGOJDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
           "supplierRoomName": "Studio - Seine view - Room Only"
         },
         {
-          "cleanSupplierRoomName": "studio",
-          "similarity": 1.0,
-          "supplierId": "nuitee",
+          "cleanRoomName": "studio",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "studio",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBSMQZDANZTGY2TMOJWMU3DKMRQG43DMOJWGU3TO7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGN6DGMD4GEYTINZYGURVETZDKJDE4IZSGAZDILJQGUWTCMY",
           "supplierRoomName": "Studio - Seine view - Room Only"
         }
       ],
       "propertyId": "220016",
       "propertyName": "Citadines Saint-Germain-des-Pr\u00e9s Paris",
-      "roomDescription": "",
+      "roomDescription": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio",
+        "view": "unknown"
+      },
       "roomId": "66848",
       "roomName": "Studio (2 Adults)"
     },
@@ -630,497 +1533,2148 @@
       "cleanRoomName": "apartment",
       "mappedRooms": [
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3GMNZSGIYDONBXG43DSNTFGIYDMMRWGU3DINZTGBQTGMRTGAZDAMTEGIYDGMRTGMZDANZTG4YTMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZUGE4S2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRGF6DINRWGI4CGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
           "supplierRoomName": "Studio apartment\nDouble bed or twin beds\n20 - 23 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3GMNZSGIYDONBXG43DSNTFGIYDMMRWGU3DINZTGBQTGMRTGAZDAMTEGIYDGMRTGMZDANZTG4YTMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZUGE4S2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BWPQ2DSMBWGMRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Studio apartment\nDouble bed or twin beds\n20 - 23 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3GMNZSGIYDONBXG43DSNTFGIYDMMRWGU3DINZTGBQTGMRTGAZDAMTEGIYDGMRTGMZDANZTG4YTMZD4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZUGE4S2MJYHAZDQN34KJDE47BSGAZDIMBVGE2HYML4GU2DKNBUENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
           "supplierRoomName": "Studio apartment\nDouble bed or twin beds\n20 - 23 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGUZDAMTEGIYDOMZXGQ3TKNRUGY4TMZRSGA3DCNZQGYYTOMRXGQ3GINRVGZSTONBQME3DINTGG42TMMRWMM3DKMRQGYZDMNJWGQYGCMZSGMYDEMBSMQZDAMZSGMZTEMBXGM3TCNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQYTSLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GEZHYNRQGEYTCI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Studio Deluxe - Studio apartment\nDouble bed\n20 - 23 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGUZDAMTEGIYDOMZXGQ3TKNRUGY4TMZRSGA3DCNZQGYYTOMRXGQ3GINRVGZSTONBQME3DINTGG42TMMRWMM3DKMRQGYZDMNJWGQYGCMZSGMYDEMBSMQZDAMZSGMZTEMBXGM3TCNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQYTSLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4G56DMMZSGQZSGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
           "supplierRoomName": "Studio Deluxe - Studio apartment\nDouble bed\n20 - 23 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBWGQ3DKNTDG42TOOBWGUZDAMTEGIYDOMZXGQ3TKNRUGY4TMZRSGA3DCNZQGYYTOMRXGQ3GINRVGZSTONBQME3DINTGG42TMMRWMM3DKMRQGYZDMNJWGQYGCMZSGMYDEMBSMQZDAMZSGMZTEMBXGM3TCNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQYTSLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTI7BSPQ3TAMRZGARVETZDKJDE4IZSGAZDILJQGUWTCNA",
           "supplierRoomName": "Studio Deluxe - Studio apartment\nDouble bed\n20 - 23 sqm - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGMYS2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BTPQ3TEMBUGIRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGEYTMLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GR6DOMRVHAZCGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
           "supplierRoomName": "Apartment, 1 Bedroom - European Plan"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRGZ6DOMRVHE4CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEGI4DGMJSGA3DINTGG42TMMRWMM3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZTE7BXGQ4TGOBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Apartment, 1 Bedroom(1 Double Bed and 1 Double Sofa Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGM4DCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GEYXYNZVHEZDQI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGJSDEMBTGEZGINRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3DSNTFGIYDONBWHA3DKMRQGYZDMNJWGQ3TENTGGZTDMZBSGA3DCNTFGY2DEMBXGA3TKNTDGZRTEZBWMY3TKNZUGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRQGY4TMZJSGA3TINRYGY2TEMBWMM3DSNZWGY4TMZJWG4ZGINZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DCOJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTI7BXGY2TKMZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
           "supplierRoomName": "1-Bedroom Apartment - 1-bedroom apartment\nDouble bed in the bedroom and pull-out sofa bed in the living-room - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DEMBXGA3TENTGGZSDMZRSGAZTEMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BXPQ3TONBQHARVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "One Bedroom Apartment Promo 20 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGYZDALJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BUPQ3TQMZYHERVETZDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZWGEWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI2DCNRQGB6DK7BXHA2DCOBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDI",
           "supplierRoomName": "APARTMENT 1-Bedroom Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEMBWGI3DKNRUG4ZDMZRWMY3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRVPQ2XYNZZGAZDAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
           "supplierRoomName": "Apartment 1 bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEMBWGI3DKNRUG4ZDMZRWMY3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7CSIZHHYMRQGI2DAMRSGV6DCND4G44TQMJXENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
           "supplierRoomName": "Apartment 1 bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGJSDEMBTGEZGINRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3DSNTFGIYDONBWHA3DKMRQGYZDMNJWGQ3TENTGGZTDMZBSGA3DCNTFGY2DEMBXGA3TKNTDGZRTEZBWMY3TKNZUGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRQGY4TMZJSGA3TINRYGY2TEMBWMM3DSNZWGY4TMZJWG4ZGINZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DCOJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ4XYOBQGU2TKI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "1-Bedroom Apartment - 1-bedroom apartment\nDouble bed in the bedroom and pull-out sofa bed in the living-room - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DCNL4HAYTCNBRENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "APARTMENT ONE BEDROOM - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DEMBXGA3TENTGGZSDMZRSGAZTCMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BYPQ4DCNBVGQRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "One Bedroom Apartment Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZRHEWTCOBYGI4DO7COKJDE47CUIR6DG7BYGE3DSOJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEMBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYMJWPQ4DGMZRGYRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "1 Bedroom apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGMYS2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BSPQ4DGOJXGMRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DEMBXGA3TENTGGZSDMZRSGAZTEMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZWGUYC2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BXPQ4DIMZWGQRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "One Bedroom Apartment Promo 20 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYMJXPQ4DKMBXHARVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "1-Bedroom apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BRHB6DQNJXGI3CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRJEMTT4GIYDENBQGIZDSMJQGAYHYMJXPQ4DMNJYHERVETZDKJDE4IZSGAZDILJQGIWTENY",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DEMBXGA3TENTGGZSDMZRSGAZTCMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZWGUYC2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BYPQ4DQNZXGQRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "One Bedroom Apartment Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGJSDEMBTGEZGINRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3DSNTFGIYDONBWHA3DKMRQGYZDMNJWGQ3TENTGGZTDMZBSGA3DCNTFGY2DEMBXGA3TKNTDGZRTEZBWMY3TKNZUGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRQGY4TMZJSGA3TINRYGY2TEMBWMM3DSNZWGY4TMZJWG4ZGINZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DCOJNGE4DQMRYG56FERSOPQZDAMRUGA2TCND4GR6DQOJVGE2CGUSPENJEMTRDGIYDENBNGA2S2MJU",
           "supplierRoomName": "1-Bedroom Apartment - 1-bedroom apartment\nDouble bed in the bedroom and pull-out sofa bed in the living-room - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMZYFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQ4XYOJQGUYTMI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
           "supplierRoomName": "One Bedroom Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGYZDALJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BWPQ4TANZVGARVETZDJZJEMTRDGIYDENBNGAZC2MRX",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZWGEWTCOBYGI4DO7COKJDE47BSGAZDIMBSGI2DCNRQGB6DCMD4HEYTIMRQENJE6I2OKJDE4IZSGAZDILJQGIWTENA",
           "supplierRoomName": "APARTMENT 1-Bedroom Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGYZDALJRHA4DEOBXPRJEMTT4GIYDENBQGIZDSMJQGAYHYNL4HEYTMNRRENJE6I2SIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZWGEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGMYTMMBQPQYXYOJRGY4TII2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
           "supplierRoomName": "APARTMENT 1-Bedroom Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTQ7BZGIYTSMZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
           "supplierRoomName": "APARTMENT STANDARD - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEMBWGI3DKNRUG4ZDMZRWMY3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGNBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQ3HYOJSGQZDQI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
           "supplierRoomName": "Apartment 1 bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGMYS2MJYHAZDQN34KJDE47BSGAZDIMBVGE2TEMJVHF6DC7BZGMZTCNBDKJHSGUSGJYRTEMBSGQWTANJNGE2Q",
           "supplierRoomName": "Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEMBWGI3DKNRUG4ZDMZRWMY3GI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGN6DCOL4HEZTGNRQENJE6I2SIZHCGMRQGI2C2MBVFUYTG",
           "supplierRoomName": "Apartment 1 bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGEYTMLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTG7BXPQ4TGNZQGQRVETZDKJDE4IZSGAZDILJQGUWTCMY",
           "supplierRoomName": "Apartment, 1 Bedroom - European Plan"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGJ6DEMD4HE2DGNRTENJE6I2SIZHCGMRQGI2C2MBVFUYTE",
           "supplierRoomName": "Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEGI4DGMJSGA3DINTGG42TMMRWMM3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZTG7BZGYZTIOJDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Apartment, 1 Bedroom(1 Double Bed and 1 Double Sofa Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEGI4DGMJSGA3DINTGG42TMMRWMM3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GMYXYOJXGM3DGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
           "supplierRoomName": "Apartment, 1 Bedroom(1 Double Bed and 1 Double Sofa Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEMBWGI3DKNRUG4ZDMZRWMY3GIMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7CSIZHHYMRQGI2DANJRGR6DEML4HE3TIMRSENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
           "supplierRoomName": "1 Bedroom apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGMYS2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BVPQ4TSMBWGYRVETZDJZJEMTRDGIYDEMRNGAYS2MBR",
           "supplierRoomName": "Executive Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42HYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMNJQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQ4XYOJZGU4TOI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
           "supplierRoomName": "One Bedroom Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYMRTPQYTAMBWGM4SGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
           "supplierRoomName": "Apartment - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQG4ZTONBWGE3GKNRUGYYTOMRWGR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCM34GI2HYMJQGEZTOMZDKJHSGUSGJYRTEMBSGQWTANJNGEZQ",
           "supplierRoomName": "APARTMENT STANDARD - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZDM7BRGAZDMNRYENJE6I2SIZHCGMRQGI2C2MBVFUYTI",
           "supplierRoomName": "APARTMENT ONE BEDROOM - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEGI4DGMJSGA3DINTGG42TMMRWMM3DKMRQGYZDMNJWGQZDANRRGZSTMNBSGAZTCMRQGY2DMZRXGU3DENTDGY2TEMBXGM3GMNRWGYYTEMBWGI3DKNRUGI4XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZHYMJQGMYDIMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
           "supplierRoomName": "Executive Apartment, 1 Bedroom(1 Double Bed and 1 Double Sofa Bed) - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TIMTDGIYDGMJSGA3DENRVGY2DOMRWMY3GMNTEPQYSGMRQGI2DANJRG56DEMBSGQYDKMJZPRSW4X2VKN6ESVD4IVKVE7BSIEYEG7BSGI4DG7CVGJLFQ4T4GE3TAOJRGI4DOOJUHE3TE42MKNKSGMJYHAZDQNZDGQ4DELJRHA4DEOBXPRHFERSOPQZDAMRUGAZDENZRGM2TS7BSGZ6DCMBTGA2DAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
           "supplierRoomName": "Executive Apartment, 1 Bedroom - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGJSDEMBTGEZGINRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3DSNTFGIYDONBWHA3DKMRQGYZDMNJWGQ3TENTGGZTDMZBSGA3DCNTFGY2DEMBXGA3TKNTDGZRTEZBWMY3TKNZUGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRQGY4TMZJSGA3TINRYGY2TEMBWMM3DSNZWGY4TMZJWG4ZGINZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DCOJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTK7BRGA2TENRQENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "1-Bedroom Executive - 1-bedroom apartment\nDouble bed in the bedroom and pull-out sofa bed in the living-room - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGA3TENTGGZSDMZRSGAZTEMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRGJ6DCMBWGQZTOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "One Bedroom Apartment Executive Promo 20 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEMBWGI3DKNRUG4ZDMZRWMY3GIMRQGJSDEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGAZDENL4HB6DCMBYGY4TII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
           "supplierRoomName": "Apartment 1 bedroom - Executive - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GYYTOMBWGE3TENZUGZSDMNJWMU3TIMRQGMYTEMBWGI3DKNRUG4ZDMZRWMY3GIMRQGJSDEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2XYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRVPQZDQ7BRGA4TOOJQENJE6I2OKJDE4IZSGAZDILJQGIWTENI",
           "supplierRoomName": "Apartment 1 bedroom - Executive - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GMYTEZBWGI3DKNRUG4ZDMZRWMY3GIMRQGY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGJSDEMBTGEZGINRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DAYJWGQ3GMNZVGYZDMYZWGUZDANRSGY2TMNBSGA3DSNTFGIYDONBWHA3DKMRQGYZDMNJWGQ3TENTGGZTDMZBSGA3DCNTFGY2DEMBXGA3TKNTDGZRTEZBWMY3TKNZUGIYDOMZWMY3DMNRRGIYDMMRWGU3DIMRQGY4TMZJSGA3TINRYGY2TEMBWMM3DSNZWGY4TMZJWG4ZGINZSGZTDMZRWMR6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DCOJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTA7BRGEYDQMRYENJE6I2OKJDE4IZSGAZDELJQGEWTAMI",
           "supplierRoomName": "1-Bedroom Executive - 1-bedroom apartment\nDouble bed in the bedroom and pull-out sofa bed in the living-room - ROOM ONLY"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GZTDMZJWGUZDANRSGY2TMNBXGI3GMNTGGZSDEMBWGE3TANRRG4ZDONBWMQ3DKNTFG42DEMBWGU3TQNRVGYZTONJXGQ3DSNZWGY2TEMBXGA3TENTGGZSDMZRSGAZTCMZQGIYDEZBSGA3GKNTGGZSTEMBXGI3DKNRWG42TMZJWGQ3DCNRSGZRTMNL4GERTEMBSGQYDKMJXPQZDAMRUGA2TCOL4MVXF6VKTPREVI7CFKVJHYMSBGBBXYMRSHAZXYVJSKZMHE7BRG4YDSMJSHA3TSNBZG4ZHGTCTKURTCOBYGI4DOIZTGM4C2MJYHAZDQN34JZJEMTT4GIYDEMRQGEYDC7BRGR6DCMJSGA3DMI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
           "supplierRoomName": "One Bedroom Apartment Executive Promo 10 - Non Refundable - Room Only"
         },
         {
-          "cleanSupplierRoomName": "apartment",
-          "similarity": 1.0000001192092896,
-          "supplierId": "nuitee",
+          "cleanRoomName": "apartment",
+          "matchAttributes": {
+            "bedTypes": true,
+            "matchedAmenities": true,
+            "matchedRoomCategory": true,
+            "matchedRoomType": true,
+            "matchedView": true
+          },
+          "pass": "First Pass",
+          "roomDescription": {
+            "amenities": [
+              "unknown"
+            ],
+            "bedType": [
+              "unknown"
+            ],
+            "board": "unknown",
+            "roomCategory": "unknown",
+            "roomType": "apartment",
+            "view": "unknown"
+          },
           "supplierRoomId": "GY2TOOBWGU3DGNZVG42DMOJXGY3DKMRQGYYTOMBWGE3TENZUGZSDMNJWMU3TI7BREMZDAMRUGA2TCN34GIYDENBQGUYTS7DFNZPVKU34JFKHYRKVKJ6DEQJQIN6DEMRYGN6FKMSWLBZHYMJXGA4TCMRYG44TIOJXGJZUYU2VEMYTQOBSHA3SGMZYGEWTCOBYGI4DO7COKJDE47BSGAZDEMBRGAYXYMRZPQYTCNBVGU4CGUSPENHFERSOEMZDAMRSFUYDCLJQGE",
           "supplierRoomName": "Executive Apartment - Room Only"
         }
       ],
       "propertyId": "220016",
       "propertyName": "Citadines Saint-Germain-des-Pr\u00e9s Paris",
-      "roomDescription": "",
+      "roomDescription": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "apartment",
+        "view": "unknown"
+      },
       "roomId": "66849",
       "roomName": "Apartment (4 Adults)"
     }
   ],
-  "Unmapped": [
+  "UnmappedRooms": [
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTA7BUGM4TCNBDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDA7BUGQZDINZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYTSSIZHHYMRQGIZDAMJQGF6DC7BUGYZDONZDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4HYNBXG42DOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GZ6DINZXGYZCGUSPENHFERSOEMZDAMRUFUYDELJSGQ",
+      "supplierRoomName": "STUDIO Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGAZDENL4GF6DIOBRGM3SGUSPENHFERSOEMZDAMRUFUYDELJSGU",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMZRFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQ2HYNBZGY3DAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMBVFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGUYDAMBQPQ2HYNJQGUZTSI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQYTC7BVGEYTINJDKJHSGTSSIZHCGMRQGIZC2MBRFUYDC",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJZFUYTQOBSHA3XYTSSIZHHYVCEPQYXYNJRGUZDOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQZDC7BVGQYTGMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDO",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIOBSFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4GE4XYNJUGY3TGI2SJ4RVERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMZYFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNJVGE2TGI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSG4YTGNJZPQ4XYNJVGI4TSI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRUGE3DAMD4GEZHYNJVG4YDGI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
+      "supplierRoomName": "STUDIO Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMMRQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDEMRZGEYDAMD4G56DKNJYGU2CGUSPENJEMTRDGIYDENBNGAZC2MRX",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTDEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTMMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCMZRGYYDA7BTPQ2TKOBXGERVETZDKJDE4IZSGAZDILJQGUWTCMY",
+      "supplierRoomName": "STUDIO Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCM34GJ6DKNRSG4YCGUSPENJEMTRDGIYDENBNGA2S2MJT",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GEZXYNJWGU4TOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGOBRFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJTPQ2HYNJWHAZTQI2SJ4RVERSOEMZDAMRUFUYDKLJRGM",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNJSGE2TS7BRGJ6DKNRYGYYCGUSPENJEMTRDGIYDENBNGA2S2MJV",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GIZXYNJXGAZTAI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56E4USGJZ6DEMBSGIYDCMBRPQ2XYNJZGY2DOI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "G4ZTONBXGU3DINRZGZTHYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTMNJQFUYTQOBSHA3XYUSGJZ6DEMBSGQYDKMJUPQZXYNRQGY4DQI2SJ4RVERSOEMZDAMRUFUYDKLJRGQ",
+      "supplierRoomName": "Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMZRFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQZHYNRUGA3TCI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMBVFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGUYDAMBQPQZHYNRVGIYDII2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRHFERSOPQZDAMRSGAYTAML4GE2XYNRVHEZDSI2SJ4RU4USGJYRTEMBSGIWTAMJNGAYQ",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCOJNGE4DQMRYG56E4USGJZ6FIRD4GJ6DMOBUG42CGUSPENHFERSOEMZDAMRUFUYDELJSG4",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTCLJRHA4DEOBXPRJEMTT4GIYDENBQGUYTKMRRGU4XYMJUPQ3TGMRXGARVETZDKJDE4IZSGAZDILJQGUWTCNI",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56E4USGJZ6DEMBSGQYDEMRXGEZTKOL4GI2HYNZUGI3TOI2SJ4RU4USGJYRTEMBSGQWTAMRNGI3Q",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEM2DQMRNGE4DQMRYG56FERSOPQZDAMRUGAZDEOJRGAYDA7BSGJ6DONJQGE4CGUSPENJEMTRDGIYDENBNGAZC2MRX",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "studio room",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "unknown",
+        "roomCategory": "unknown",
+        "roomType": "studio room",
+        "view": "unknown"
+      },
+      "supplierId": "nuitee",
+      "supplierRoomId": "GY2DMNJWMM3TKNZYGY2TEMBXGM3TINZVGY2DMOJWMZ6DCIZSGAZDIMBVGE3XYMRQGI2DANJRHF6GK3S7KVJXYSKUPRCVKUT4GJATAQ34GIZDQM34KUZFMWDSPQYTOMBZGEZDQNZZGQ4TOMTTJRJVKIZRHA4DEOBXEMZTQMJNGE4DQMRYG56FERSOPQZDAMRUGA2TCNL4GEZXYNZYGQ3DAI2SJ4RVERSOEMZDAMRUFUYDKLJRGU",
+      "supplierRoomName": "Deluxe Studio - Room Only"
+    },
+    {
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMZRFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQYXYOBRGU4TCI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2A",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMBVFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGUYDAMBQPQYXYOBTGAZTMI2SJ4RU4USGJYRTEMBSGQWTAMRNGI2Q",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMZRFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQZXYMJQGA2DMMBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDI",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMBVFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGUYDAMBQPQZXYMJQGIZDGOBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDK",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMZRFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQ2XYMJRGIZDOOBDKJHSGTSSIZHCGMRQGI2C2MBSFUZDI",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTGNRRFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGQYTMMBQPQ4XYMJRGQZDKNZDKJHSGTSSIZHCGMRQGI2C2MBSFUZDI",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
     },
     {
-      "cleanSupplierRoomName": "promotion agl1 room only",
-      "closestMatch": "studio",
-      "similarity": 0.3358265459537506,
+      "cleanRoomName": "promotion agl1 room only",
+      "normalizedRoom": {
+        "amenities": [
+          "unknown"
+        ],
+        "bedType": [
+          "unknown"
+        ],
+        "board": "room only",
+        "roomCategory": "unknown",
+        "roomType": "unknown",
+        "view": "unknown"
+      },
       "supplierId": "nuitee",
       "supplierRoomId": "G4YDOMRWMY3GINTGG42DMOJWMY3GKMRQGJSDEMBWGE3DONTDGMYXYMJDGIYDENBQGUYTO7BSGAZDIMBVGE4XYZLOL5KVG7CJKR6EKVKSPQZECMCDPQZDEOBTPRKTEVSYOJ6DCNZQHEYTEOBXHE2DSNZSONGFGVJDGE4DQMRYG4RTIMBVFUYTQOBSHA3XYTSSIZHHYMRQGI2DAMRSGUYDAMBQPQ2XYMJRGQZDMNRDKJHSGTSSIZHCGMRQGI2C2MBSFUZDK",
       "supplierRoomName": "Promotion - AGL1 - Room Only"
