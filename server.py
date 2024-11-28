@@ -32,7 +32,8 @@ def clean_text(room_name):
         'rom': 'romantic', 'honeymn': 'honeymoon', 'biz': 'business class', 'prm': 'premium',
         'btq': 'boutique', 'hist': 'historic', 'mod': 'modern', 'high-rise': 'high floor',
         'low-rise': 'low floor', 'ground floor': 'low floor', 'with a view': 'balcony',
-        'disability access': 'accessible'
+        'disability access': 'accessible',
+        'breakfast buffet': 'breakfast included'
     }
 
     # Synonyms normalization
